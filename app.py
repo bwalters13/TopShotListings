@@ -301,4 +301,5 @@ def update_figure(selected_player, serial_range, price_range, filter_deals):
     prange = 'You have selected {}-{}'.format(*price_range)
     srange = 'You have selected {}-{}'.format(*serial_range)
     return fig, low_ask, srange, prange
-app.run_server(debug=False, use_reloader=False)  # Turn off reloader if inside Jupyter
+if __name__ == '__main__':
+    app.run_server(debug=True)
