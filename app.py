@@ -212,8 +212,11 @@ def jersey_num(pid):
             }
           }
         }
-
-
+      }
+    }
+    """ % pid
+    js = execute(query)
+    return js['data']['searchMintedMoments']['data']['searchSummary']['data']['data'][0]['play']['stats']['jerseyNumber']
 
 
 base = base_set()
