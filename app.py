@@ -222,6 +222,7 @@ def jersey_num(pid):
 base = base_set()
 
 app = dash.Dash()
+server = app.server
 app.layout = html.Div([
     dcc.Graph(id='player-graph'),
     dcc.Checklist(
