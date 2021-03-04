@@ -183,6 +183,7 @@ app.layout = html.Div(children=[
                                 className="div-for-dropdown",
                                 style={'fontColor':'white'},
                                 children=[
+                                    dcc.Store(id='player-df'),
                                     dcc.Dropdown(
                                         id='moment-drop',
                                         style={'color':'white'},
@@ -335,6 +336,49 @@ app.layout = html.Div(children=[
     )
     ]
 )
+
+# @app.callback(
+#     Output("price-slider", "value"),
+#     [Input("price-min-value", "value"), Input("price-max-value", "value")]
+# )
+# def custom_slider(minimum, maximum, vals):
+#     print(vals)
+#     if minimum >= 0 and maximum:
+#         return [int(minimum), int(maximum)]
+#     else:
+#         return [0,15000]
+
+
+# @app.callback(
+#     Output("serial-slider", "value"),
+#     [Input("slider-min-value", "value"), Input("slider-max-value", "value")]
+# )
+# def custom_prange(minimum, maximum):
+#     if minimum >= 0 and maximum:
+#         return [int(minimum), int(maximum)]
+#     else:
+#         return [0,15000]
+
+@app.callback(Output("player-df", "data"),
+              Input("moment-drop", "value")
+)
+def get_df(moment):
+    df = get_listings(moment)
+    return df.to_dict('records')
+
+
+@app.callback(
+    Output("serial-slider", "max"),
+    Output("serial-slider", "marks"),
+    Input("moment-drop", "value")
+)
+def get_serial_max(moment):
+    if not moment:
+        raise PreventUpdate
+    cc = round_up(base[base['id'] == moment]['circ_count'].values[0], -1)
+    marks = {x: str(x) for x in range(0,cc, cc//5)}
+    return cc, marks
+
 @app.callback(
     Output("price-min-value", "value"),
     Output("price-max-value", "value"),
@@ -354,7 +398,7 @@ def callback_price(input_value_min, input_value_max, slider_values):
         return value, slider_values[1], [value, slider_values[1]]
     else:
         value = slider_values
-        return value[0], value[1], value
+        return *slider_values, slider_values
     
 @app.callback(
     Output("serial-min-value", "value"),
@@ -375,26 +419,21 @@ def callback_serial(input_value_min, input_value_max, slider_values):
         return value, slider_values[1], [value, slider_values[1]]
     else:
         value = slider_values
-        return value[0], value[1], value
+        return *slider_values, slider_values
     
-@app.callback(
-    Output("serial-slider", "max"),
-    Output("serial-slider", "marks"),
-    Input("moment-drop", "value")
-)
-def get_serial_max(moment):
-    cc = round_up(base[base['id'] == moment]['circ_count'].values[0], -1)
-    marks = {x: str(x) for x in range(0,cc, cc//5)}
-    return cc, marks
+
+
     
 
 @app.callback(
     Output("histogram", "figure"),
-    Input("moment-drop", "value")
+    Input("player-df", "data")
 )
 
 def get_histogram(selected_moment):
-    df = get_listings(selected_moment)
+    if not selected_moment:
+        raise PreventUpdate
+    df = pd.DataFrame(selected_moment)
     fig = px.violin(df, x='price')
     fig.update_layout(plot_bgcolor="black", paper_bgcolor='black',
                       font=dict(color='white'))
@@ -406,7 +445,7 @@ def get_histogram(selected_moment):
     Output('lowest ask', 'children'),
     Output('serial-output', 'children'),
     Output('price-output', 'children'),
-    Input('moment-drop', 'value'),
+    Input('player-df', 'data'),
     Input('serial-slider', 'value'),
     Input('price-slider', 'value'),
     Input('filter', 'value')
@@ -414,8 +453,7 @@ def get_histogram(selected_moment):
 )
 
 def update_figure(selected_player, serial_range, price_range, filter_deals):
-    print(selected_player)
-    df = get_listings(selected_player)
+    df = pd.DataFrame(selected_player)
     if 'filter' in filter_deals:
         df = filter_listings(df)
     if 'log' in filter_deals:
