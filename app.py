@@ -185,7 +185,8 @@ app.layout = html.Div(children=[
                                             {'label': y['play'], 'value': y['id']}
                                             for _, y in base.iterrows()
                                         ],
-                                        value="03acc4a7-9301-46a2-8fb9-75affab7ee59"
+                                        value="03acc4a7-9301-46a2-8fb9-75affab7ee59",
+                                        optionHeight=80
                                         
                                     )
                                 ],
@@ -335,8 +336,9 @@ app.layout = html.Div(children=[
     [Input("price-min-value", "value"), Input("price-max-value", "value")]
 )
 def custom_slider(minimum, maximum):
-    if minimum >= 0 and maximum:
-        return [int(minimum), int(maximum)]
+    if minimum or maximum:
+        if minimum and not maximum:
+            return [int(minimum), 15000]
     else:
         return [0,15000]
 
