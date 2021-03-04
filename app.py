@@ -177,7 +177,7 @@ app.layout = html.Div(children=[
                         ),
                         html.H2("TOPSHOT LISTINGS APP"),
                         html.P(
-                            """Select a moment"""
+                            """Select a moment or type in a query below"""
                         ),
                         html.Div(
                                 className="div-for-dropdown",
