@@ -454,7 +454,7 @@ def get_histogram(selected_moment):
 
 def update_figure(selected_player, serial_range, price_range, filter_deals):
     df = pd.DataFrame(selected_player)
-    df = df.loc[(df.serial.between(min_serial, max_serial, inclusive=True)) & (df.price.between(min_price, max_price, inclusive=True))]
+    df = df.loc[(df.serial.between(*serial_range, inclusive=True)) & (df.price.between(*price_range, inclusive=True))]
     if 'filter' in filter_deals:
         df = filter_listings(df)
     if 'log' in filter_deals:
