@@ -199,11 +199,11 @@ app.layout = html.Div(children=[
                                children=[
                                    html.Label('Select a Serial Range',
                                               style={'font-weight': 'bold', 'padding': '2px', 'font-size': '20px'}),
-                                             html.Div(
-                                       style={'width': '100%', 'float': 'left', 'marginRight': 2, 'marginLeft': 2},
+                                   html.Div(
+                                       style={'width': '175%', 'float': 'left', 'marginRight': 2, 'marginLeft': 2, "display": "grid", "grid-template-columns": "10% 40% 10%"},
                                        children=[
                                            
-                                           # dcc.Input(id='slider-min-value', size='10',type='number', placeholder='Min'), 
+                                           dcc.Input(id='serial-min-value', size='10',type='number', placeholder='Min'), 
                                            dcc.RangeSlider(
                                                 id='serial-slider',
                                                 min=0,
@@ -214,7 +214,7 @@ app.layout = html.Div(children=[
                                                 value=[0,15000],
                                             
                                             ),
-                                           # dcc.Input(id='slider-max-value', size='10', type='number', placeholder='Max')
+                                           dcc.Input(id='serial-max-value', size='10', type='number', placeholder='Max')
                                        ]
                                    ),
                                    # html.Div(
@@ -246,20 +246,20 @@ app.layout = html.Div(children=[
                                    html.Label('Select a Price Range',
                                               style={'font-weight': 'bold', 'padding': '2px', 'font-size': '20px'}),
                                    html.Div(
-                                       style={'width': '100%', 'float': 'left', 'marginRight': 2, 'marginLeft': 2},
+                                       style={'width': '175%', 'float': 'left', 'marginRight': 2, 'marginLeft': 2, "display": "grid", "grid-template-columns": "10% 40% 10%"},
                                        children=[
-                                           # dcc.Input(id='price-min-value', size='10',type='number', placeholder='Min'), 
+                                           dcc.Input(id='price-min-value', size='10',type='number', placeholder='Min'), 
                                            dcc.RangeSlider(
                                                 id='price-slider',
                                                 min=0,
-                                                max=200000,
+                                                max=50000,
                                                 step=50,
                                                 marks={x:str(x)
-                                                       for x in range(0, 200001, 50000)},
+                                                       for x in range(0, 50001, 10000)},
                                                 value=[0,15000]
                                             
                                             ),
-                                           # dcc.Input(id='price-max-value', size='10', type='number', placeholder='Max')
+                                           dcc.Input(id='price-max-value', size='10', type='number', placeholder='Max')
                                        ]
                                    ),
                                ]
@@ -330,28 +330,49 @@ app.layout = html.Div(children=[
     )
     ]
 )
-
 @app.callback(
+    Output("price-min-value", "value"),
+    Output("price-max-value", "value"),
     Output("price-slider", "value"),
-    [Input("price-min-value", "value"), Input("price-max-value", "value")]
+    Input("price-min-value", "value"),
+    Input("price-max-value", "value"),
+    Input("price-slider", "value"),
 )
-def custom_slider(minimum, maximum):
-    if minimum or maximum:
-        if minimum and not maximum:
-            return [int(minimum), 15000]
+def callback_price(input_value_min, input_value_max, slider_values):
+    ctx = dash.callback_context
+    trigger_id = ctx.triggered[0]["prop_id"].split(".")[0]
+    if trigger_id == "price-max-value":
+        value = input_value_max
+        return slider_values[0], value, [slider_values[0], value]
+    elif trigger_id == "price-min-value":
+        value = input_value_min
+        return value, slider_values[1], [value, slider_values[1]]
     else:
-        return [0,15000]
-
-
+        value = slider_values
+        return *slider_values, slider_values
+    
 @app.callback(
+    Output("serial-min-value", "value"),
+    Output("serial-max-value", "value"),
     Output("serial-slider", "value"),
-    [Input("slider-min-value", "value"), Input("slider-max-value", "value")]
+    Input("serial-min-value", "value"),
+    Input("serial-max-value", "value"),
+    Input("serial-slider", "value"),
 )
-def custom_prange(minimum, maximum):
-    if minimum >= 0 and maximum:
-        return [int(minimum), int(maximum)]
+def callback_serial(input_value_min, input_value_max, slider_values):
+    ctx = dash.callback_context
+    trigger_id = ctx.triggered[0]["prop_id"].split(".")[0]
+    if trigger_id == "serial-max-value":
+        value = input_value_max
+        return slider_values[0], value, [slider_values[0], value]
+    elif trigger_id == "serial-min-value":
+        value = input_value_min
+        return value, slider_values[1], [value, slider_values[1]]
     else:
-        return [0,15000]
+        value = slider_values
+        return *slider_values, slider_values
+    
+
 
 @app.callback(
     Output("histogram", "figure"),
