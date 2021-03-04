@@ -81,8 +81,7 @@ def get_listings(pid):
     return df
 
 
-def plot_listings(df, min_price, max_price, min_serial, max_serial, log_x=False):
-    df = df.loc[(df.serial.between(min_serial, max_serial, inclusive=True)) & (df.price.between(min_price, max_price, inclusive=True))]
+def plot_listings(df, log_x=False):
     fig = go.Figure()
     fig.add_trace(go.Scatter(
     x=df['price'], y=df['serial'],
@@ -455,12 +454,13 @@ def get_histogram(selected_moment):
 
 def update_figure(selected_player, serial_range, price_range, filter_deals):
     df = pd.DataFrame(selected_player)
+    df = df.loc[(df.serial.between(min_serial, max_serial, inclusive=True)) & (df.price.between(min_price, max_price, inclusive=True))]
     if 'filter' in filter_deals:
         df = filter_listings(df)
     if 'log' in filter_deals:
-         fig = plot_listings(df, *price_range, *serial_range, True)
+         fig = plot_listings(df, True)
     else:
-        fig = plot_listings(df, *price_range, *serial_range)
+        fig = plot_listings(df)
     low = df.loc[df.price == df.price.min(), ['price', 'serial']]
     low_ask = "Price: {}, Serial: {}".format(low.price.min(), low.serial.min())
     prange = 'You have selected ${}-${}'.format(*price_range)
