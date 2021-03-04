@@ -3,7 +3,7 @@ plotly==4.13.0
 dash_core_components==1.13.0
 requests==2.25.1
 dash==1.19.0
-dash_html_components==1.1.1
+dash_html_components==1.1.2
 numpy== 1.18.2
 Flask==1.1.1
 Flask-Compress==1.4.0
