@@ -399,7 +399,7 @@ def callback_price(input_value_min, input_value_max, slider_values):
         return value, slider_values[1], [value, slider_values[1]]
     else:
         value = slider_values
-        return *slider_values, slider_values
+        return slider_values[0], slider_values[1], slider_values
     
 @app.callback(
     Output("serial-min-value", "value"),
@@ -420,7 +420,7 @@ def callback_serial(input_value_min, input_value_max, slider_values):
         return value, slider_values[1], [value, slider_values[1]]
     else:
         value = slider_values
-        return *slider_values, slider_values
+        return slider_values[0], slider_values[1], slider_values
     
 
 
