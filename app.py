@@ -17,6 +17,7 @@ import requests
 import datetime
 import plotly.express as px
 import math
+from dash.exceptions import PreventUpdate
 
 def round_up(n, decimals=0):
     multiplier = 10 ** decimals
