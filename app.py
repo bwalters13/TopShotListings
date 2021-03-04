@@ -16,6 +16,11 @@ import json
 import requests
 import datetime
 import plotly.express as px
+import math
+
+def round_up(n, decimals=0):
+    multiplier = 10 ** decimals
+    return int(math.ceil(n * multiplier) / multiplier)
 
 
 
@@ -372,7 +377,16 @@ def callback_serial(input_value_min, input_value_max, slider_values):
         value = slider_values
         return value[0], value[1], value
     
-
+@app.callback(
+    Output("serial-slider", "max"),
+    Output("serial-slider", "marks"),
+    Input("moment-drop", "value")
+)
+def get_serial_max(moment):
+    cc = round_up(base[base['id'] == moment]['circ_count'].values[0], -1)
+    marks = {x: str(x) for x in range(0,cc, cc//5)}
+    return cc, marks
+    
 
 @app.callback(
     Output("histogram", "figure"),
