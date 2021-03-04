@@ -153,7 +153,9 @@ def jersey_num(pid):
 
 base = pd.read_csv('https://raw.githubusercontent.com/bwalters13/TopShotListings/main/moment_data.csv')
 
-app = dash.Dash()
+app = dash.Dash(
+    __name__, meta_tags=[{"name": "viewport", "content": "width=device-width"}]
+)
 server = app.server
 app.layout = html.Div(children=[
     html.Div(
