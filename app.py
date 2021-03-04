@@ -199,11 +199,11 @@ app.layout = html.Div(children=[
                                children=[
                                    html.Label('Select a Serial Range',
                                               style={'font-weight': 'bold', 'padding': '2px', 'font-size': '20px'}),
-                                   html.Div(
-                                       style={'width': '175%', 'float': 'left', 'marginRight': 2, 'marginLeft': 2, "display": "grid", "grid-template-columns": "10% 40% 10%"},
+                                             html.Div(
+                                       style={'width': '100%', 'float': 'left', 'marginRight': 2, 'marginLeft': 2},
                                        children=[
                                            
-                                           dcc.Input(id='slider-min-value', size='10',type='number', placeholder='Min'), 
+                                           # dcc.Input(id='slider-min-value', size='10',type='number', placeholder='Min'), 
                                            dcc.RangeSlider(
                                                 id='serial-slider',
                                                 min=0,
@@ -214,7 +214,7 @@ app.layout = html.Div(children=[
                                                 value=[0,15000],
                                             
                                             ),
-                                           dcc.Input(id='slider-max-value', size='10', type='number', placeholder='Max')
+                                           # dcc.Input(id='slider-max-value', size='10', type='number', placeholder='Max')
                                        ]
                                    ),
                                    # html.Div(
@@ -246,9 +246,9 @@ app.layout = html.Div(children=[
                                    html.Label('Select a Price Range',
                                               style={'font-weight': 'bold', 'padding': '2px', 'font-size': '20px'}),
                                    html.Div(
-                                       style={'width': '175%', 'float': 'left', 'marginRight': 2, 'marginLeft': 2, "display": "grid", "grid-template-columns": "10% 40% 10%"},
+                                       style={'width': '100%', 'float': 'left', 'marginRight': 2, 'marginLeft': 2},
                                        children=[
-                                           dcc.Input(id='price-min-value', size='10',type='number', placeholder='Min'), 
+                                           # dcc.Input(id='price-min-value', size='10',type='number', placeholder='Min'), 
                                            dcc.RangeSlider(
                                                 id='price-slider',
                                                 min=0,
@@ -259,7 +259,7 @@ app.layout = html.Div(children=[
                                                 value=[0,15000]
                                             
                                             ),
-                                           dcc.Input(id='price-max-value', size='10', type='number', placeholder='Max')
+                                           # dcc.Input(id='price-max-value', size='10', type='number', placeholder='Max')
                                        ]
                                    ),
                                ]
