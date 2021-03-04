@@ -1,0 +1,1153 @@
+id,stats.playerName,stats.playerID,stats.jerseyNumber,stats.playCategory,stats.dateOfMoment,date,set name,play,circ_count
+6e329c4e-bef5-47b0-ab80-d65df7c7179d,James Harden,201935,13,Assist,2021-01-23T00:30:00Z,2021-01-22,Holo Icon,James Harden Assist 2021-01-22 Holo Icon (Series 2),3
+ff51b06a-a677-49f4-98df-9848851ede84,Trae Young,1629027,11,3 Pointer,2021-01-21T00:30:00Z,2021-01-20,Holo Icon,Trae Young 3 Pointer 2021-01-20 Holo Icon (Series 2),58
+2a7e80bd-31fd-4a47-b54e-3569658f49c5,Anthony Davis,203076,3,Jump Shot,2021-01-24T02:00:00Z,2021-01-23,Holo Icon,Anthony Davis Jump Shot 2021-01-23 Holo Icon (Series 2),99
+6c3c0ff8-9a2c-436c-97af-18eb1f74bd5e,Russell Westbrook,201566,4,Layup,2020-12-27T00:00:00Z,2020-12-26,Holo Icon,Russell Westbrook Layup 2020-12-26 Holo Icon (Series 2),99
+0442d216-482b-4a65-930f-159638f5ac4e,Gordon Hayward,202330,20,Layup,2021-01-25T00:00:00Z,2021-01-24,Holo Icon,Gordon Hayward Layup 2021-01-24 Holo Icon (Series 2),99
+4be78669-dc48-4633-bcde-2b75fd9cab15,T.J. Warren,203933,1,Layup,2020-12-27T01:00:00Z,2020-12-26,Holo Icon,T.J. Warren Layup 2020-12-26 Holo Icon (Series 2),99
+01d7f563-deeb-438d-9a3d-78bc02016987,Victor Oladipo,203506,7,Layup,2021-01-23T00:00:00Z,2021-01-22,Holo Icon,Victor Oladipo Layup 2021-01-22 Holo Icon (Series 2),99
+94f7faee-a703-4d97-9690-082c8c9fd204,Buddy Hield,1627741,24,3 Pointer,2021-01-23T03:00:00Z,2021-01-22,Holo Icon,Buddy Hield 3 Pointer 2021-01-22 Holo Icon (Series 2),99
+0f282810-306a-4a43-b29d-c3aea6a1c036,Kawhi Leonard,202695,2,Jump Shot,2021-01-24T21:00:00Z,2021-01-24,Holo Icon,Kawhi Leonard Jump Shot 2021-01-24 Holo Icon (Series 2),99
+43b34f3c-b644-47ae-aefa-50d3cd3d4f87,Kyle Lowry,200768,7,Jump Shot,2021-01-17T00:30:00Z,2021-01-16,Holo Icon,Kyle Lowry Jump Shot 2021-01-16 Holo Icon (Series 2),99
+62872dbb-4051-45b5-b51f-2cc16fb7c2c8,Steph Curry,201939,30,3 Pointer,2021-01-24T02:00:00Z,2021-01-23,Holo Icon,Steph Curry 3 Pointer 2021-01-23 Holo Icon (Series 2),99
+0e2ea06e-57f4-4104-8719-3b38375acaeb,Carmelo Anthony,2546,00,Jump Shot,2021-01-18T20:00:00Z,2021-01-18,Holo Icon,Carmelo Anthony Jump Shot 2021-01-18 Holo Icon (Series 2),99
+fc3e8c9c-a51d-47fd-a39d-0d49eab4bc9b,Brandon Ingram,1627742,14,Dunk,2021-01-22T03:00:00Z,2021-01-21,Holo Icon,Brandon Ingram Dunk 2021-01-21 Holo Icon (Series 2),99
+4653c3cd-0d18-4112-a1cf-4839b903440f,Malik Beasley,1627736,5,Layup,2021-01-24T01:00:00Z,2021-01-23,Holo Icon,Malik Beasley Layup 2021-01-23 Holo Icon (Series 2),99
+89bc0b90-12f9-4a61-9388-4db0104cce49,Dejounte Murray,1627749,5,Jump Shot,2021-01-21T03:00:00Z,2021-01-20,Holo Icon,Dejounte Murray Jump Shot 2021-01-20 Holo Icon (Series 2),99
+366697ea-203e-43a3-b55d-56781e85ff5b,Tobias Harris,202699,12,Assist,2021-01-17T01:00:00Z,2021-01-16,Holo Icon,Tobias Harris Assist 2021-01-16 Holo Icon (Series 2),99
+6e546941-e974-45fd-9a4c-947a1644264f,Coby White,1629632,0,Layup,2021-01-23T00:00:00Z,2021-01-22,Holo Icon,Coby White Layup 2021-01-22 Holo Icon (Series 2),99
+ef08977c-3ba6-4280-ace2-de66934421f5,Rudy Gobert,203497,27,Block,2021-01-22T03:00:00Z,2021-01-21,Holo Icon,Rudy Gobert Block 2021-01-21 Holo Icon (Series 2),99
+3c9dfcc6-7f4f-4e66-a30e-836aa634787c,Jrue Holiday,201950,21,3 Pointer,2020-12-30T00:30:00Z,2020-12-29,Holo Icon,Jrue Holiday 3 Pointer 2020-12-29 Holo Icon (Series 2),99
+e674f422-4a16-4000-8317-67a5eb2fc66c,Andre Drummond,203083,3,Dunk,2021-01-16T00:30:00Z,2021-01-15,Holo Icon,Andre Drummond Dunk 2021-01-15 Holo Icon (Series 2),99
+3b9945d2-78fe-4f48-8f3b-491ce0029d02,Marcus Smart,203935,36,Steal,2021-01-21T00:00:00Z,2021-01-20,Holo Icon,Marcus Smart Steal 2021-01-20 Holo Icon (Series 2),99
+f4d0b259-25c3-48b6-aae6-e833f1ac9c66,Jerami Grant,203924,9,Dunk,2021-01-19T01:00:00Z,2021-01-18,Holo Icon,Jerami Grant Dunk 2021-01-18 Holo Icon (Series 2),99
+b3f096f7-9820-4720-99c5-ff734286728c,Deandre Ayton,1629028,22,Dunk,2021-01-23T03:00:00Z,2021-01-22,Holo Icon,Deandre Ayton Dunk 2021-01-22 Holo Icon (Series 2),99
+f07290f2-e47a-4f87-a8d2-0dc9406f5cff,Aaron Gordon,203932,00,Dunk,2021-01-21T01:00:00Z,2021-01-20,Holo Icon,Aaron Gordon Dunk 2021-01-20 Holo Icon (Series 2),99
+51cea41f-c77f-46a8-8e3e-bcd22d6fd652,Luguentz Dort,1629652,5,Layup,2021-01-03T00:00:00Z,2021-01-02,Holo Icon,Luguentz Dort Layup 2021-01-02 Holo Icon (Series 2),99
+a1bd26e6-44e0-4547-a687-5592af21f095,Tyler Herro,1629639,14,Layup,2021-01-10T00:00:00Z,2021-01-09,Holo Icon,Tyler Herro Layup 2021-01-09 Holo Icon (Series 2),99
+983be3e5-a04e-4fd6-bad2-9ef93812f4dc,Mitchell Robinson,1629011,23,Dunk,2021-01-05T00:30:00Z,2021-01-04,Holo Icon,Mitchell Robinson Dunk 2021-01-04 Holo Icon (Series 2),99
+a669ace6-d79d-43ce-a218-e29b868e68e2,Kyle Anderson,203937,1,Layup,2021-01-02T00:00:00Z,2021-01-01,Holo Icon,Kyle Anderson Layup 2021-01-01 Holo Icon (Series 2),99
+52c4fdcd-e91a-438a-925b-04abe715b9fc,Tim Hardaway Jr.,203501,11,Layup,2021-01-23T01:30:00Z,2021-01-22,Holo Icon,Tim Hardaway Jr. Layup 2021-01-22 Holo Icon (Series 2),99
+2658ac70-cd4e-4ccc-8527-6f371ead3c94,Derrick Rose,201565,4,Assist,2021-02-10T00:30:00Z,2021-02-09,The Gift,Derrick Rose Assist 2021-02-09 The Gift (Series 2),3480
+951ce905-c2de-4cd5-a8f2-6bcd32a84231,Donovan Mitchell,1628378,45,Assist,2021-01-20T02:00:00Z,2021-01-19,The Gift,Donovan Mitchell Assist 2021-01-19 The Gift (Series 2),8888
+fa1ce954-b447-4645-85f8-a32ee333fb45,Rui Hachimura,1629060,8,Layup,2021-02-03T01:00:00Z,2021-02-02,The Gift,Rui Hachimura Layup 2021-02-02 The Gift (Series 2),8888
+b734ec76-b17a-4aaa-86fd-2766c12a0520,D'Angelo Russell,1626156,0,Layup,2021-01-14T01:00:00Z,2021-01-13,The Gift,D'Angelo Russell Layup 2021-01-13 The Gift (Series 2),8888
+a92ed09c-2703-4174-88ab-664e11006a5a,Jimmy Butler,202710,22,Layup,2021-01-07T00:30:00Z,2021-01-06,The Gift,Jimmy Butler Layup 2021-01-06 The Gift (Series 2),8888
+066a7fea-dc51-4134-82ab-bd00694da9c0,CJ McCollum,203468,3,Jump Shot,2021-01-10T03:00:00Z,2021-01-09,The Gift,CJ McCollum Jump Shot 2021-01-09 The Gift (Series 2),8888
+6962e8b9-2354-499b-be6e-381e9afc5689,Rudy Gobert,203497,27,Dunk,2020-12-24T03:00:00Z,2020-12-23,Season Tip-off,Rudy Gobert Dunk 2020-12-23 Season Tip-off (Series 2),350
+415626f0-b43e-42ce-b58b-7f5bc8dd7512,Paul George,202331,13,Jump Shot,2020-12-23T03:00:00Z,2020-12-22,Season Tip-off,Paul George Jump Shot 2020-12-22 Season Tip-off (Series 2),350
+4c4587e9-9ac4-40e3-b43b-18d2d88cc227,Karl-Anthony Towns,1626157,32,Dunk,2020-12-24T01:00:00Z,2020-12-23,Season Tip-off,Karl-Anthony Towns Dunk 2020-12-23 Season Tip-off (Series 2),350
+ce5fcd63-0bd2-4b40-b7b5-0397c213940b,Buddy Hield,1627741,24,Layup,2020-12-24T02:00:00Z,2020-12-23,Season Tip-off,Buddy Hield Layup 2020-12-23 Season Tip-off (Series 2),350
+5db123b6-ee14-4ac0-9353-c94943fc1584,Zion Williamson,1629627,1,Block,2020-12-24T00:30:00Z,2020-12-23,Season Tip-off,Zion Williamson Block 2020-12-23 Season Tip-off (Series 2),217
+14fe8c8a-6fa2-416a-8d12-9504e7249118,Chris Paul,101108,3,Handles,2020-12-24T03:30:00Z,2020-12-23,Season Tip-off,Chris Paul Handles 2020-12-23 Season Tip-off (Series 2),350
+e7fa0063-f81d-4391-823f-9acb56b2a40f,Aaron Gordon,203932,00,Dunk,2020-12-24T00:00:00Z,2020-12-23,Season Tip-off,Aaron Gordon Dunk 2020-12-23 Season Tip-off (Series 2),350
+e5879a64-c65e-45b8-b0e1-a855dba17105,Ben Simmons,1627732,25,Dunk,2020-12-24T00:00:00Z,2020-12-23,Season Tip-off,Ben Simmons Dunk 2020-12-23 Season Tip-off (Series 2),350
+553ab9de-6584-4af6-80d0-c9f8c0776b1a,Jayson Tatum,1628369,0,3 Pointer,2020-12-24T00:30:00Z,2020-12-23,Season Tip-off,Jayson Tatum 3 Pointer 2020-12-23 Season Tip-off (Series 2),350
+fb87982c-6e02-44a9-96f5-0e94414e3e89,Kyrie Irving,202681,11,Handles,2020-12-23T00:00:00Z,2020-12-22,Season Tip-off,Kyrie Irving Handles 2020-12-22 Season Tip-off (Series 2),350
+f0446f3d-2b4f-4626-a8c9-8ce9d0ff8cd1,Tomáš Satoranský,203107,31,Dunk,2019-11-24T00:00:00Z,2019-11-23,Early Adopters,Tomáš Satoranský Dunk 2019-11-23 Early Adopters (Series 1),1325
+0b2b9e68-d52e-4511-910a-6ea5d37915ac,Karl-Anthony Towns,1626157,32,Dunk,2020-02-01T20:30:00Z,2020-02-01,Early Adopters,Karl-Anthony Towns Dunk 2020-02-01 Early Adopters (Series 1),2983
+b2afd92f-bcf5-494f-9b05-b5a50165d106,Kristaps Porziņģis,204001,6,3 Pointer,2019-12-15T01:30:00Z,2019-12-14,Early Adopters,Kristaps Porziņģis 3 Pointer 2019-12-14 Early Adopters (Series 1),50
+afe889a6-f320-49af-bdde-db9fa2b73255,Alex Caruso,1627936,4,Block,2020-02-26T03:00:00Z,2020-02-25,Early Adopters,Alex Caruso Block 2020-02-25 Early Adopters (Series 1),1530
+13abe3e9-63f4-40ee-bdfe-40cbe0c72a3b,Julius Randle,203944,30,Dunk,2019-11-30T00:30:00Z,2019-11-29,Early Adopters,Julius Randle Dunk 2019-11-29 Early Adopters (Series 1),1325
+e77e11f0-0308-4779-b0b0-1ee62e4a3304,Mike Conley,201144,10,3 Pointer,2019-11-12T03:30:00Z,2019-11-11,Early Adopters,Mike Conley 3 Pointer 2019-11-11 Early Adopters (Series 1),3999
+9de27cfc-02b4-4884-a758-69dcfa61b6c3,Josh Hart,1628404,3,Layup,2020-02-24T01:30:00Z,2020-02-23,Early Adopters,Josh Hart Layup 2020-02-23 Early Adopters (Series 1),3999
+07aa5576-e210-4ec2-81a0-c7405e65a4de,Kevin Huerter,1628989,3,Assist,2020-01-09T00:30:00Z,2020-01-08,Early Adopters,Kevin Huerter Assist 2020-01-08 Early Adopters (Series 1),1253
+41a6a797-7fe9-4ed3-b96c-d0b533248670,Collin Sexton,1629012,2,Dunk,2019-10-30T23:00:00Z,2019-10-30,Early Adopters,Collin Sexton Dunk 2019-10-30 Early Adopters (Series 1),3999
+03f80578-485e-48c2-982c-fc201f434791,Markelle Fultz,1628365,20,Dunk,2019-12-21T03:00:00Z,2019-12-20,Early Adopters,Markelle Fultz Dunk 2019-12-20 Early Adopters (Series 1),1325
+13901146-f010-462e-8261-09962d4ba945,Lonnie Walker,1629022,1,3 Pointer,2019-12-04T01:30:00Z,2019-12-03,Cosmic,Lonnie Walker 3 Pointer 2019-12-03 Cosmic (Series 1),299
+bda6ced4-49f9-47ce-b26e-7ff49462e5e7,Cedi Osman,1626224,16,Assist,2020-02-06T01:00:00Z,2020-02-05,Cosmic,Cedi Osman Assist 2020-02-05 Cosmic (Series 1),299
+bea7b634-2aa5-4e42-a584-682c47488fcc,Pascal Siakam,1627783,43,Block,2019-11-11T02:30:00Z,2019-11-10,Cosmic,Pascal Siakam Block 2019-11-10 Cosmic (Series 1),3999
+f2a3c763-f7ff-4342-a209-44a34cdf1d02,Damian Lillard,203081,0,Dunk,2019-10-24T02:00:00Z,2019-10-23,Cosmic,Damian Lillard Dunk 2019-10-23 Cosmic (Series 1),49
+d012e87f-7aec-4f5d-969b-2af03890ab4f,Zion Williamson,1629627,1,Block,2020-01-25T01:00:00Z,2020-01-24,Cosmic,Zion Williamson Block 2020-01-24 Cosmic (Series 1),192
+de32d3fb-0e6a-447e-b42a-08bbf1607b7d,LeBron James,2544,23,Dunk,2019-11-16T03:30:00Z,2019-11-15,Cosmic,LeBron James Dunk 2019-11-15 Cosmic (Series 1),299
+f1690178-bd14-4ce0-82ab-06e8ecfd690b,Jimmy Butler,202710,22,3 Pointer,2019-12-11T01:00:00Z,2019-12-10,Cosmic,Jimmy Butler 3 Pointer 2019-12-10 Cosmic (Series 1),49
+45c2c7f0-c0f1-4ab8-8d5c-b836dfce41a5,Aaron Gordon,203932,00,Dunk,2020-01-16T03:30:00Z,2020-01-15,Cosmic,Aaron Gordon Dunk 2020-01-15 Cosmic (Series 1),299
+60695463-d3b5-481b-a214-4a81707523be,Reggie Bullock,203493,25,Steal,2020-01-08T03:30:00Z,2020-01-07,Cosmic,Reggie Bullock Steal 2020-01-07 Cosmic (Series 1),3999
+ecac4cfb-38ad-4911-8e2d-1018fe603d6e,Victor Oladipo,203506,4,3 Pointer,2020-01-30T00:00:00Z,2020-01-29,Cosmic,Victor Oladipo 3 Pointer 2020-01-29 Cosmic (Series 1),49
+750ca511-3ee7-4c7f-bba8-ebaa997fe991,Spencer Dinwiddie,203915,8,Jump Shot,2019-11-26T00:00:00Z,2019-11-25,Cosmic,Spencer Dinwiddie Jump Shot 2019-11-25 Cosmic (Series 1),50
+46b46192-21f7-4b69-bf9c-b70eec06f83d,Giannis Antetokounmpo,203507,34,Dunk,2019-11-17T00:00:00Z,2019-11-16,Cosmic,Giannis Antetokounmpo Dunk 2019-11-16 Cosmic (Series 1),50
+de73b804-79ee-42b6-b042-aae1a47b7bec,Vince Carter,1713,15,3 Pointer,2020-03-11T23:30:00Z,2020-03-11,Cosmic,Vince Carter 3 Pointer 2020-03-11 Cosmic (Series 1),49
+f9f9cec9-acbe-42da-8fa1-1c623f095f59,Rui Hachimura,1629060,8,Dunk,2019-11-09T00:00:00Z,2019-11-08,Cosmic,Rui Hachimura Dunk 2019-11-08 Cosmic (Series 1),49
+6aaed757-2d22-44c7-8f64-e7a46ca0c13e,Bojan Bogdanović,202711,44,3 Pointer,2020-02-10T00:00:00Z,2020-02-09,Cosmic,Bojan Bogdanović 3 Pointer 2020-02-09 Cosmic (Series 1),3999
+daed1bad-9d00-4a50-9237-09ba526b8f46,Bismack Biyombo,202687,8,Dunk,2020-01-05T01:30:00Z,2020-01-04,Cosmic,Bismack Biyombo Dunk 2020-01-04 Cosmic (Series 1),3999
+9939a2dc-7c95-4c02-b747-9fee26c9d040,Zach LaVine,203897,8,3 Pointer,2019-11-24T00:00:00Z,2019-11-23,Cosmic,Zach LaVine 3 Pointer 2019-11-23 Cosmic (Series 1),49
+abd4da56-b32e-4b41-baac-728a147a6e73,Jayson Tatum,1628369,0,Handles,2019-11-21T03:00:00Z,2019-11-20,Cosmic,Jayson Tatum Handles 2019-11-20 Cosmic (Series 1),299
+4a5c6bf5-76af-4f35-8db8-204c5039443d,Buddy Hield,1627741,24,Dunk,2019-12-14T03:00:00Z,2019-12-13,Cosmic,Buddy Hield Dunk 2019-12-13 Cosmic (Series 1),50
+e48cf01d-0343-48fd-a4ae-c789633cba11,Ja Morant,1629630,12,Dunk,2019-12-12T02:00:00Z,2019-12-11,Cosmic,Ja Morant Dunk 2019-12-11 Cosmic (Series 1),49
+99bd66dc-3ea3-4333-8fb3-b46c24b688e1,Chris Paul,101108,3,Handles,2020-01-10T02:30:00Z,2020-01-09,Cosmic,Chris Paul Handles 2020-01-09 Cosmic (Series 1),1434
+092685e0-8636-459d-a9d0-9a6c2ce150e6,Nikola Jokić,203999,15,Handles,2019-12-30T01:00:00Z,2019-12-29,Cosmic,Nikola Jokić Handles 2019-12-29 Cosmic (Series 1),1430
+63387e74-299e-4bf3-9811-4e94716dc206,Al Horford,201143,42,Block,2019-12-03T00:00:00Z,2019-12-02,Cosmic,Al Horford Block 2019-12-02 Cosmic (Series 1),299
+681b6cae-7724-4475-a101-b2fb5ca7f516,Marquese Chriss,1627737,32,Dunk,2020-02-09T01:30:00Z,2020-02-08,Cosmic,Marquese Chriss Dunk 2020-02-08 Cosmic (Series 1),49
+e2c09c0f-e04b-45db-9f5f-7cd0e6c5ed2b,Luka Dončić,1629029,77,Dunk,2020-03-12T00:00:00Z,2020-03-11,Cosmic,Luka Dončić Dunk 2020-03-11 Cosmic (Series 1),299
+819762b5-ca6c-4a5c-83d5-e60a30322e52,Kawhi Leonard,202695,2,Dunk,2019-11-21T03:00:00Z,2019-11-20,Cosmic,Kawhi Leonard Dunk 2019-11-20 Cosmic (Series 1),50
+66bd7c42-7111-434c-abef-5f4d8dbfbc20,Svi Mykhailiuk,1629004,19,3 Pointer,2020-01-16T00:00:00Z,2020-01-15,Cosmic,Svi Mykhailiuk 3 Pointer 2020-01-15 Cosmic (Series 1),3999
+c8ad129e-a803-4400-9025-2c4209bd2ed4,D'Angelo Russell,1626156,0,Block,2020-02-27T00:30:00Z,2020-02-26,Cosmic,D'Angelo Russell Block 2020-02-26 Cosmic (Series 1),50
+a9dc398e-c76e-4c8f-ac52-b999222d4110,Devin Booker,1626164,1,Block,2019-11-28T02:00:00Z,2019-11-27,Cosmic,Devin Booker Block 2019-11-27 Cosmic (Series 1),1358
+ba440138-ea39-4337-9ded-7a39641b798a,Eric Gordon,201569,10,Dunk,2019-11-05T01:00:00Z,2019-11-04,Cosmic,Eric Gordon Dunk 2019-11-04 Cosmic (Series 1),49
+2faa8899-3212-48b7-ae99-b56fb0f7d277,Norman Powell,1626181,24,Dunk,2020-02-01T00:00:00Z,2020-01-31,Hometown Showdown: Cali vs. NY,Norman Powell Dunk 2020-01-31 Hometown Showdown: Cali vs. NY (Series 1),299
+eb17834f-ea79-49c5-b448-2ae701be0c24,Spencer Dinwiddie,203915,8,Dunk,2019-12-15T23:00:00Z,2019-12-15,Hometown Showdown: Cali vs. NY,Spencer Dinwiddie Dunk 2019-12-15 Hometown Showdown: Cali vs. NY (Series 1),2767
+16dddb6c-f287-4b1d-ab1c-9572087ccb4b,Andre Drummond,203083,3,Layup,2020-02-13T00:00:00Z,2020-02-12,Hometown Showdown: Cali vs. NY,Andre Drummond Layup 2020-02-12 Hometown Showdown: Cali vs. NY (Series 1),2767
+85017984-ca90-4f0a-b7f4-006e6c47a9d6,Kevin Huerter,1628989,3,3 Pointer,2020-01-18T01:30:00Z,2020-01-17,Hometown Showdown: Cali vs. NY,Kevin Huerter 3 Pointer 2020-01-17 Hometown Showdown: Cali vs. NY (Series 1),2767
+a1cdab2e-8d67-4531-9e60-bf7576f91902,Danny Green,201980,14,Dunk,2019-11-18T02:30:00Z,2019-11-17,Hometown Showdown: Cali vs. NY,Danny Green Dunk 2019-11-17 Hometown Showdown: Cali vs. NY (Series 1),1000
+2ea463e6-8c80-4ed3-ab91-12510c274b28,Eric Paschall,1629672,7,Dunk,2019-11-26T03:30:00Z,2019-11-25,Hometown Showdown: Cali vs. NY,Eric Paschall Dunk 2019-11-25 Hometown Showdown: Cali vs. NY (Series 1),1000
+609eba0d-3694-41e8-a720-84ecbfff996b,Mo Bamba,1628964,5,Dunk,2019-10-30T23:00:00Z,2019-10-30,Hometown Showdown: Cali vs. NY,Mo Bamba Dunk 2019-10-30 Hometown Showdown: Cali vs. NY (Series 1),2767
+444c81fe-34ae-4bfc-87f0-0a090e39059e,Kawhi Leonard,202695,2,Layup,2019-10-29T02:30:00Z,2019-10-28,Hometown Showdown: Cali vs. NY,Kawhi Leonard Layup 2019-10-28 Hometown Showdown: Cali vs. NY (Series 1),1000
+15ecf851-ffa0-42bd-adbc-bacec92adf71,Justin Holiday,203200,8,Layup,2020-01-09T00:00:00Z,2020-01-08,Hometown Showdown: Cali vs. NY,Justin Holiday Layup 2020-01-08 Hometown Showdown: Cali vs. NY (Series 1),2767
+4c58ee46-29cf-4aa6-9be0-0377ca2e6323,Delon Wright,1626153,55,Layup,2020-02-08T00:00:00Z,2020-02-07,Hometown Showdown: Cali vs. NY,Delon Wright Layup 2020-02-07 Hometown Showdown: Cali vs. NY (Series 1),2092
+2be622c8-36fd-41e7-9d3c-ea49c271956f,Trae Young,1629027,11,Handles,2019-11-06T00:30:00Z,2019-11-05,Base Set,Trae Young Handles 2019-11-05 Base Set (Series 1),25
+7bb10d8a-e605-4ec5-b69f-6c4a54d70845,Kyrie Irving,202681,11,Handles,2019-10-27T22:00:00Z,2019-10-27,Base Set,Kyrie Irving Handles 2019-10-27 Base Set (Series 1),150
+a53dc13f-3b6a-40f0-816d-5f222b239296,Jaylen Brown,1627759,7,Handles,2019-12-25T17:00:00Z,2019-12-25,Base Set,Jaylen Brown Handles 2019-12-25 Base Set (Series 1),50
+be4f526a-e0b1-4262-a9c9-2dce82a57f2e,John Collins,1628381,20,Dunk,2020-02-13T00:00:00Z,2020-02-12,Base Set,John Collins Dunk 2020-02-12 Base Set (Series 1),3999
+632d3d29-8b76-4f30-9d83-f5be86f3d71e,Cam Reddish,1629629,22,Dunk,2019-10-29T23:30:00Z,2019-10-29,Base Set,Cam Reddish Dunk 2019-10-29 Base Set (Series 1),299
+a2bb62c4-7501-4b26-b2e2-06544c66ecf6,Andrew Wiggins,203952,22,Dunk,2020-02-13T02:00:00Z,2020-02-12,Base Set,Andrew Wiggins Dunk 2020-02-12 Base Set (Series 1),299
+13abe3e9-63f4-40ee-bdfe-40cbe0c72a3b,Julius Randle,203944,30,Dunk,2019-11-30T00:30:00Z,2019-11-29,Base Set,Julius Randle Dunk 2019-11-29 Base Set (Series 1),1325
+e6e12295-181d-4d17-84ab-bb87dc7f437a,Nerlens Noel,203457,9,Dunk,2019-12-09T02:00:00Z,2019-12-08,Base Set,Nerlens Noel Dunk 2019-12-08 Base Set (Series 1),3346
+2417cdad-452f-4b4f-83db-f5e17e5879e7,Gary Harris,203914,14,Dunk,2019-11-01T01:30:00Z,2019-10-31,Base Set,Gary Harris Dunk 2019-10-31 Base Set (Series 1),299
+ce4f23f1-0159-410c-a562-74e10417d745,Domantas Sabonis,1627734,11,Dunk,2019-12-31T20:00:00Z,2019-12-31,Base Set,Domantas Sabonis Dunk 2019-12-31 Base Set (Series 1),3999
+f7b639eb-486f-4fc2-b67c-8bea8b663431,Ben Simmons,1627732,25,Layup,2019-12-29T01:00:00Z,2019-12-28,Base Set,Ben Simmons Layup 2019-12-28 Base Set (Series 1),1359
+4c21a774-5e77-4f3a-b414-617f0cc42f74,Jonas Valančiūnas,202685,17,Block,2020-01-12T23:00:00Z,2020-01-12,Base Set,Jonas Valančiūnas Block 2020-01-12 Base Set (Series 1),2981
+013dcdac-bc86-498e-aa3d-7719ac9bd6b6,Malcolm Brogdon,1627763,7,Dunk,2020-01-20T01:00:00Z,2020-01-19,Base Set,Malcolm Brogdon Dunk 2020-01-19 Base Set (Series 1),299
+033d39ba-d675-4836-9c95-8b96b3865f86,Brook Lopez,201572,11,Assist,2020-02-05T00:30:00Z,2020-02-04,Base Set,Brook Lopez Assist 2020-02-04 Base Set (Series 1),2983
+0357fd8e-0d19-41a9-939a-dbd81b2ca11a,Jordan McLaughlin,1629162,6,Dunk,2020-01-25T01:00:00Z,2020-01-24,Base Set,Jordan McLaughlin Dunk 2020-01-24 Base Set (Series 1),3999
+092685e0-8636-459d-a9d0-9a6c2ce150e6,Nikola Jokić,203999,15,Handles,2019-12-30T01:00:00Z,2019-12-29,Base Set,Nikola Jokić Handles 2019-12-29 Base Set (Series 1),1430
+08dbe88e-791e-46c9-b50e-195422e64cdf,P.J. Washington,1629023,25,Dunk,2019-11-06T00:00:00Z,2019-11-05,Base Set,P.J. Washington Dunk 2019-11-05 Base Set (Series 1),3999
+0a35b9f9-aecb-410c-a88c-8d9a2a46fe95,Caris LeVert,1627747,22,Assist,2019-11-01T23:00:00Z,2019-11-01,Base Set,Caris LeVert Assist 2019-11-01 Base Set (Series 1),299
+0b2b9e68-d52e-4511-910a-6ea5d37915ac,Karl-Anthony Towns,1626157,32,Dunk,2020-02-01T20:30:00Z,2020-02-01,Base Set,Karl-Anthony Towns Dunk 2020-02-01 Base Set (Series 1),2983
+0c3621c5-6308-4b19-81f3-47fecf146622,Tyler Herro,1629639,14,3 Pointer,2019-12-29T01:00:00Z,2019-12-28,Base Set,Tyler Herro 3 Pointer 2019-12-28 Base Set (Series 1),299
+10db33f6-f9dc-4571-86db-c49a6b33a863,Khris Middleton,203114,22,Dunk,2020-01-29T01:00:00Z,2020-01-28,Base Set,Khris Middleton Dunk 2020-01-28 Base Set (Series 1),50
+13901146-f010-462e-8261-09962d4ba945,Lonnie Walker,1629022,1,3 Pointer,2019-12-04T01:30:00Z,2019-12-03,Base Set,Lonnie Walker 3 Pointer 2019-12-03 Base Set (Series 1),299
+139451ca-f71d-44ad-9ffb-571d6f415389,Donte DiVincenzo,1628978,0,Dunk,2019-12-15T01:30:00Z,2019-12-14,Base Set,Donte DiVincenzo Dunk 2019-12-14 Base Set (Series 1),3999
+1849a19b-3e89-4c99-bce2-c404df45e1bc,Ky Bowman,1629065,12,Steal,2020-01-09T03:00:00Z,2020-01-08,Base Set,Ky Bowman Steal 2020-01-08 Base Set (Series 1),3340
+1aa21741-e484-4a51-9ea1-fc362e96c77f,Josh Richardson,1626196,0,Block,2020-02-08T00:00:00Z,2020-02-07,Base Set,Josh Richardson Block 2020-02-07 Base Set (Series 1),3345
+1d307d9a-aed4-48cd-864a-7691c23f6025,Bruce Brown,1628971,6,Dunk,2020-02-24T02:00:00Z,2020-02-23,Base Set,Bruce Brown Dunk 2020-02-23 Base Set (Series 1),3339
+1acc1232-5946-4399-bf98-c99a1c94dec4,Miles Bridges,1628970,0,Dunk,2019-11-14T00:00:00Z,2019-11-13,Base Set,Miles Bridges Dunk 2019-11-13 Base Set (Series 1),3999
+1f4f3224-d9b9-4bcf-b99e-da10ca8b9eb8,Seth Curry,203552,30,Assist,2019-12-27T01:00:00Z,2019-12-26,Base Set,Seth Curry Assist 2019-12-26 Base Set (Series 1),3340
+1fc9b2f1-d444-4645-a12a-7d0500214fa2,Trevor Ariza,2772,8,Dunk,2020-01-27T02:00:00Z,2020-01-26,Base Set,Trevor Ariza Dunk 2020-01-26 Base Set (Series 1),3345
+2563de53-9c32-42a8-9413-dd0158e9c656,Carmelo Anthony,2546,00,Jump Shot,2020-01-08T00:00:00Z,2020-01-07,Base Set,Carmelo Anthony Jump Shot 2020-01-07 Base Set (Series 1),3999
+2d19469f-7b16-4f1d-b604-490562dab3fc,Moritz Wagner,1629021,21,Handles,2019-11-05T00:00:00Z,2019-11-04,Base Set,Moritz Wagner Handles 2019-11-04 Base Set (Series 1),3999
+2e21d0e2-5a39-41b2-88e9-7cd19504394f,Jalen Brunson,1628973,13,3 Pointer,2019-12-07T19:00:00Z,2019-12-07,Base Set,Jalen Brunson 3 Pointer 2019-12-07 Base Set (Series 1),299
+369bf6f3-4e96-453f-adfc-7e5ca03a3e77,Ricky Rubio,201937,11,Layup,2020-03-01T02:00:00Z,2020-02-29,Base Set,Ricky Rubio Layup 2020-02-29 Base Set (Series 1),3345
+37eb7d21-30ea-46f6-bae3-ab7ba0de8798,Eric Bledsoe,202339,6,Assist,2019-11-07T03:00:00Z,2019-11-06,Base Set,Eric Bledsoe Assist 2019-11-06 Base Set (Series 1),299
+38958d66-8ed0-4ef7-ada7-e0fcefc5eb8c,Dāvis Bertāns,202722,42,3 Pointer,2020-01-23T00:30:00Z,2020-01-22,Base Set,Dāvis Bertāns 3 Pointer 2020-01-22 Base Set (Series 1),3999
+40ebbf73-582a-4e8c-bf6e-627aee3d6f83,CJ McCollum,203468,3,Dunk,2019-11-11T02:00:00Z,2019-11-10,Base Set,CJ McCollum Dunk 2019-11-10 Base Set (Series 1),3999
+37edf037-8f27-4b82-92db-b6e2db4d3bb0,Marcus Smart,203935,36,Steal,2019-11-21T03:00:00Z,2019-11-20,Base Set,Marcus Smart Steal 2019-11-20 Base Set (Series 1),1527
+41a6a797-7fe9-4ed3-b96c-d0b533248670,Collin Sexton,1629012,2,Dunk,2019-10-30T23:00:00Z,2019-10-30,Base Set,Collin Sexton Dunk 2019-10-30 Base Set (Series 1),3999
+4121cf7f-cd12-4c3c-a5bf-414478213c19,Ish Smith,202397,14,Steal,2020-02-24T00:00:00Z,2020-02-23,Base Set,Ish Smith Steal 2020-02-23 Base Set (Series 1),3999
+452fe9d1-c87c-4de7-85de-5fc400081c2d,Christian Wood,1626174,35,Dunk,2019-12-01T22:00:00Z,2019-12-01,Base Set,Christian Wood Dunk 2019-12-01 Base Set (Series 1),3339
+45c2c7f0-c0f1-4ab8-8d5c-b836dfce41a5,Aaron Gordon,203932,00,Dunk,2020-01-16T03:30:00Z,2020-01-15,Base Set,Aaron Gordon Dunk 2020-01-15 Base Set (Series 1),299
+46b46192-21f7-4b69-bf9c-b70eec06f83d,Giannis Antetokounmpo,203507,34,Dunk,2019-11-17T00:00:00Z,2019-11-16,Base Set,Giannis Antetokounmpo Dunk 2019-11-16 Base Set (Series 1),50
+4a5c6bf5-76af-4f35-8db8-204c5039443d,Buddy Hield,1627741,24,Dunk,2019-12-14T03:00:00Z,2019-12-13,Base Set,Buddy Hield Dunk 2019-12-13 Base Set (Series 1),50
+509e65a9-b83c-4b36-82a3-d8771814f1ea,Patrick Beverley,201976,21,3 Pointer,2020-02-04T03:30:00Z,2020-02-03,Base Set,Patrick Beverley 3 Pointer 2020-02-03 Base Set (Series 1),3999
+48fa13c5-c9fb-4846-b260-3c3b4b503039,Shai Gilgeous-Alexander,1628983,2,Handles,2019-10-27T19:30:00Z,2019-10-27,Base Set,Shai Gilgeous-Alexander Handles 2019-10-27 Base Set (Series 1),299
+5d307322-b310-42f0-8b23-8da94465b4bf,Cody Zeller,203469,40,Dunk,2020-02-21T01:00:00Z,2020-02-20,Base Set,Cody Zeller Dunk 2020-02-20 Base Set (Series 1),3999
+50fde806-fe34-4a47-b48e-7c5b3dbcff4e,Steven Adams,203500,12,Assist,2019-12-07T01:00:00Z,2019-12-06,Base Set,Steven Adams Assist 2019-12-06 Base Set (Series 1),50
+5f12f915-3ed8-4f60-8236-c88781431673,Kevin Porter Jr.,1629645,4,Dunk,2020-02-10T00:30:00Z,2020-02-09,Base Set,Kevin Porter Jr. Dunk 2020-02-09 Base Set (Series 1),250
+5d4b8bba-6b24-44b9-912e-8b88f1937751,Kemba Walker,202689,8,Assist,2019-12-12T00:00:00Z,2019-12-11,Base Set,Kemba Walker Assist 2019-12-11 Base Set (Series 1),299
+60695463-d3b5-481b-a214-4a81707523be,Reggie Bullock,203493,25,Steal,2020-01-08T03:30:00Z,2020-01-07,Base Set,Reggie Bullock Steal 2020-01-07 Base Set (Series 1),3999
+63387e74-299e-4bf3-9811-4e94716dc206,Al Horford,201143,42,Block,2019-12-03T00:00:00Z,2019-12-02,Base Set,Al Horford Block 2019-12-02 Base Set (Series 1),299
+66bd7c42-7111-434c-abef-5f4d8dbfbc20,Svi Mykhailiuk,1629004,19,3 Pointer,2020-01-16T00:00:00Z,2020-01-15,Base Set,Svi Mykhailiuk 3 Pointer 2020-01-15 Base Set (Series 1),3999
+60a83f27-9614-4c55-b9c2-081b7daa6a68,Myles Turner,1626167,33,Dunk,2020-01-25T03:30:00Z,2020-01-24,Base Set,Myles Turner Dunk 2020-01-24 Base Set (Series 1),3999
+681b6cae-7724-4475-a101-b2fb5ca7f516,Marquese Chriss,1627737,32,Dunk,2020-02-09T01:30:00Z,2020-02-08,Base Set,Marquese Chriss Dunk 2020-02-08 Base Set (Series 1),49
+6028f7b9-7f8b-45b0-ba2b-c1f8523b7b64,Anthony Davis,203076,3,Dunk,2020-01-02T03:30:00Z,2020-01-01,Base Set,Anthony Davis Dunk 2020-01-01 Base Set (Series 1),275
+59c27a62-5054-4ff7-bfd9-2044dcbfe4a7,Bradley Beal,203078,3,Layup,2020-02-08T00:00:00Z,2020-02-07,Base Set,Bradley Beal Layup 2020-02-07 Base Set (Series 1),50
+64ef4a70-2690-4f10-a660-7afb0786af61,Andre Drummond,203083,3,Dunk,2020-02-10T00:30:00Z,2020-02-09,Base Set,Andre Drummond Dunk 2020-02-09 Base Set (Series 1),50
+67319ec3-e326-4529-b452-cc79b1d2bd65,Bam Adebayo,1628389,13,Block,2019-10-29T23:30:00Z,2019-10-29,Base Set,Bam Adebayo Block 2019-10-29 Base Set (Series 1),50
+690b3e21-e036-4eb0-ae81-c449e67b8b3d,Donovan Mitchell,1628378,45,Block,2019-10-26T02:30:00Z,2019-10-25,Base Set,Donovan Mitchell Block 2019-10-25 Base Set (Series 1),50
+6aaed757-2d22-44c7-8f64-e7a46ca0c13e,Bojan Bogdanović,202711,44,3 Pointer,2020-02-10T00:00:00Z,2020-02-09,Base Set,Bojan Bogdanović 3 Pointer 2020-02-09 Base Set (Series 1),3999
+6ea9985c-06b8-4464-a131-6194cfde01ba,James Harden,201935,13,Layup,2020-02-05T01:00:00Z,2020-02-04,Base Set,James Harden Layup 2020-02-04 Base Set (Series 1),50
+64c5104d-9bac-4e88-8554-c78e5ff23c76,JaVale McGee,201580,7,Block,2020-01-16T03:30:00Z,2020-01-15,Base Set,JaVale McGee Block 2020-01-15 Base Set (Series 1),3339
+715bac73-3bc7-40d2-905c-783e2bef516d,Josh Okogie,1629006,20,Dunk,2020-02-23T23:00:00Z,2020-02-23,Base Set,Josh Okogie Dunk 2020-02-23 Base Set (Series 1),275
+750ca511-3ee7-4c7f-bba8-ebaa997fe991,Spencer Dinwiddie,203915,8,Jump Shot,2019-11-26T00:00:00Z,2019-11-25,Base Set,Spencer Dinwiddie Jump Shot 2019-11-25 Base Set (Series 1),50
+7baad966-60e3-4a48-bb85-954375c560e1,Langston Galloway,204038,9,Jump Shot,2019-12-17T00:00:00Z,2019-12-16,Base Set,Langston Galloway Jump Shot 2019-12-16 Base Set (Series 1),50
+79988343-3301-41b2-8870-286ddc1ddad3,Nemanja Bjelica,202357,88,3 Pointer,2019-12-10T01:00:00Z,2019-12-09,Base Set,Nemanja Bjelica 3 Pointer 2019-12-09 Base Set (Series 1),199
+81883ed8-b2a1-47fe-b120-e5ebe8b26a3f,P.J. Tucker,200782,17,Layup,2019-11-12T01:00:00Z,2019-11-11,Base Set,P.J. Tucker Layup 2019-11-11 Base Set (Series 1),3999
+819762b5-ca6c-4a5c-83d5-e60a30322e52,Kawhi Leonard,202695,2,Dunk,2019-11-21T03:00:00Z,2019-11-20,Base Set,Kawhi Leonard Dunk 2019-11-20 Base Set (Series 1),50
+84da01bc-2df9-43e5-90d4-0e7764361f1a,Thaddeus Young,201152,21,Dunk,2020-01-11T01:00:00Z,2020-01-10,Base Set,Thaddeus Young Dunk 2020-01-10 Base Set (Series 1),3999
+856f785c-14cb-4c29-8d77-9d0c210ab700,Mitchell Robinson,1629011,23,Dunk,2019-12-27T00:30:00Z,2019-12-26,Base Set,Mitchell Robinson Dunk 2019-12-26 Base Set (Series 1),299
+8d03262c-f399-4847-8a4c-d31399c4edee,Nikola Vučević,202696,9,Dunk,2020-01-05T00:00:00Z,2020-01-04,Base Set,Nikola Vučević Dunk 2020-01-04 Base Set (Series 1),1434
+8235d2a8-9257-475a-8cf2-5cb79768d14a,Andre Iguodala,2738,28,Steal,2020-02-10T02:00:00Z,2020-02-09,Base Set,Andre Iguodala Steal 2020-02-09 Base Set (Series 1),499
+8f145480-369e-4337-a283-08f51e0becbb,Jrue Holiday,201950,11,Assist,2019-11-01T01:30:00Z,2019-10-31,Base Set,Jrue Holiday Assist 2019-10-31 Base Set (Series 1),3342
+8d3a2c69-e1fe-4074-86cd-64b3e012f1d4,Tobias Harris,202699,12,Dunk,2020-02-12T00:00:00Z,2020-02-11,Base Set,Tobias Harris Dunk 2020-02-11 Base Set (Series 1),275
+914eb8b9-90fc-4998-b83a-5cb6a264588d,Kelly Oubre Jr.,1626162,3,Block,2020-01-11T02:00:00Z,2020-01-10,Base Set,Kelly Oubre Jr. Block 2020-01-10 Base Set (Series 1),3345
+92f4ecc2-6f75-47bf-9eb7-3d3756b83157,RJ Barrett,1629628,9,Layup,2019-10-24T00:30:00Z,2019-10-23,Base Set,RJ Barrett Layup 2019-10-23 Base Set (Series 1),299
+93e0f73a-69e7-4e58-ba89-7345a60f5a47,Joel Embiid,203954,21,Assist,2019-10-28T23:30:00Z,2019-10-28,Base Set,Joel Embiid Assist 2019-10-28 Base Set (Series 1),2987
+96036142-7feb-45ab-b6af-6dda0b6264e9,T.J. Warren,203933,1,Layup,2020-02-22T00:30:00Z,2020-02-21,Base Set,T.J. Warren Layup 2020-02-21 Base Set (Series 1),3999
+98b223f0-38eb-4862-8a6c-3ef9baa2601e,Mikal Bridges,1628969,25,Dunk,2020-01-23T02:00:00Z,2020-01-22,Base Set,Mikal Bridges Dunk 2020-01-22 Base Set (Series 1),3999
+99a3f83b-6510-437e-8cae-9ea4848b105c,Eric Paschall,1629672,7,Dunk,2020-01-05T01:30:00Z,2020-01-04,Base Set,Eric Paschall Dunk 2020-01-04 Base Set (Series 1),1257
+9939a2dc-7c95-4c02-b747-9fee26c9d040,Zach LaVine,203897,8,3 Pointer,2019-11-24T00:00:00Z,2019-11-23,Base Set,Zach LaVine 3 Pointer 2019-11-23 Base Set (Series 1),49
+99bd66dc-3ea3-4333-8fb3-b46c24b688e1,Chris Paul,101108,3,Handles,2020-01-10T02:30:00Z,2020-01-09,Base Set,Chris Paul Handles 2020-01-09 Base Set (Series 1),1434
+9ac24e13-f3df-4235-acb0-b9b42c73ac0f,Darius Garland,1629636,10,Layup,2020-01-19T01:00:00Z,2020-01-18,Base Set,Darius Garland Layup 2020-01-18 Base Set (Series 1),250
+9add876a-b8f3-477c-a800-46ae136da628,Jaren Jackson Jr.,1628991,13,Dunk,2019-11-09T00:00:00Z,2019-11-08,Base Set,Jaren Jackson Jr. Dunk 2019-11-08 Base Set (Series 1),275
+9de27cfc-02b4-4884-a758-69dcfa61b6c3,Josh Hart,1628404,3,Layup,2020-02-24T01:30:00Z,2020-02-23,Base Set,Josh Hart Layup 2020-02-23 Base Set (Series 1),3999
+9efe1583-9c4f-4351-aef3-4794e7c3ae29,Torrey Craig,1628470,3,Block,2019-10-26T01:00:00Z,2019-10-25,Base Set,Torrey Craig Block 2019-10-25 Base Set (Series 1),3340
+a0757a24-f9b4-47e7-90fe-3813f0671c1b,Tyus Jones,1626145,21,Assist,2019-12-30T01:00:00Z,2019-12-29,Base Set,Tyus Jones Assist 2019-12-29 Base Set (Series 1),299
+a13c0faf-5aeb-45b4-b6b8-f67c8d312639,Dennis Smith Jr.,1628372,5,Handles,2019-12-06T00:30:00Z,2019-12-05,Base Set,Dennis Smith Jr. Handles 2019-12-05 Base Set (Series 1),2987
+a84fd0fe-1177-4f79-8497-e9d955d272c4,Paul George,202331,13,Jump Shot,2020-01-05T20:30:00Z,2020-01-05,Base Set,Paul George Jump Shot 2020-01-05 Base Set (Series 1),299
+a9dc398e-c76e-4c8f-ac52-b999222d4110,Devin Booker,1626164,1,Block,2019-11-28T02:00:00Z,2019-11-27,Base Set,Devin Booker Block 2019-11-27 Base Set (Series 1),1358
+abd4da56-b32e-4b41-baac-728a147a6e73,Jayson Tatum,1628369,0,Handles,2019-11-21T03:00:00Z,2019-11-20,Base Set,Jayson Tatum Handles 2019-11-20 Base Set (Series 1),299
+aefc2852-2bce-46d6-87f1-0ad0e5b27169,Austin Rivers,203085,25,Handles,2019-10-29T00:00:00Z,2019-10-28,Base Set,Austin Rivers Handles 2019-10-28 Base Set (Series 1),3339
+afe889a6-f320-49af-bdde-db9fa2b73255,Alex Caruso,1627936,4,Block,2020-02-26T03:00:00Z,2020-02-25,Base Set,Alex Caruso Block 2020-02-25 Base Set (Series 1),1530
+b2afd92f-bcf5-494f-9b05-b5a50165d106,Kristaps Porziņģis,204001,6,3 Pointer,2019-12-15T01:30:00Z,2019-12-14,Base Set,Kristaps Porziņģis 3 Pointer 2019-12-14 Base Set (Series 1),50
+b6e2029d-b4a6-4449-8293-82df2b886685,Deandre Ayton,1629028,22,Dunk,2019-10-24T02:00:00Z,2019-10-23,Base Set,Deandre Ayton Dunk 2019-10-23 Base Set (Series 1),2986
+b9c3353c-1ba6-463e-811f-e98998edbbc9,Dejounte Murray,1627749,5,Layup,2019-11-08T01:30:00Z,2019-11-07,Base Set,Dejounte Murray Layup 2019-11-07 Base Set (Series 1),3999
+ba1502dd-34ae-4712-b84e-5252e46d8ee3,Kendrick Nunn,1629134,25,Dunk,2019-12-14T00:00:00Z,2019-12-13,Base Set,Kendrick Nunn Dunk 2019-12-13 Base Set (Series 1),250
+bae1c7dd-2fa6-487a-b711-3eee3573f3c6,Rudy Gobert,203497,27,Block,2020-01-25T22:00:00Z,2020-01-25,Base Set,Rudy Gobert Block 2020-01-25 Base Set (Series 1),1358
+ba440138-ea39-4337-9ded-7a39641b798a,Eric Gordon,201569,10,Dunk,2019-11-05T01:00:00Z,2019-11-04,Base Set,Eric Gordon Dunk 2019-11-04 Base Set (Series 1),49
+bea7b634-2aa5-4e42-a584-682c47488fcc,Pascal Siakam,1627783,43,Block,2019-11-11T02:30:00Z,2019-11-10,Base Set,Pascal Siakam Block 2019-11-10 Base Set (Series 1),3999
+bda6ced4-49f9-47ce-b26e-7ff49462e5e7,Cedi Osman,1626224,16,Assist,2020-02-06T01:00:00Z,2020-02-05,Base Set,Cedi Osman Assist 2020-02-05 Base Set (Series 1),299
+bd35ad7c-3d81-4d3c-91f3-2ddfdf47beb4,Fred VanVleet,1627832,23,Handles,2019-10-28T23:30:00Z,2019-10-28,Base Set,Fred VanVleet Handles 2019-10-28 Base Set (Series 1),150
+c4763b3a-b5d4-494c-bb2d-11ea892f8eaf,Serge Ibaka,201586,9,Dunk,2019-11-07T00:30:00Z,2019-11-06,Base Set,Serge Ibaka Dunk 2019-11-06 Base Set (Series 1),2986
+c4bfcef7-bc6c-4f24-a57d-115332160e31,Joe Harris,203925,12,Layup,2019-12-01T20:00:00Z,2019-12-01,Base Set,Joe Harris Layup 2019-12-01 Base Set (Series 1),3999
+c8ad129e-a803-4400-9025-2c4209bd2ed4,D'Angelo Russell,1626156,0,Block,2020-02-27T00:30:00Z,2020-02-26,Base Set,D'Angelo Russell Block 2020-02-26 Base Set (Series 1),50
+cf256a06-baae-4b24-8b06-f441cb0a1821,OG Anunoby,1628384,3,Block,2019-10-27T00:00:00Z,2019-10-26,Base Set,OG Anunoby Block 2019-10-26 Base Set (Series 1),1358
+d012e87f-7aec-4f5d-969b-2af03890ab4f,Zion Williamson,1629627,1,Block,2020-01-25T01:00:00Z,2020-01-24,Base Set,Zion Williamson Block 2020-01-24 Base Set (Series 1),192
+d41d9323-aab7-47d3-83ea-4871fcc72bb9,Kyle Lowry,200768,7,3 Pointer,2020-01-18T00:00:00Z,2020-01-17,Base Set,Kyle Lowry 3 Pointer 2020-01-17 Base Set (Series 1),1532
+d7b7d67e-2e13-4b79-8d75-6e5a246808b6,Dillon Brooks,1628415,24,Assist,2020-01-04T20:30:00Z,2020-01-04,Base Set,Dillon Brooks Assist 2020-01-04 Base Set (Series 1),3999
+dd921acd-925e-4310-b5bd-4d9a6954838e,Jarrett Culver,1629633,23,Dunk,2020-01-02T01:00:00Z,2020-01-01,Base Set,Jarrett Culver Dunk 2020-01-01 Base Set (Series 1),3999
+ddc54fac-555c-47f5-b6ee-41996aa1ed10,Jarrett Allen,1628386,31,Block,2020-01-08T00:30:00Z,2020-01-07,Base Set,Jarrett Allen Block 2020-01-07 Base Set (Series 1),299
+de73b804-79ee-42b6-b042-aae1a47b7bec,Vince Carter,1713,15,3 Pointer,2020-03-11T23:30:00Z,2020-03-11,Base Set,Vince Carter 3 Pointer 2020-03-11 Base Set (Series 1),49
+e2c09c0f-e04b-45db-9f5f-7cd0e6c5ed2b,Luka Dončić,1629029,77,Dunk,2020-03-12T00:00:00Z,2020-03-11,Base Set,Luka Dončić Dunk 2020-03-11 Base Set (Series 1),299
+e7633839-540c-4f66-83f4-069ae71a6f76,Marvin Bagley III,1628963,35,Dunk,2020-01-16T03:00:00Z,2020-01-15,Base Set,Marvin Bagley III Dunk 2020-01-15 Base Set (Series 1),3999
+daed1bad-9d00-4a50-9237-09ba526b8f46,Bismack Biyombo,202687,8,Dunk,2020-01-05T01:30:00Z,2020-01-04,Base Set,Bismack Biyombo Dunk 2020-01-04 Base Set (Series 1),3999
+de32d3fb-0e6a-447e-b42a-08bbf1607b7d,LeBron James,2544,23,Dunk,2019-11-16T03:30:00Z,2019-11-15,Base Set,LeBron James Dunk 2019-11-15 Base Set (Series 1),299
+e11073b8-60c0-45bc-9bbd-680842630ffa,Lou Williams,101150,23,Handles,2020-01-05T20:30:00Z,2020-01-05,Base Set,Lou Williams Handles 2020-01-05 Base Set (Series 1),3999
+e48cf01d-0343-48fd-a4ae-c789633cba11,Ja Morant,1629630,12,Dunk,2019-12-12T02:00:00Z,2019-12-11,Base Set,Ja Morant Dunk 2019-12-11 Base Set (Series 1),49
+e77e11f0-0308-4779-b0b0-1ee62e4a3304,Mike Conley,201144,10,3 Pointer,2019-11-12T03:30:00Z,2019-11-11,Base Set,Mike Conley 3 Pointer 2019-11-11 Base Set (Series 1),3999
+e8b1c258-b832-4f1b-b0cf-6f8864bafe9b,Terrence Ross,203082,8,Dunk,2020-01-19T01:30:00Z,2020-01-18,Base Set,Terrence Ross Dunk 2020-01-18 Base Set (Series 1),3999
+eb913d1c-534a-43f0-9e11-7cc3e64407e7,Joe Ingles,204060,2,Assist,2020-01-09T02:00:00Z,2020-01-08,Base Set,Joe Ingles Assist 2020-01-08 Base Set (Series 1),3999
+ecac4cfb-38ad-4911-8e2d-1018fe603d6e,Victor Oladipo,203506,4,3 Pointer,2020-01-30T00:00:00Z,2020-01-29,Base Set,Victor Oladipo 3 Pointer 2020-01-29 Base Set (Series 1),49
+ef100f9e-ed36-442d-bd6b-f1fa857decd1,Derrick Rose,201565,25,Jump Shot,2019-12-10T01:00:00Z,2019-12-09,Base Set,Derrick Rose Jump Shot 2019-12-09 Base Set (Series 1),50
+f2a3c763-f7ff-4342-a209-44a34cdf1d02,Damian Lillard,203081,0,Dunk,2019-10-24T02:00:00Z,2019-10-23,Base Set,Damian Lillard Dunk 2019-10-23 Base Set (Series 1),49
+f2b46d5c-58f8-424c-ad5e-c1459160da2c,De'Aaron Fox,1628368,5,Layup,2019-11-02T02:00:00Z,2019-11-01,Base Set,De'Aaron Fox Layup 2019-11-01 Base Set (Series 1),299
+f1690178-bd14-4ce0-82ab-06e8ecfd690b,Jimmy Butler,202710,22,3 Pointer,2019-12-11T01:00:00Z,2019-12-10,Base Set,Jimmy Butler 3 Pointer 2019-12-10 Base Set (Series 1),49
+f552b506-b41d-4e7c-ac5a-59427f9e96e6,Steph Curry,201939,30,Assist,2020-03-06T03:30:00Z,2020-03-05,Base Set,Steph Curry Assist 2020-03-05 Base Set (Series 1),50
+f7e408b6-e70e-4bcf-98d1-faab9f99242d,Montrezl Harrell,1626149,5,Dunk,2020-02-14T01:00:00Z,2020-02-13,Base Set,Montrezl Harrell Dunk 2020-02-13 Base Set (Series 1),3340
+ff3f472f-335e-41a1-9557-7c369793b9f0,Hassan Whiteside,202355,21,Block,2020-01-21T03:00:00Z,2020-01-20,Base Set,Hassan Whiteside Block 2020-01-20 Base Set (Series 1),3344
+ffe420ae-a89c-4c21-b080-086172c5277d,Rudy Gay,200752,22,Dunk,2020-01-12T23:00:00Z,2020-01-12,Base Set,Rudy Gay Dunk 2020-01-12 Base Set (Series 1),299
+768166e3-f4bb-4395-9b48-4c545aebc95c,LeBron James,2544,23,Dunk,2020-02-07T03:30:00Z,2020-02-06,Base Set,LeBron James Dunk 2020-02-06 Base Set (Series 1),1000
+3427155d-dafa-45ec-bf71-ac19b4ab15ab,Giannis Antetokounmpo,203507,34,Dunk,2020-03-01T18:00:00Z,2020-03-01,Base Set,Giannis Antetokounmpo Dunk 2020-03-01 Base Set (Series 1),275
+154d896e-7093-466c-89e4-7832e638f751,Jerami Grant,203924,9,Dunk,2020-03-10T01:00:00Z,2020-03-09,Base Set,Jerami Grant Dunk 2020-03-09 Base Set (Series 1),1198
+5d14c326-f624-4dcc-8432-bc395eb24b93,Derrick Rose,201565,25,Assist,2020-01-25T00:00:00Z,2020-01-24,Base Set,Derrick Rose Assist 2020-01-24 Base Set (Series 1),3600
+b3eaf03e-a764-4959-9eae-9442f06d1217,Steph Curry,201939,30,3 Pointer,2020-03-06T03:30:00Z,2020-03-05,Base Set,Steph Curry 3 Pointer 2020-03-05 Base Set (Series 1),3600
+1607a057-2b78-41a8-9cee-78f3ea5e6bd8,James Harden,201935,13,3 Pointer,2019-11-23T03:30:00Z,2019-11-22,Base Set,James Harden 3 Pointer 2019-11-22 Base Set (Series 1),25
+c1b49c28-dfb9-4dd5-83b7-91b73f99f088,Russell Westbrook,201566,0,Dunk,2020-03-11T00:00:00Z,2020-03-10,Base Set,Russell Westbrook Dunk 2020-03-10 Base Set (Series 1),59
+eb356b1c-f2d4-4111-88ad-f2e4402afe7b,Cam Reddish,1629629,22,Steal,2020-02-21T00:30:00Z,2020-02-20,Base Set,Cam Reddish Steal 2020-02-20 Base Set (Series 1),3164
+34169e0a-8c2c-47f4-97c8-f63bbf727290,Enes Kanter,202683,11,Steal,2019-12-13T01:00:00Z,2019-12-12,Base Set,Enes Kanter Steal 2019-12-12 Base Set (Series 1),2488
+498f6013-c838-42e4-9e67-7e8bcc996c30,Kyrie Irving,202681,11,Steal,2020-02-01T00:30:00Z,2020-01-31,Base Set,Kyrie Irving Steal 2020-01-31 Base Set (Series 1),3163
+3c9b5990-75d0-475c-a99c-413d33d800f7,Gary Harris,203914,14,Steal,2020-02-26T02:00:00Z,2020-02-25,Base Set,Gary Harris Steal 2020-02-25 Base Set (Series 1),3164
+ea0002b5-de33-4e3f-9b4b-7ababd3feb0c,Ja Morant,1629630,12,Steal,2020-01-08T01:00:00Z,2020-01-07,Base Set,Ja Morant Steal 2020-01-07 Base Set (Series 1),3164
+32d29dc7-8386-444a-9984-cd035134fa6d,Josh Jackson,1628367,20,Steal,2020-03-11T00:00:00Z,2020-03-10,Base Set,Josh Jackson Steal 2020-03-10 Base Set (Series 1),299
+e6481a27-3932-46ca-a556-ed2b58c28b80,George Hill,201588,3,Steal,2019-11-09T02:00:00Z,2019-11-08,Base Set,George Hill Steal 2019-11-08 Base Set (Series 1),299
+64fb404b-9e7b-4044-9b95-1a0e5028d965,Khris Middleton,203114,22,Steal,2020-02-11T01:00:00Z,2020-02-10,Base Set,Khris Middleton Steal 2020-02-10 Base Set (Series 1),1000
+1ce18272-fe5b-4e3c-9d8a-4586d7b57e97,Danilo Gallinari,201568,8,Steal,2020-02-28T01:00:00Z,2020-02-27,Base Set,Danilo Gallinari Steal 2020-02-27 Base Set (Series 1),2492
+4c878013-6ec3-4666-8fce-533881f32d8a,Patty Mills,201988,8,Steal,2020-02-02T02:00:00Z,2020-02-01,Base Set,Patty Mills Steal 2020-02-01 Base Set (Series 1),299
+f94ca347-472e-403e-b4e5-cc715167db13,Fred VanVleet,1627832,23,Steal,2020-02-06T00:30:00Z,2020-02-05,Base Set,Fred VanVleet Steal 2020-02-05 Base Set (Series 1),3169
+85017984-ca90-4f0a-b7f4-006e6c47a9d6,Kevin Huerter,1628989,3,3 Pointer,2020-01-18T01:30:00Z,2020-01-17,Base Set,Kevin Huerter 3 Pointer 2020-01-17 Base Set (Series 1),2767
+eb17834f-ea79-49c5-b448-2ae701be0c24,Spencer Dinwiddie,203915,8,Dunk,2019-12-15T23:00:00Z,2019-12-15,Base Set,Spencer Dinwiddie Dunk 2019-12-15 Base Set (Series 1),2767
+16dddb6c-f287-4b1d-ab1c-9572087ccb4b,Andre Drummond,203083,3,Layup,2020-02-13T00:00:00Z,2020-02-12,Base Set,Andre Drummond Layup 2020-02-12 Base Set (Series 1),2767
+4c58ee46-29cf-4aa6-9be0-0377ca2e6323,Delon Wright,1626153,55,Layup,2020-02-08T00:00:00Z,2020-02-07,Base Set,Delon Wright Layup 2020-02-07 Base Set (Series 1),2092
+2ea463e6-8c80-4ed3-ab91-12510c274b28,Eric Paschall,1629672,7,Dunk,2019-11-26T03:30:00Z,2019-11-25,Base Set,Eric Paschall Dunk 2019-11-25 Base Set (Series 1),1000
+15ecf851-ffa0-42bd-adbc-bacec92adf71,Justin Holiday,203200,8,Layup,2020-01-09T00:00:00Z,2020-01-08,Base Set,Justin Holiday Layup 2020-01-08 Base Set (Series 1),2767
+444c81fe-34ae-4bfc-87f0-0a090e39059e,Kawhi Leonard,202695,2,Layup,2019-10-29T02:30:00Z,2019-10-28,Base Set,Kawhi Leonard Layup 2019-10-28 Base Set (Series 1),1000
+609eba0d-3694-41e8-a720-84ecbfff996b,Mo Bamba,1628964,5,Dunk,2019-10-30T23:00:00Z,2019-10-30,Base Set,Mo Bamba Dunk 2019-10-30 Base Set (Series 1),2767
+2faa8899-3212-48b7-ae99-b56fb0f7d277,Norman Powell,1626181,24,Dunk,2020-02-01T00:00:00Z,2020-01-31,Base Set,Norman Powell Dunk 2020-01-31 Base Set (Series 1),299
+c59a91b2-b49b-4e47-8003-805e2bf34105,Jaylen Brown,1627759,7,Dunk,2020-08-02T19:30:00Z,2020-08-02,Base Set,Jaylen Brown Dunk 2020-08-02 Base Set (Series 1),250
+9b94ef4d-920f-42d6-a301-7c1748ab431b,Boban Marjanovic,1626246,51,Dunk,2020-08-03T01:00:00Z,2020-08-02,Base Set,Boban Marjanovic Dunk 2020-08-02 Base Set (Series 1),2681
+e1acc264-12fa-47d5-aa6f-291e53158cd0,Bol Bol,1629626,10,Dunk,2020-08-07T00:00:00Z,2020-08-06,Base Set,Bol Bol Dunk 2020-08-06 Base Set (Series 1),299
+e1f92cd3-829c-4983-ab4f-42684006a131,LeBron James,2544,23,Block,2020-08-02T00:30:00Z,2020-08-01,Base Set,LeBron James Block 2020-08-01 Base Set (Series 1),250
+695bb22d-08cf-4457-b00c-5e6ceec69fcd,Zion Williamson,1629627,1,Assist,2020-07-30T22:30:00Z,2020-07-30,Base Set,Zion Williamson Assist 2020-07-30 Base Set (Series 1),250
+455cf49f-bc4f-48a0-97b1-c0a7e82559c6,Ben Simmons,1627732,25,Assist,2020-08-04T00:00:00Z,2020-08-03,Base Set,Ben Simmons Assist 2020-08-03 Base Set (Series 1),250
+d1d164eb-4cd7-4944-8df3-d250c0de2d9c,Andre Iguodala,2738,28,Dunk,2020-08-04T22:30:00Z,2020-08-04,Base Set,Andre Iguodala Dunk 2020-08-04 Base Set (Series 1),1000
+b9a572cd-51f8-4a0e-8acf-d58361cb8ead,Shai Gilgeous-Alexander,1628983,2,Layup,2020-08-01T19:30:00Z,2020-08-01,Base Set,Shai Gilgeous-Alexander Layup 2020-08-01 Base Set (Series 1),250
+118f2aa1-1aeb-4e57-90d0-9d55058abdff,Devin Booker,1626164,1,Jump Shot,2020-08-04T20:00:00Z,2020-08-04,Base Set,Devin Booker Jump Shot 2020-08-04 Base Set (Series 1),2681
+ac1d80de-8288-47d6-b34e-53fc494dd5f1,Jusuf Nurkić,203994,27,Dunk,2020-07-31T20:00:00Z,2020-07-31,Base Set,Jusuf Nurkić Dunk 2020-07-31 Base Set (Series 1),2680
+60cc034a-c2ea-43d4-8138-d10917bf07d1,De'Aaron Fox,1628368,5,Layup,2020-08-04T18:30:00Z,2020-08-04,Base Set,De'Aaron Fox Layup 2020-08-04 Base Set (Series 1),250
+602c7d72-ead9-4c1c-a9fe-dde267f1a0b7,Jakob Poeltl,1627751,25,Block,2020-08-01T00:00:00Z,2020-07-31,Base Set,Jakob Poeltl Block 2020-07-31 Base Set (Series 1),299
+54d7dc37-cfe6-4a32-b358-07b39aa67918,Og Anunoby,1628384,3,Dunk,2020-08-02T00:30:00Z,2020-08-01,Base Set,Og Anunoby Dunk 2020-08-01 Base Set (Series 1),2681
+769443aa-0e2c-47e7-936f-5acf08db9151,Rudy Gobert,203497,27,Dunk,2020-08-04T01:00:00Z,2020-08-03,Base Set,Rudy Gobert Dunk 2020-08-03 Base Set (Series 1),250
+46f9e2fc-d787-4905-ab90-a85d69efc9eb,Shabazz Napier,203894,5,Jump Shot,2020-08-05T20:00:00Z,2020-08-05,Base Set,Shabazz Napier Jump Shot 2020-08-05 Base Set (Series 1),299
+95af8d99-8b08-4bbb-b7b7-b27405955f05,Jayson Tatum,1628369,0,Layup,2020-08-23T17:00:00Z,2020-08-23,Base Set,Jayson Tatum Layup 2020-08-23 Base Set (Series 1),200
+0bb05717-f74d-42d1-be54-097077fa6e03,Caris LeVert,1627747,22,Jump Shot,2020-08-23T22:30:00Z,2020-08-23,Base Set,Caris LeVert Jump Shot 2020-08-23 Base Set (Series 1),2486
+664244ee-02ae-46a9-9198-74de10e550d1,Luka Dončić,1629029,77,3 Pointer,2020-08-23T19:30:00Z,2020-08-23,Base Set,Luka Dončić 3 Pointer 2020-08-23 Base Set (Series 1),200
+240fca07-e5a5-461c-91cc-373106e321a2,Nikola Jokić,203999,15,Jump Shot,2020-09-02T00:30:00Z,2020-09-01,Base Set,Nikola Jokić Jump Shot 2020-09-01 Base Set (Series 1),3525
+1d4ac8c2-649f-4e34-b8cf-bc6837db09b2,Jamal Murray,1627750,27,Handles,2020-08-31T00:30:00Z,2020-08-30,Base Set,Jamal Murray Handles 2020-08-30 Base Set (Series 1),3525
+585e4299-e2b5-4d3b-93eb-5a9a5921f506,James Harden,201935,13,Block,2020-09-03T01:00:00Z,2020-09-02,Base Set,James Harden Block 2020-09-02 Base Set (Series 1),3525
+e4378edf-c2bd-41c4-a6f1-36a7ef8217ac,Danuel House Jr.,1627863,4,Dunk,2020-08-18T22:30:00Z,2020-08-18,Base Set,Danuel House Jr. Dunk 2020-08-18 Base Set (Series 1),3525
+1603a070-f95d-48f1-b5db-c74480505e56,Malcolm Brogdon,1627763,7,Assist,2020-08-24T22:30:00Z,2020-08-24,Base Set,Malcolm Brogdon Assist 2020-08-24 Base Set (Series 1),3525
+0efe3a9b-767d-4b43-8ef9-8dafc464646c,JaMychal Green,203210,4,Dunk,2020-08-30T19:30:00Z,2020-08-30,Base Set,JaMychal Green Dunk 2020-08-30 Base Set (Series 1),2850
+82fba3e8-eff4-402d-b45a-9c65ff8e1220,Landry Shamet,1629013,20,Dunk,2020-08-22T01:00:00Z,2020-08-21,Base Set,Landry Shamet Dunk 2020-08-21 Base Set (Series 1),2851
+f537d9ad-cbd8-4ef8-a80f-08b2507d4ac3,Anthony Davis,203076,3,Jump Shot,2020-08-21T01:00:00Z,2020-08-20,Base Set,Anthony Davis Jump Shot 2020-08-20 Base Set (Series 1),200
+90039c38-bba5-415e-9a75-645587e689d9,Bam Adebayo,1628389,13,Layup,2020-08-18T20:00:00Z,2020-08-18,Base Set,Bam Adebayo Layup 2020-08-18 Base Set (Series 1),200
+94a24c65-0ea0-4b8b-a4ca-44da3e8b3b63,Goran Dragić ,201609,7,Layup,2020-08-22T19:30:00Z,2020-08-22,Base Set,Goran Dragić  Layup 2020-08-22 Base Set (Series 1),1611
+74c91a64-64c8-43ee-b179-268213afbf63,Giannis Antetokounmpo,203507,34,Dunk,2020-08-20T22:00:00Z,2020-08-20,Base Set,Giannis Antetokounmpo Dunk 2020-08-20 Base Set (Series 1),2489
+6b62d953-df77-4e8a-8e5b-b463dc84f3b7,Chris Paul,101108,3,3 Pointer,2020-09-01T01:00:00Z,2020-08-31,Base Set,Chris Paul 3 Pointer 2020-08-31 Base Set (Series 1),2852
+68b6c94f-99c4-4371-8bc7-09124ae304e3,Dennis Schröder,203471,17,Layup,2020-08-24T20:00:00Z,2020-08-24,Base Set,Dennis Schröder Layup 2020-08-24 Base Set (Series 1),2852
+16fd39e2-0408-45df-8181-e8c36cc15c27,Nikola Vučević,202696,9,Jump Shot,2020-08-18T17:30:00Z,2020-08-18,Base Set,Nikola Vučević Jump Shot 2020-08-18 Base Set (Series 1),3527
+07e794fc-57de-4570-830a-63d897a928dc,Al Horford,201143,42,Jump Shot,2020-08-23T17:00:00Z,2020-08-23,Base Set,Al Horford Jump Shot 2020-08-23 Base Set (Series 1),2849
+13177719-5dbf-4fe3-9480-7a54403b2c87,Damian Lillard,203081,0,Layup,2020-08-21T01:00:00Z,2020-08-20,Base Set,Damian Lillard Layup 2020-08-20 Base Set (Series 1),200
+9f9d9b87-283a-48f1-a53e-37691a530b45,Donovan Mitchell,1628378,45,Dunk,2020-08-17T17:30:00Z,2020-08-17,Base Set,Donovan Mitchell Dunk 2020-08-17 Base Set (Series 1),3526
+f9f9cec9-acbe-42da-8fa1-1c623f095f59,Rui Hachimura,1629060,8,Dunk,2019-11-09T00:00:00Z,2019-11-08,Base Set,Rui Hachimura Dunk 2019-11-08 Base Set (Series 1),49
+fa00b3e9-ef09-4aa0-9c33-f54fb15ab5dc,Lonzo Ball,1628366,2,Assist,2019-12-10T01:00:00Z,2019-12-09,Base Set,Lonzo Ball Assist 2019-12-09 Base Set (Series 1),3999
+9fc007e3-bc33-4047-8ffd-dc9a59c0fbc4,Michael Porter Jr.,1629008,1,Dunk,2019-12-30T01:00:00Z,2019-12-29,Base Set,Michael Porter Jr. Dunk 2019-12-29 Base Set (Series 1),150
+9cf44355-e828-4228-b204-7a4f0484df4a,DeMar DeRozan,201942,10,Dunk,2020-01-12T23:00:00Z,2020-01-12,Base Set,DeMar DeRozan Dunk 2020-01-12 Base Set (Series 1),299
+c0fa2c26-fce9-46f0-8b68-c36dc6e762c6,Jamal Murray,1627750,27,Dunk,2019-12-28T22:00:00Z,2019-12-28,Base Set,Jamal Murray Dunk 2019-12-28 Base Set (Series 1),50
+a1cdab2e-8d67-4531-9e60-bf7576f91902,Danny Green,201980,14,Dunk,2019-11-18T02:30:00Z,2019-11-17,Base Set,Danny Green Dunk 2019-11-17 Base Set (Series 1),1000
+9c0cd57c-8203-4ec1-9a0c-9b7e7a6f0635,Bogdan Bogdanović,203992,8,Assist,2019-10-29T02:00:00Z,2019-10-28,Base Set,Bogdan Bogdanović Assist 2019-10-28 Base Set (Series 1),3345
+45afe5ed-a21d-4cb1-90fe-738cb890c550,Coby White,1629632,0,Assist,2019-10-26T00:00:00Z,2019-10-25,Base Set,Coby White Assist 2019-10-25 Base Set (Series 1),50
+1711d369-0be4-4196-9f0e-285be762fe46,Devonte' Graham,1628984,4,3 Pointer,2019-11-17T00:30:00Z,2019-11-16,Base Set,Devonte' Graham 3 Pointer 2019-11-16 Base Set (Series 1),2799
+f0446f3d-2b4f-4626-a8c9-8ce9d0ff8cd1,Tomáš Satoranský,203107,31,Dunk,2019-11-24T00:00:00Z,2019-11-23,Base Set,Tomáš Satoranský Dunk 2019-11-23 Base Set (Series 1),1325
+90125589-afe8-41d9-88d8-857d5898b2ae,Danilo Gallinari,201568,8,Dunk,2020-02-24T00:00:00Z,2020-02-23,Base Set,Danilo Gallinari Dunk 2020-02-23 Base Set (Series 1),1000
+094561da-ebfa-446f-a15d-9e3d86db5157,Evan Fournier,203095,10,3 Pointer,2019-12-07T00:00:00Z,2019-12-06,Base Set,Evan Fournier 3 Pointer 2019-12-06 Base Set (Series 1),3999
+03f80578-485e-48c2-982c-fc201f434791,Markelle Fultz,1628365,20,Dunk,2019-12-21T03:00:00Z,2019-12-20,Base Set,Markelle Fultz Dunk 2019-12-20 Base Set (Series 1),1325
+ea889ef6-0d9f-4c04-bbc6-0d46bdbd8cb5,Brandon Ingram,1627742,14,Dunk,2019-10-29T00:00:00Z,2019-10-28,Base Set,Brandon Ingram Dunk 2019-10-28 Base Set (Series 1),275
+a5cb5392-704c-4687-a2d5-c0f3e8e3ec6c,Daniel Theis,1628464,27,Block,2020-01-17T01:00:00Z,2020-01-16,Base Set,Daniel Theis Block 2020-01-16 Base Set (Series 1),1927
+9ec3d149-ba82-4f7a-b9cb-8f5f3c0f8a21,Luke Kornet,1628436,2,Dunk,2020-01-26T01:00:00Z,2020-01-25,Base Set,Luke Kornet Dunk 2020-01-25 Base Set (Series 1),3999
+34d76a82-c293-4c04-8f84-335d8e9239cc,Russell Westbrook,201566,0,Layup,2019-12-10T01:00:00Z,2019-12-09,Base Set,Russell Westbrook Layup 2019-12-09 Base Set (Series 1),50
+07aa5576-e210-4ec2-81a0-c7405e65a4de,Kevin Huerter,1628989,3,Assist,2020-01-09T00:30:00Z,2020-01-08,Base Set,Kevin Huerter Assist 2020-01-08 Base Set (Series 1),1253
+a9c9ca2f-ff9a-4102-8085-8d670750d410,LaMarcus Aldridge,200746,12,Jump Shot,2020-01-18T01:30:00Z,2020-01-17,Base Set,LaMarcus Aldridge Jump Shot 2020-01-17 Base Set (Series 1),3999
+01265a5b-d918-4dd4-955e-c7bebc477549,Maxi Kleber,1628467,42,Dunk,2019-12-04T00:30:00Z,2019-12-03,Base Set,Maxi Kleber Dunk 2019-12-03 Base Set (Series 1),3999
+95959d37-a068-4b96-8850-f2ddfdf45807,Marcus Smart,203935,7,Block,2020-09-12T01:00:00Z,2020-09-11,Base Set,Marcus Smart Block 2020-09-11 Base Set (Series 1),2200
+fd17af2c-8f6b-4e38-ade5-86f8efd1f2af,Michael Porter Jr.,1629008,1,Dunk,2020-09-08T01:00:00Z,2020-09-07,Base Set,Michael Porter Jr. Dunk 2020-09-07 Base Set (Series 1),3288
+b683f311-6527-43e2-ad51-3aebb15688e7,Ivica Zubac,1627826,40,Dunk,2020-09-04T01:00:00Z,2020-09-03,Base Set,Ivica Zubac Dunk 2020-09-03 Base Set (Series 1),3287
+dfb4e444-8836-4181-a332-1c1d3052fa3b,Alex Caruso,1627936,4,Block,2020-09-13T00:00:00Z,2020-09-12,Base Set,Alex Caruso Block 2020-09-12 Base Set (Series 1),3287
+813e4469-c150-4ded-b60f-02380ec71bc5,Jimmy Butler,202710,22,Steal,2020-09-02T22:30:00Z,2020-09-02,Base Set,Jimmy Butler Steal 2020-09-02 Base Set (Series 1),275
+abecc8f2-2ece-44ba-9fb6-527b5e5189bc,Kawhi Leonard,202695,2,Block,2020-09-08T01:00:00Z,2020-09-07,Base Set,Kawhi Leonard Block 2020-09-07 Base Set (Series 1),3287
+69fe35b3-57b3-4a69-8ad7-27bdbfae0d1a,Tyler Herro,1629639,14,Assist,2020-09-08T22:30:00Z,2020-09-08,Base Set,Tyler Herro Assist 2020-09-08 Base Set (Series 1),2252
+9bab6fcc-2a12-4195-b952-90b64592f582,Khris Middleton,203114,22,3 Pointer,2020-09-06T19:30:00Z,2020-09-06,Base Set,Khris Middleton 3 Pointer 2020-09-06 Base Set (Series 1),3288
+0395c4d9-a01d-4131-88d8-f17a3e1feb6b,Kyle Lowry,200768,7,Jump Shot,2020-09-09T22:30:00Z,2020-09-09,Base Set,Kyle Lowry Jump Shot 2020-09-09 Base Set (Series 1),3289
+70b1a644-e90d-484c-90d2-4b529c2dd1e1,Jerami Grant,203924,9,Dunk,2020-09-25T01:00:00Z,2020-09-24,Base Set,Jerami Grant Dunk 2020-09-24 Base Set (Series 1),999
+d2461b42-9d9d-4202-a220-32cadf123a74,Dwight Howard,2730,39,Block,2020-09-23T01:00:00Z,2020-09-22,Base Set,Dwight Howard Block 2020-09-22 Base Set (Series 1),2438
+841ef60e-f59d-42d8-bf26-53ff8b9824bc,LeBron James,2544,23,Dunk,2020-09-19T01:00:00Z,2020-09-18,Base Set,LeBron James Dunk 2020-09-18 Base Set (Series 1),3113
+621c2ac0-a968-40a8-8736-89e340f4b58c,Rajon Rondo,200765,9,Assist,2020-09-25T01:00:00Z,2020-09-24,Base Set,Rajon Rondo Assist 2020-09-24 Base Set (Series 1),999
+dcf97c17-1828-41a2-857d-c959e7ee6f40,Daniel Theis,1628464,27,Block,2020-09-15T22:30:00Z,2020-09-15,Base Set,Daniel Theis Block 2020-09-15 Base Set (Series 1),2500
+29a35f9e-323e-43a2-a4e6-bccce704de07,Jaylen Brown,1627759,7,Steal,2020-09-20T00:30:00Z,2020-09-19,Base Set,Jaylen Brown Steal 2020-09-19 Base Set (Series 1),2500
+848fc5cd-f44a-4781-ba40-83a24e9f30d2,Kemba Walker,202689,8,Layup,2020-09-24T00:30:00Z,2020-09-23,Base Set,Kemba Walker Layup 2020-09-23 Base Set (Series 1),2500
+19bef6b8-5844-46b4-a374-7089abd98d5f,Anthony Davis,203076,3,3 Pointer,2020-10-07T01:00:00Z,2020-10-06,Base Set,Anthony Davis 3 Pointer 2020-10-06 Base Set (Series 1),79
+ebd68015-8b97-4493-8a53-7fc6f3b6af3f,Danny Green,201980,14,Assist,2020-10-03T01:00:00Z,2020-10-02,Base Set,Danny Green Assist 2020-10-02 Base Set (Series 1),79
+ba054aff-1c4a-4d9e-b367-f0d5168b0fb5,Kentavious Caldwell-Pope,203484,1,Layup,2020-10-07T01:00:00Z,2020-10-06,Base Set,Kentavious Caldwell-Pope Layup 2020-10-06 Base Set (Series 1),299
+5ae6891f-45a4-4ea6-9364-c92cb29a3275,Markieff Morris,202693,88,3 Pointer,2020-10-04T23:30:00Z,2020-10-04,Base Set,Markieff Morris 3 Pointer 2020-10-04 Base Set (Series 1),299
+88bd8ad2-160d-4011-a517-22b07f1c909a,Andre Iguodala,2738,28,Assist,2020-10-01T01:00:00Z,2020-09-30,Base Set,Andre Iguodala Assist 2020-09-30 Base Set (Series 1),1915
+e4116a74-4685-4123-a194-fa595cd4a078,Bam Adebayo,1628389,13,Jump Shot,2020-10-07T01:00:00Z,2020-10-06,Base Set,Bam Adebayo Jump Shot 2020-10-06 Base Set (Series 1),750
+5ed1fb13-72df-4e72-afe6-09d35f7c5672,Duncan Robinson,1629130,55,3 Pointer,2020-10-04T23:30:00Z,2020-10-04,Base Set,Duncan Robinson 3 Pointer 2020-10-04 Base Set (Series 1),1959
+797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9,Goran Dragić ,201609,7,Layup,2020-10-11T23:30:00Z,2020-10-11,Base Set,Goran Dragić  Layup 2020-10-11 Base Set (Series 1),1915
+7e5ac838-7886-4374-aa6e-6c58736139a0,Jae Crowder,203109,99,Assist,2020-10-04T23:30:00Z,2020-10-04,Base Set,Jae Crowder Assist 2020-10-04 Base Set (Series 1),750
+eb8c4096-cfaf-463c-93f3-8021d632d906,Kelly Olynyk,203482,9,Layup,2020-10-04T23:30:00Z,2020-10-04,Base Set,Kelly Olynyk Layup 2020-10-04 Base Set (Series 1),299
+214446d1-9779-420f-8152-b28c34a4fc2b,Kendrick Nunn,1629134,25,Block,2020-10-03T01:00:00Z,2020-10-02,Base Set,Kendrick Nunn Block 2020-10-02 Base Set (Series 1),1959
+79f00aeb-c355-4713-a9eb-347d868e77ed,De'Andre Hunter,1629631,12,Dunk,2020-02-21T00:30:00Z,2020-02-20,Base Set,De'Andre Hunter Dunk 2020-02-20 Base Set (Series 1),299
+0b068dae-e791-4593-a077-74aa053aea54,Luguentz Dort,1629652,5,Dunk,2020-01-26T01:00:00Z,2020-01-25,Base Set,Luguentz Dort Dunk 2020-01-25 Base Set (Series 1),299
+c237d017-8715-4673-8441-2c94394574e9,Terence Davis,1629056,0,Dunk,2020-03-06T03:30:00Z,2020-03-05,Base Set,Terence Davis Dunk 2020-03-05 Base Set (Series 1),1535
+ede281a8-b5cf-4d17-bac0-16470f08f525,Jeff Teague,201952,00,Handles,2020-02-06T01:00:00Z,2020-02-05,Base Set,Jeff Teague Handles 2020-02-05 Base Set (Series 1),1000
+45e0e8c4-a281-40b1-91fd-c777300a29ed,DeAndre Jordan,201599,6,Dunk,2020-01-03T01:30:00Z,2020-01-02,Base Set,DeAndre Jordan Dunk 2020-01-02 Base Set (Series 1),1500
+635d8526-b1d2-430a-9b92-937394aa59c8,Devonte' Graham,1628984,4,Layup,2019-12-28T00:00:00Z,2019-12-27,Base Set,Devonte' Graham Layup 2019-12-27 Base Set (Series 1),1000
+5768a1d6-76e6-4ded-8b14-a1d96345c60b,Zach LaVine,203897,8,Dunk,2019-11-28T03:30:00Z,2019-11-27,Base Set,Zach LaVine Dunk 2019-11-27 Base Set (Series 1),1500
+4fc9d015-3840-491e-a6f4-843e12a038e7,Larry Nance Jr.,1626204,22,Dunk,2020-03-05T00:00:00Z,2020-03-04,Base Set,Larry Nance Jr. Dunk 2020-03-04 Base Set (Series 1),1500
+c008e2bd-e9bd-49a9-ac00-333232541048,Cameron Payne,1626166,15,Steal,2020-08-04T20:00:00Z,2020-08-04,Base Set,Cameron Payne Steal 2020-08-04 Base Set (Series 1),1500
+8dee8dd1-68a7-4036-8e2a-cda9893ea52a,Jarrell Brantley,1629714,5,Layup,2020-08-13T22:30:00Z,2020-08-13,Base Set,Jarrell Brantley Layup 2020-08-13 Base Set (Series 1),1500
+41c06593-8fdd-4d38-8766-02fb5dc42d9e,D'Angelo Russell,1626156,0,Assist,2020-03-05T01:00:00Z,2020-03-04,Base Set,D'Angelo Russell Assist 2020-03-04 Base Set (Series 1),1500
+eac36037-1737-45fd-a95b-1f4ea977a5d9,RJ Barrett,1629628,9,Dunk,2019-12-08T00:30:00Z,2019-12-07,Base Set,RJ Barrett Dunk 2019-12-07 Base Set (Series 1),1500
+8dc7459a-285e-4be4-aa7f-3180504c2662,Marcus Smart,203935,36,3 Pointer,2020-01-19T00:00:00Z,2020-01-18,Base Set,Marcus Smart 3 Pointer 2020-01-18 Base Set (Series 1),1500
+53c5bb3e-bbd8-4660-b074-703692fe202e,Damion Lee,1627814,1,Assist,2019-12-24T03:30:00Z,2019-12-23,Base Set,Damion Lee Assist 2019-12-23 Base Set (Series 1),1500
+e049ed0c-da74-44cf-bc0f-5feb61a19d92,Trae Young,1629027,11,Handles,2020-01-07T00:30:00Z,2020-01-06,Base Set,Trae Young Handles 2020-01-06 Base Set (Series 1),1500
+dad94dfe-aee2-4cbe-94e8-22fd5b80e1d9,Caris LeVert,1627747,22,Layup,2020-08-10T01:00:00Z,2020-08-09,Base Set,Caris LeVert Layup 2020-08-09 Base Set (Series 1),75
+5d195b74-fbfd-4041-be0a-16185ce703f0,Jayson Tatum,1628369,0,3 Pointer,2020-08-19T22:30:00Z,2020-08-19,Base Set,Jayson Tatum 3 Pointer 2020-08-19 Base Set (Series 1),1500
+3f2af8db-73ad-405f-8592-cfc309e6dee6,Terry Rozier,1626179,3,3 Pointer,2020-03-09T23:30:00Z,2020-03-09,Base Set,Terry Rozier 3 Pointer 2020-03-09 Base Set (Series 1),75
+43da501e-a739-4063-a471-18945a03d224,Coby White,1629632,0,Steal,2019-11-16T23:00:00Z,2019-11-16,Base Set,Coby White Steal 2019-11-16 Base Set (Series 1),75
+fb9c6da4-1a2a-41da-9deb-e4eb1a6f0b2d,Kevin Love,201567,0,Assist,2020-03-01T01:00:00Z,2020-02-29,Base Set,Kevin Love Assist 2020-02-29 Base Set (Series 1),75
+3aa9de64-2ff4-4abc-82cd-03d0a449a0dc,Kristaps Porziņģis,204001,6,3 Pointer,2019-12-22T20:30:00Z,2019-12-22,Base Set,Kristaps Porziņģis 3 Pointer 2019-12-22 Base Set (Series 1),1500
+ec1ed176-463e-4360-8299-6171d7e258a1,Bol Bol,1629626,10,Assist,2020-08-11T01:00:00Z,2020-08-10,Base Set,Bol Bol Assist 2020-08-10 Base Set (Series 1),1500
+1985ddad-7db4-47c3-b54d-737c1b9440f7,Langston Galloway,204038,9,3 Pointer,2020-02-13T00:00:00Z,2020-02-12,Base Set,Langston Galloway 3 Pointer 2020-02-12 Base Set (Series 1),75
+b6a01573-e04f-460c-81f6-d56c7dd01d30,Draymond Green,203110,23,Block,2020-01-17T03:30:00Z,2020-01-16,Base Set,Draymond Green Block 2020-01-16 Base Set (Series 1),75
+f6152f87-1ce1-466c-90ac-34febbf8dfc3,Eric Gordon,201569,10,3 Pointer,2020-09-01T01:00:00Z,2020-08-31,Base Set,Eric Gordon 3 Pointer 2020-08-31 Base Set (Series 1),75
+e6f3075a-e252-44e3-b612-6d96ab973848,T.J. McConnell,204456,9,Assist,2020-02-02T00:00:00Z,2020-02-01,Base Set,T.J. McConnell Assist 2020-02-01 Base Set (Series 1),1500
+1882fa1d-a9f3-4ac5-99c9-b03480afe87e,Marcus Morris,202694,31,Dunk,2020-02-10T00:30:00Z,2020-02-09,Base Set,Marcus Morris Dunk 2020-02-09 Base Set (Series 1),1500
+a110f381-59ce-437a-b2b9-95fdbeb9a2c8,Rajon Rondo,200765,9,Jump Shot,2020-09-19T01:00:00Z,2020-09-18,Base Set,Rajon Rondo Jump Shot 2020-09-18 Base Set (Series 1),1000
+e2190c75-ecd0-44de-bb58-b3588c8701c9,Jonas Valančiūnas,202685,17,Dunk,2019-12-27T01:00:00Z,2019-12-26,Base Set,Jonas Valančiūnas Dunk 2019-12-26 Base Set (Series 1),1500
+815bf3d5-300d-4176-bc53-a89681b57811,Tyler Herro,1629639,14,Jump Shot,2020-10-07T01:00:00Z,2020-10-06,Base Set,Tyler Herro Jump Shot 2020-10-06 Base Set (Series 1),1500
+2e84ac4e-302a-43dc-a96b-ba615a77a5e9,Brook Lopez,201572,11,Dunk,2020-09-08T22:30:00Z,2020-09-08,Base Set,Brook Lopez Dunk 2020-09-08 Base Set (Series 1),1500
+399217f7-6db6-4d9d-8e98-ed9023f773d7,Karl-Anthony Towns,1626157,32,Dunk,2019-11-12T00:00:00Z,2019-11-11,Base Set,Karl-Anthony Towns Dunk 2019-11-11 Base Set (Series 1),75
+ed7f7aa7-eafa-4a4f-ad65-190127940941,Zion Williamson,1629627,1,Handles,2020-08-09T19:00:00Z,2020-08-09,Base Set,Zion Williamson Handles 2020-08-09 Base Set (Series 1),75
+a2f7eaeb-51e2-423c-bb21-f4e201a9e171,Dennis Smith Jr.,1628372,5,Dunk,2020-02-27T00:00:00Z,2020-02-26,Base Set,Dennis Smith Jr. Dunk 2020-02-26 Base Set (Series 1),75
+c32b29d6-48c9-4e0f-afe1-e28f712fa503,Darius Bazley,1629647,7,Dunk,2020-08-24T20:00:00Z,2020-08-24,Base Set,Darius Bazley Dunk 2020-08-24 Base Set (Series 1),1500
+2b32ab68-c81b-458d-827d-e5df7ed7acfc,Markelle Fultz,1628365,20,3 Pointer,2020-08-02T22:00:00Z,2020-08-02,Base Set,Markelle Fultz 3 Pointer 2020-08-02 Base Set (Series 1),75
+7fa85231-d92d-4df1-a631-2e85b48a4c11,Joel Embiid,203954,21,Layup,2020-02-21T01:00:00Z,2020-02-20,Base Set,Joel Embiid Layup 2020-02-20 Base Set (Series 1),1500
+b8f44af1-3464-4eb2-b69e-aed7bc2a78ac,Deandre Ayton,1629028,22,Dunk,2020-08-13T20:00:00Z,2020-08-13,Base Set,Deandre Ayton Dunk 2020-08-13 Base Set (Series 1),75
+53969395-987d-4de3-a47d-838d792025da,Damian Lillard,203081,0,Handles,2020-01-21T03:00:00Z,2020-01-20,Base Set,Damian Lillard Handles 2020-01-20 Base Set (Series 1),75
+e8a2bd7c-07e1-4bbb-a4b6-ec9851433f0f,De'Aaron Fox,1628368,5,Block,2019-11-03T23:00:00Z,2019-11-03,Base Set,De'Aaron Fox Block 2019-11-03 Base Set (Series 1),36
+9fd8ba34-ceb2-436d-bccd-01b9f4031932,DeMar DeRozan,201942,10,Dunk,2020-02-07T03:00:00Z,2020-02-06,Base Set,DeMar DeRozan Dunk 2020-02-06 Base Set (Series 1),75
+f32deb18-b2ff-4191-b1b7-904a86eaed0e,Serge Ibaka,201586,9,Block,2020-02-02T20:00:00Z,2020-02-02,Base Set,Serge Ibaka Block 2020-02-02 Base Set (Series 1),1000
+271b34eb-8050-4925-9108-c6600ca4606d,Jordan Clarkson,203903,00,Handles,2020-02-08T03:30:00Z,2020-02-07,Base Set,Jordan Clarkson Handles 2020-02-07 Base Set (Series 1),75
+e96153a7-b218-4da8-9e0f-6a79fe0e5df6,Bradley Beal,203078,3,Dunk,2020-02-25T00:00:00Z,2020-02-24,Base Set,Bradley Beal Dunk 2020-02-24 Base Set (Series 1),75
+7a766c35-2045-4940-a21f-4e8bd54a93b6,Giannis Antetokounmpo,203507,34,Dunk,2019-12-03T01:00:00Z,2019-12-02,Base Set,Giannis Antetokounmpo Dunk 2019-12-02 Base Set (Series 1),499
+ac9314ad-32af-4e83-899a-a347faa00385,Harry Giles,1628385,20,Assist,2020-03-04T03:00:00Z,2020-03-03,Base Set,Harry Giles Assist 2020-03-03 Base Set (Series 1),1000
+b0757777-868a-4efe-a98d-8e58e4eee94b,Troy Brown Jr.,1628972,6,Jump Shot,2020-08-13T16:00:00Z,2020-08-13,Base Set,Troy Brown Jr. Jump Shot 2020-08-13 Base Set (Series 1),1500
+bb4aac88-4a10-4159-b0ba-bb5a1e80e61d,Matisse Thybulle,1629680,22,Block,2020-08-07T22:30:00Z,2020-08-07,Base Set,Matisse Thybulle Block 2020-08-07 Base Set (Series 1),197
+2be622c8-36fd-41e7-9d3c-ea49c271956f,Trae Young,1629027,11,Handles,2019-11-06T00:30:00Z,2019-11-05,Metallic Gold LE,Trae Young Handles 2019-11-05 Metallic Gold LE (Series 1),25
+7bb10d8a-e605-4ec5-b69f-6c4a54d70845,Kyrie Irving,202681,11,Handles,2019-10-27T22:00:00Z,2019-10-27,Metallic Gold LE,Kyrie Irving Handles 2019-10-27 Metallic Gold LE (Series 1),150
+a53dc13f-3b6a-40f0-816d-5f222b239296,Jaylen Brown,1627759,7,Handles,2019-12-25T17:00:00Z,2019-12-25,Metallic Gold LE,Jaylen Brown Handles 2019-12-25 Metallic Gold LE (Series 1),50
+be4f526a-e0b1-4262-a9c9-2dce82a57f2e,John Collins,1628381,20,Dunk,2020-02-13T00:00:00Z,2020-02-12,Metallic Gold LE,John Collins Dunk 2020-02-12 Metallic Gold LE (Series 1),3999
+632d3d29-8b76-4f30-9d83-f5be86f3d71e,Cam Reddish,1629629,22,Dunk,2019-10-29T23:30:00Z,2019-10-29,Metallic Gold LE,Cam Reddish Dunk 2019-10-29 Metallic Gold LE (Series 1),299
+a2bb62c4-7501-4b26-b2e2-06544c66ecf6,Andrew Wiggins,203952,22,Dunk,2020-02-13T02:00:00Z,2020-02-12,Metallic Gold LE,Andrew Wiggins Dunk 2020-02-12 Metallic Gold LE (Series 1),299
+13abe3e9-63f4-40ee-bdfe-40cbe0c72a3b,Julius Randle,203944,30,Dunk,2019-11-30T00:30:00Z,2019-11-29,Metallic Gold LE,Julius Randle Dunk 2019-11-29 Metallic Gold LE (Series 1),1325
+e6e12295-181d-4d17-84ab-bb87dc7f437a,Nerlens Noel,203457,9,Dunk,2019-12-09T02:00:00Z,2019-12-08,Metallic Gold LE,Nerlens Noel Dunk 2019-12-08 Metallic Gold LE (Series 1),3346
+2417cdad-452f-4b4f-83db-f5e17e5879e7,Gary Harris,203914,14,Dunk,2019-11-01T01:30:00Z,2019-10-31,Metallic Gold LE,Gary Harris Dunk 2019-10-31 Metallic Gold LE (Series 1),299
+ce4f23f1-0159-410c-a562-74e10417d745,Domantas Sabonis,1627734,11,Dunk,2019-12-31T20:00:00Z,2019-12-31,Metallic Gold LE,Domantas Sabonis Dunk 2019-12-31 Metallic Gold LE (Series 1),3999
+f7b639eb-486f-4fc2-b67c-8bea8b663431,Ben Simmons,1627732,25,Layup,2019-12-29T01:00:00Z,2019-12-28,Metallic Gold LE,Ben Simmons Layup 2019-12-28 Metallic Gold LE (Series 1),1359
+4c21a774-5e77-4f3a-b414-617f0cc42f74,Jonas Valančiūnas,202685,17,Block,2020-01-12T23:00:00Z,2020-01-12,Metallic Gold LE,Jonas Valančiūnas Block 2020-01-12 Metallic Gold LE (Series 1),2981
+013dcdac-bc86-498e-aa3d-7719ac9bd6b6,Malcolm Brogdon,1627763,7,Dunk,2020-01-20T01:00:00Z,2020-01-19,Metallic Gold LE,Malcolm Brogdon Dunk 2020-01-19 Metallic Gold LE (Series 1),299
+033d39ba-d675-4836-9c95-8b96b3865f86,Brook Lopez,201572,11,Assist,2020-02-05T00:30:00Z,2020-02-04,Metallic Gold LE,Brook Lopez Assist 2020-02-04 Metallic Gold LE (Series 1),2983
+0357fd8e-0d19-41a9-939a-dbd81b2ca11a,Jordan McLaughlin,1629162,6,Dunk,2020-01-25T01:00:00Z,2020-01-24,Metallic Gold LE,Jordan McLaughlin Dunk 2020-01-24 Metallic Gold LE (Series 1),3999
+092685e0-8636-459d-a9d0-9a6c2ce150e6,Nikola Jokić,203999,15,Handles,2019-12-30T01:00:00Z,2019-12-29,Metallic Gold LE,Nikola Jokić Handles 2019-12-29 Metallic Gold LE (Series 1),1430
+08dbe88e-791e-46c9-b50e-195422e64cdf,P.J. Washington,1629023,25,Dunk,2019-11-06T00:00:00Z,2019-11-05,Metallic Gold LE,P.J. Washington Dunk 2019-11-05 Metallic Gold LE (Series 1),3999
+0a35b9f9-aecb-410c-a88c-8d9a2a46fe95,Caris LeVert,1627747,22,Assist,2019-11-01T23:00:00Z,2019-11-01,Metallic Gold LE,Caris LeVert Assist 2019-11-01 Metallic Gold LE (Series 1),299
+0b2b9e68-d52e-4511-910a-6ea5d37915ac,Karl-Anthony Towns,1626157,32,Dunk,2020-02-01T20:30:00Z,2020-02-01,Metallic Gold LE,Karl-Anthony Towns Dunk 2020-02-01 Metallic Gold LE (Series 1),2983
+0c3621c5-6308-4b19-81f3-47fecf146622,Tyler Herro,1629639,14,3 Pointer,2019-12-29T01:00:00Z,2019-12-28,Metallic Gold LE,Tyler Herro 3 Pointer 2019-12-28 Metallic Gold LE (Series 1),299
+10db33f6-f9dc-4571-86db-c49a6b33a863,Khris Middleton,203114,22,Dunk,2020-01-29T01:00:00Z,2020-01-28,Metallic Gold LE,Khris Middleton Dunk 2020-01-28 Metallic Gold LE (Series 1),50
+13901146-f010-462e-8261-09962d4ba945,Lonnie Walker,1629022,1,3 Pointer,2019-12-04T01:30:00Z,2019-12-03,Metallic Gold LE,Lonnie Walker 3 Pointer 2019-12-03 Metallic Gold LE (Series 1),299
+139451ca-f71d-44ad-9ffb-571d6f415389,Donte DiVincenzo,1628978,0,Dunk,2019-12-15T01:30:00Z,2019-12-14,Metallic Gold LE,Donte DiVincenzo Dunk 2019-12-14 Metallic Gold LE (Series 1),3999
+1849a19b-3e89-4c99-bce2-c404df45e1bc,Ky Bowman,1629065,12,Steal,2020-01-09T03:00:00Z,2020-01-08,Metallic Gold LE,Ky Bowman Steal 2020-01-08 Metallic Gold LE (Series 1),3340
+1aa21741-e484-4a51-9ea1-fc362e96c77f,Josh Richardson,1626196,0,Block,2020-02-08T00:00:00Z,2020-02-07,Metallic Gold LE,Josh Richardson Block 2020-02-07 Metallic Gold LE (Series 1),3345
+1d307d9a-aed4-48cd-864a-7691c23f6025,Bruce Brown,1628971,6,Dunk,2020-02-24T02:00:00Z,2020-02-23,Metallic Gold LE,Bruce Brown Dunk 2020-02-23 Metallic Gold LE (Series 1),3339
+1acc1232-5946-4399-bf98-c99a1c94dec4,Miles Bridges,1628970,0,Dunk,2019-11-14T00:00:00Z,2019-11-13,Metallic Gold LE,Miles Bridges Dunk 2019-11-13 Metallic Gold LE (Series 1),3999
+1f4f3224-d9b9-4bcf-b99e-da10ca8b9eb8,Seth Curry,203552,30,Assist,2019-12-27T01:00:00Z,2019-12-26,Metallic Gold LE,Seth Curry Assist 2019-12-26 Metallic Gold LE (Series 1),3340
+1fc9b2f1-d444-4645-a12a-7d0500214fa2,Trevor Ariza,2772,8,Dunk,2020-01-27T02:00:00Z,2020-01-26,Metallic Gold LE,Trevor Ariza Dunk 2020-01-26 Metallic Gold LE (Series 1),3345
+2563de53-9c32-42a8-9413-dd0158e9c656,Carmelo Anthony,2546,00,Jump Shot,2020-01-08T00:00:00Z,2020-01-07,Metallic Gold LE,Carmelo Anthony Jump Shot 2020-01-07 Metallic Gold LE (Series 1),3999
+2d19469f-7b16-4f1d-b604-490562dab3fc,Moritz Wagner,1629021,21,Handles,2019-11-05T00:00:00Z,2019-11-04,Metallic Gold LE,Moritz Wagner Handles 2019-11-04 Metallic Gold LE (Series 1),3999
+2e21d0e2-5a39-41b2-88e9-7cd19504394f,Jalen Brunson,1628973,13,3 Pointer,2019-12-07T19:00:00Z,2019-12-07,Metallic Gold LE,Jalen Brunson 3 Pointer 2019-12-07 Metallic Gold LE (Series 1),299
+369bf6f3-4e96-453f-adfc-7e5ca03a3e77,Ricky Rubio,201937,11,Layup,2020-03-01T02:00:00Z,2020-02-29,Metallic Gold LE,Ricky Rubio Layup 2020-02-29 Metallic Gold LE (Series 1),3345
+37eb7d21-30ea-46f6-bae3-ab7ba0de8798,Eric Bledsoe,202339,6,Assist,2019-11-07T03:00:00Z,2019-11-06,Metallic Gold LE,Eric Bledsoe Assist 2019-11-06 Metallic Gold LE (Series 1),299
+38958d66-8ed0-4ef7-ada7-e0fcefc5eb8c,Dāvis Bertāns,202722,42,3 Pointer,2020-01-23T00:30:00Z,2020-01-22,Metallic Gold LE,Dāvis Bertāns 3 Pointer 2020-01-22 Metallic Gold LE (Series 1),3999
+40ebbf73-582a-4e8c-bf6e-627aee3d6f83,CJ McCollum,203468,3,Dunk,2019-11-11T02:00:00Z,2019-11-10,Metallic Gold LE,CJ McCollum Dunk 2019-11-10 Metallic Gold LE (Series 1),3999
+37edf037-8f27-4b82-92db-b6e2db4d3bb0,Marcus Smart,203935,36,Steal,2019-11-21T03:00:00Z,2019-11-20,Metallic Gold LE,Marcus Smart Steal 2019-11-20 Metallic Gold LE (Series 1),1527
+41a6a797-7fe9-4ed3-b96c-d0b533248670,Collin Sexton,1629012,2,Dunk,2019-10-30T23:00:00Z,2019-10-30,Metallic Gold LE,Collin Sexton Dunk 2019-10-30 Metallic Gold LE (Series 1),3999
+4121cf7f-cd12-4c3c-a5bf-414478213c19,Ish Smith,202397,14,Steal,2020-02-24T00:00:00Z,2020-02-23,Metallic Gold LE,Ish Smith Steal 2020-02-23 Metallic Gold LE (Series 1),3999
+452fe9d1-c87c-4de7-85de-5fc400081c2d,Christian Wood,1626174,35,Dunk,2019-12-01T22:00:00Z,2019-12-01,Metallic Gold LE,Christian Wood Dunk 2019-12-01 Metallic Gold LE (Series 1),3339
+45c2c7f0-c0f1-4ab8-8d5c-b836dfce41a5,Aaron Gordon,203932,00,Dunk,2020-01-16T03:30:00Z,2020-01-15,Metallic Gold LE,Aaron Gordon Dunk 2020-01-15 Metallic Gold LE (Series 1),299
+46b46192-21f7-4b69-bf9c-b70eec06f83d,Giannis Antetokounmpo,203507,34,Dunk,2019-11-17T00:00:00Z,2019-11-16,Metallic Gold LE,Giannis Antetokounmpo Dunk 2019-11-16 Metallic Gold LE (Series 1),50
+4a5c6bf5-76af-4f35-8db8-204c5039443d,Buddy Hield,1627741,24,Dunk,2019-12-14T03:00:00Z,2019-12-13,Metallic Gold LE,Buddy Hield Dunk 2019-12-13 Metallic Gold LE (Series 1),50
+509e65a9-b83c-4b36-82a3-d8771814f1ea,Patrick Beverley,201976,21,3 Pointer,2020-02-04T03:30:00Z,2020-02-03,Metallic Gold LE,Patrick Beverley 3 Pointer 2020-02-03 Metallic Gold LE (Series 1),3999
+48fa13c5-c9fb-4846-b260-3c3b4b503039,Shai Gilgeous-Alexander,1628983,2,Handles,2019-10-27T19:30:00Z,2019-10-27,Metallic Gold LE,Shai Gilgeous-Alexander Handles 2019-10-27 Metallic Gold LE (Series 1),299
+5d307322-b310-42f0-8b23-8da94465b4bf,Cody Zeller,203469,40,Dunk,2020-02-21T01:00:00Z,2020-02-20,Metallic Gold LE,Cody Zeller Dunk 2020-02-20 Metallic Gold LE (Series 1),3999
+50fde806-fe34-4a47-b48e-7c5b3dbcff4e,Steven Adams,203500,12,Assist,2019-12-07T01:00:00Z,2019-12-06,Metallic Gold LE,Steven Adams Assist 2019-12-06 Metallic Gold LE (Series 1),50
+5f12f915-3ed8-4f60-8236-c88781431673,Kevin Porter Jr.,1629645,4,Dunk,2020-02-10T00:30:00Z,2020-02-09,Metallic Gold LE,Kevin Porter Jr. Dunk 2020-02-09 Metallic Gold LE (Series 1),250
+5d4b8bba-6b24-44b9-912e-8b88f1937751,Kemba Walker,202689,8,Assist,2019-12-12T00:00:00Z,2019-12-11,Metallic Gold LE,Kemba Walker Assist 2019-12-11 Metallic Gold LE (Series 1),299
+60695463-d3b5-481b-a214-4a81707523be,Reggie Bullock,203493,25,Steal,2020-01-08T03:30:00Z,2020-01-07,Metallic Gold LE,Reggie Bullock Steal 2020-01-07 Metallic Gold LE (Series 1),3999
+63387e74-299e-4bf3-9811-4e94716dc206,Al Horford,201143,42,Block,2019-12-03T00:00:00Z,2019-12-02,Metallic Gold LE,Al Horford Block 2019-12-02 Metallic Gold LE (Series 1),299
+66bd7c42-7111-434c-abef-5f4d8dbfbc20,Svi Mykhailiuk,1629004,19,3 Pointer,2020-01-16T00:00:00Z,2020-01-15,Metallic Gold LE,Svi Mykhailiuk 3 Pointer 2020-01-15 Metallic Gold LE (Series 1),3999
+60a83f27-9614-4c55-b9c2-081b7daa6a68,Myles Turner,1626167,33,Dunk,2020-01-25T03:30:00Z,2020-01-24,Metallic Gold LE,Myles Turner Dunk 2020-01-24 Metallic Gold LE (Series 1),3999
+681b6cae-7724-4475-a101-b2fb5ca7f516,Marquese Chriss,1627737,32,Dunk,2020-02-09T01:30:00Z,2020-02-08,Metallic Gold LE,Marquese Chriss Dunk 2020-02-08 Metallic Gold LE (Series 1),49
+6028f7b9-7f8b-45b0-ba2b-c1f8523b7b64,Anthony Davis,203076,3,Dunk,2020-01-02T03:30:00Z,2020-01-01,Metallic Gold LE,Anthony Davis Dunk 2020-01-01 Metallic Gold LE (Series 1),275
+59c27a62-5054-4ff7-bfd9-2044dcbfe4a7,Bradley Beal,203078,3,Layup,2020-02-08T00:00:00Z,2020-02-07,Metallic Gold LE,Bradley Beal Layup 2020-02-07 Metallic Gold LE (Series 1),50
+64ef4a70-2690-4f10-a660-7afb0786af61,Andre Drummond,203083,3,Dunk,2020-02-10T00:30:00Z,2020-02-09,Metallic Gold LE,Andre Drummond Dunk 2020-02-09 Metallic Gold LE (Series 1),50
+67319ec3-e326-4529-b452-cc79b1d2bd65,Bam Adebayo,1628389,13,Block,2019-10-29T23:30:00Z,2019-10-29,Metallic Gold LE,Bam Adebayo Block 2019-10-29 Metallic Gold LE (Series 1),50
+690b3e21-e036-4eb0-ae81-c449e67b8b3d,Donovan Mitchell,1628378,45,Block,2019-10-26T02:30:00Z,2019-10-25,Metallic Gold LE,Donovan Mitchell Block 2019-10-25 Metallic Gold LE (Series 1),50
+6aaed757-2d22-44c7-8f64-e7a46ca0c13e,Bojan Bogdanović,202711,44,3 Pointer,2020-02-10T00:00:00Z,2020-02-09,Metallic Gold LE,Bojan Bogdanović 3 Pointer 2020-02-09 Metallic Gold LE (Series 1),3999
+6ea9985c-06b8-4464-a131-6194cfde01ba,James Harden,201935,13,Layup,2020-02-05T01:00:00Z,2020-02-04,Metallic Gold LE,James Harden Layup 2020-02-04 Metallic Gold LE (Series 1),50
+64c5104d-9bac-4e88-8554-c78e5ff23c76,JaVale McGee,201580,7,Block,2020-01-16T03:30:00Z,2020-01-15,Metallic Gold LE,JaVale McGee Block 2020-01-15 Metallic Gold LE (Series 1),3339
+715bac73-3bc7-40d2-905c-783e2bef516d,Josh Okogie,1629006,20,Dunk,2020-02-23T23:00:00Z,2020-02-23,Metallic Gold LE,Josh Okogie Dunk 2020-02-23 Metallic Gold LE (Series 1),275
+750ca511-3ee7-4c7f-bba8-ebaa997fe991,Spencer Dinwiddie,203915,8,Jump Shot,2019-11-26T00:00:00Z,2019-11-25,Metallic Gold LE,Spencer Dinwiddie Jump Shot 2019-11-25 Metallic Gold LE (Series 1),50
+7baad966-60e3-4a48-bb85-954375c560e1,Langston Galloway,204038,9,Jump Shot,2019-12-17T00:00:00Z,2019-12-16,Metallic Gold LE,Langston Galloway Jump Shot 2019-12-16 Metallic Gold LE (Series 1),50
+79988343-3301-41b2-8870-286ddc1ddad3,Nemanja Bjelica,202357,88,3 Pointer,2019-12-10T01:00:00Z,2019-12-09,Metallic Gold LE,Nemanja Bjelica 3 Pointer 2019-12-09 Metallic Gold LE (Series 1),199
+81883ed8-b2a1-47fe-b120-e5ebe8b26a3f,P.J. Tucker,200782,17,Layup,2019-11-12T01:00:00Z,2019-11-11,Metallic Gold LE,P.J. Tucker Layup 2019-11-11 Metallic Gold LE (Series 1),3999
+819762b5-ca6c-4a5c-83d5-e60a30322e52,Kawhi Leonard,202695,2,Dunk,2019-11-21T03:00:00Z,2019-11-20,Metallic Gold LE,Kawhi Leonard Dunk 2019-11-20 Metallic Gold LE (Series 1),50
+84da01bc-2df9-43e5-90d4-0e7764361f1a,Thaddeus Young,201152,21,Dunk,2020-01-11T01:00:00Z,2020-01-10,Metallic Gold LE,Thaddeus Young Dunk 2020-01-10 Metallic Gold LE (Series 1),3999
+856f785c-14cb-4c29-8d77-9d0c210ab700,Mitchell Robinson,1629011,23,Dunk,2019-12-27T00:30:00Z,2019-12-26,Metallic Gold LE,Mitchell Robinson Dunk 2019-12-26 Metallic Gold LE (Series 1),299
+8d03262c-f399-4847-8a4c-d31399c4edee,Nikola Vučević,202696,9,Dunk,2020-01-05T00:00:00Z,2020-01-04,Metallic Gold LE,Nikola Vučević Dunk 2020-01-04 Metallic Gold LE (Series 1),1434
+8235d2a8-9257-475a-8cf2-5cb79768d14a,Andre Iguodala,2738,28,Steal,2020-02-10T02:00:00Z,2020-02-09,Metallic Gold LE,Andre Iguodala Steal 2020-02-09 Metallic Gold LE (Series 1),499
+8f145480-369e-4337-a283-08f51e0becbb,Jrue Holiday,201950,11,Assist,2019-11-01T01:30:00Z,2019-10-31,Metallic Gold LE,Jrue Holiday Assist 2019-10-31 Metallic Gold LE (Series 1),3342
+8d3a2c69-e1fe-4074-86cd-64b3e012f1d4,Tobias Harris,202699,12,Dunk,2020-02-12T00:00:00Z,2020-02-11,Metallic Gold LE,Tobias Harris Dunk 2020-02-11 Metallic Gold LE (Series 1),275
+914eb8b9-90fc-4998-b83a-5cb6a264588d,Kelly Oubre Jr.,1626162,3,Block,2020-01-11T02:00:00Z,2020-01-10,Metallic Gold LE,Kelly Oubre Jr. Block 2020-01-10 Metallic Gold LE (Series 1),3345
+92f4ecc2-6f75-47bf-9eb7-3d3756b83157,RJ Barrett,1629628,9,Layup,2019-10-24T00:30:00Z,2019-10-23,Metallic Gold LE,RJ Barrett Layup 2019-10-23 Metallic Gold LE (Series 1),299
+93e0f73a-69e7-4e58-ba89-7345a60f5a47,Joel Embiid,203954,21,Assist,2019-10-28T23:30:00Z,2019-10-28,Metallic Gold LE,Joel Embiid Assist 2019-10-28 Metallic Gold LE (Series 1),2987
+96036142-7feb-45ab-b6af-6dda0b6264e9,T.J. Warren,203933,1,Layup,2020-02-22T00:30:00Z,2020-02-21,Metallic Gold LE,T.J. Warren Layup 2020-02-21 Metallic Gold LE (Series 1),3999
+98b223f0-38eb-4862-8a6c-3ef9baa2601e,Mikal Bridges,1628969,25,Dunk,2020-01-23T02:00:00Z,2020-01-22,Metallic Gold LE,Mikal Bridges Dunk 2020-01-22 Metallic Gold LE (Series 1),3999
+99a3f83b-6510-437e-8cae-9ea4848b105c,Eric Paschall,1629672,7,Dunk,2020-01-05T01:30:00Z,2020-01-04,Metallic Gold LE,Eric Paschall Dunk 2020-01-04 Metallic Gold LE (Series 1),1257
+9939a2dc-7c95-4c02-b747-9fee26c9d040,Zach LaVine,203897,8,3 Pointer,2019-11-24T00:00:00Z,2019-11-23,Metallic Gold LE,Zach LaVine 3 Pointer 2019-11-23 Metallic Gold LE (Series 1),49
+99bd66dc-3ea3-4333-8fb3-b46c24b688e1,Chris Paul,101108,3,Handles,2020-01-10T02:30:00Z,2020-01-09,Metallic Gold LE,Chris Paul Handles 2020-01-09 Metallic Gold LE (Series 1),1434
+9ac24e13-f3df-4235-acb0-b9b42c73ac0f,Darius Garland,1629636,10,Layup,2020-01-19T01:00:00Z,2020-01-18,Metallic Gold LE,Darius Garland Layup 2020-01-18 Metallic Gold LE (Series 1),250
+9add876a-b8f3-477c-a800-46ae136da628,Jaren Jackson Jr.,1628991,13,Dunk,2019-11-09T00:00:00Z,2019-11-08,Metallic Gold LE,Jaren Jackson Jr. Dunk 2019-11-08 Metallic Gold LE (Series 1),275
+9de27cfc-02b4-4884-a758-69dcfa61b6c3,Josh Hart,1628404,3,Layup,2020-02-24T01:30:00Z,2020-02-23,Metallic Gold LE,Josh Hart Layup 2020-02-23 Metallic Gold LE (Series 1),3999
+9efe1583-9c4f-4351-aef3-4794e7c3ae29,Torrey Craig,1628470,3,Block,2019-10-26T01:00:00Z,2019-10-25,Metallic Gold LE,Torrey Craig Block 2019-10-25 Metallic Gold LE (Series 1),3340
+a0757a24-f9b4-47e7-90fe-3813f0671c1b,Tyus Jones,1626145,21,Assist,2019-12-30T01:00:00Z,2019-12-29,Metallic Gold LE,Tyus Jones Assist 2019-12-29 Metallic Gold LE (Series 1),299
+a13c0faf-5aeb-45b4-b6b8-f67c8d312639,Dennis Smith Jr.,1628372,5,Handles,2019-12-06T00:30:00Z,2019-12-05,Metallic Gold LE,Dennis Smith Jr. Handles 2019-12-05 Metallic Gold LE (Series 1),2987
+a84fd0fe-1177-4f79-8497-e9d955d272c4,Paul George,202331,13,Jump Shot,2020-01-05T20:30:00Z,2020-01-05,Metallic Gold LE,Paul George Jump Shot 2020-01-05 Metallic Gold LE (Series 1),299
+a9dc398e-c76e-4c8f-ac52-b999222d4110,Devin Booker,1626164,1,Block,2019-11-28T02:00:00Z,2019-11-27,Metallic Gold LE,Devin Booker Block 2019-11-27 Metallic Gold LE (Series 1),1358
+abd4da56-b32e-4b41-baac-728a147a6e73,Jayson Tatum,1628369,0,Handles,2019-11-21T03:00:00Z,2019-11-20,Metallic Gold LE,Jayson Tatum Handles 2019-11-20 Metallic Gold LE (Series 1),299
+aefc2852-2bce-46d6-87f1-0ad0e5b27169,Austin Rivers,203085,25,Handles,2019-10-29T00:00:00Z,2019-10-28,Metallic Gold LE,Austin Rivers Handles 2019-10-28 Metallic Gold LE (Series 1),3339
+afe889a6-f320-49af-bdde-db9fa2b73255,Alex Caruso,1627936,4,Block,2020-02-26T03:00:00Z,2020-02-25,Metallic Gold LE,Alex Caruso Block 2020-02-25 Metallic Gold LE (Series 1),1530
+b2afd92f-bcf5-494f-9b05-b5a50165d106,Kristaps Porziņģis,204001,6,3 Pointer,2019-12-15T01:30:00Z,2019-12-14,Metallic Gold LE,Kristaps Porziņģis 3 Pointer 2019-12-14 Metallic Gold LE (Series 1),50
+b6e2029d-b4a6-4449-8293-82df2b886685,Deandre Ayton,1629028,22,Dunk,2019-10-24T02:00:00Z,2019-10-23,Metallic Gold LE,Deandre Ayton Dunk 2019-10-23 Metallic Gold LE (Series 1),2986
+b9c3353c-1ba6-463e-811f-e98998edbbc9,Dejounte Murray,1627749,5,Layup,2019-11-08T01:30:00Z,2019-11-07,Metallic Gold LE,Dejounte Murray Layup 2019-11-07 Metallic Gold LE (Series 1),3999
+ba1502dd-34ae-4712-b84e-5252e46d8ee3,Kendrick Nunn,1629134,25,Dunk,2019-12-14T00:00:00Z,2019-12-13,Metallic Gold LE,Kendrick Nunn Dunk 2019-12-13 Metallic Gold LE (Series 1),250
+bae1c7dd-2fa6-487a-b711-3eee3573f3c6,Rudy Gobert,203497,27,Block,2020-01-25T22:00:00Z,2020-01-25,Metallic Gold LE,Rudy Gobert Block 2020-01-25 Metallic Gold LE (Series 1),1358
+ba440138-ea39-4337-9ded-7a39641b798a,Eric Gordon,201569,10,Dunk,2019-11-05T01:00:00Z,2019-11-04,Metallic Gold LE,Eric Gordon Dunk 2019-11-04 Metallic Gold LE (Series 1),49
+bea7b634-2aa5-4e42-a584-682c47488fcc,Pascal Siakam,1627783,43,Block,2019-11-11T02:30:00Z,2019-11-10,Metallic Gold LE,Pascal Siakam Block 2019-11-10 Metallic Gold LE (Series 1),3999
+bda6ced4-49f9-47ce-b26e-7ff49462e5e7,Cedi Osman,1626224,16,Assist,2020-02-06T01:00:00Z,2020-02-05,Metallic Gold LE,Cedi Osman Assist 2020-02-05 Metallic Gold LE (Series 1),299
+bd35ad7c-3d81-4d3c-91f3-2ddfdf47beb4,Fred VanVleet,1627832,23,Handles,2019-10-28T23:30:00Z,2019-10-28,Metallic Gold LE,Fred VanVleet Handles 2019-10-28 Metallic Gold LE (Series 1),150
+c4763b3a-b5d4-494c-bb2d-11ea892f8eaf,Serge Ibaka,201586,9,Dunk,2019-11-07T00:30:00Z,2019-11-06,Metallic Gold LE,Serge Ibaka Dunk 2019-11-06 Metallic Gold LE (Series 1),2986
+c4bfcef7-bc6c-4f24-a57d-115332160e31,Joe Harris,203925,12,Layup,2019-12-01T20:00:00Z,2019-12-01,Metallic Gold LE,Joe Harris Layup 2019-12-01 Metallic Gold LE (Series 1),3999
+c8ad129e-a803-4400-9025-2c4209bd2ed4,D'Angelo Russell,1626156,0,Block,2020-02-27T00:30:00Z,2020-02-26,Metallic Gold LE,D'Angelo Russell Block 2020-02-26 Metallic Gold LE (Series 1),50
+cf256a06-baae-4b24-8b06-f441cb0a1821,OG Anunoby,1628384,3,Block,2019-10-27T00:00:00Z,2019-10-26,Metallic Gold LE,OG Anunoby Block 2019-10-26 Metallic Gold LE (Series 1),1358
+d012e87f-7aec-4f5d-969b-2af03890ab4f,Zion Williamson,1629627,1,Block,2020-01-25T01:00:00Z,2020-01-24,Metallic Gold LE,Zion Williamson Block 2020-01-24 Metallic Gold LE (Series 1),192
+d41d9323-aab7-47d3-83ea-4871fcc72bb9,Kyle Lowry,200768,7,3 Pointer,2020-01-18T00:00:00Z,2020-01-17,Metallic Gold LE,Kyle Lowry 3 Pointer 2020-01-17 Metallic Gold LE (Series 1),1532
+d7b7d67e-2e13-4b79-8d75-6e5a246808b6,Dillon Brooks,1628415,24,Assist,2020-01-04T20:30:00Z,2020-01-04,Metallic Gold LE,Dillon Brooks Assist 2020-01-04 Metallic Gold LE (Series 1),3999
+dd921acd-925e-4310-b5bd-4d9a6954838e,Jarrett Culver,1629633,23,Dunk,2020-01-02T01:00:00Z,2020-01-01,Metallic Gold LE,Jarrett Culver Dunk 2020-01-01 Metallic Gold LE (Series 1),3999
+ddc54fac-555c-47f5-b6ee-41996aa1ed10,Jarrett Allen,1628386,31,Block,2020-01-08T00:30:00Z,2020-01-07,Metallic Gold LE,Jarrett Allen Block 2020-01-07 Metallic Gold LE (Series 1),299
+e2c09c0f-e04b-45db-9f5f-7cd0e6c5ed2b,Luka Dončić,1629029,77,Dunk,2020-03-12T00:00:00Z,2020-03-11,Metallic Gold LE,Luka Dončić Dunk 2020-03-11 Metallic Gold LE (Series 1),299
+e7633839-540c-4f66-83f4-069ae71a6f76,Marvin Bagley III,1628963,35,Dunk,2020-01-16T03:00:00Z,2020-01-15,Metallic Gold LE,Marvin Bagley III Dunk 2020-01-15 Metallic Gold LE (Series 1),3999
+daed1bad-9d00-4a50-9237-09ba526b8f46,Bismack Biyombo,202687,8,Dunk,2020-01-05T01:30:00Z,2020-01-04,Metallic Gold LE,Bismack Biyombo Dunk 2020-01-04 Metallic Gold LE (Series 1),3999
+de32d3fb-0e6a-447e-b42a-08bbf1607b7d,LeBron James,2544,23,Dunk,2019-11-16T03:30:00Z,2019-11-15,Metallic Gold LE,LeBron James Dunk 2019-11-15 Metallic Gold LE (Series 1),299
+e11073b8-60c0-45bc-9bbd-680842630ffa,Lou Williams,101150,23,Handles,2020-01-05T20:30:00Z,2020-01-05,Metallic Gold LE,Lou Williams Handles 2020-01-05 Metallic Gold LE (Series 1),3999
+e48cf01d-0343-48fd-a4ae-c789633cba11,Ja Morant,1629630,12,Dunk,2019-12-12T02:00:00Z,2019-12-11,Metallic Gold LE,Ja Morant Dunk 2019-12-11 Metallic Gold LE (Series 1),49
+e77e11f0-0308-4779-b0b0-1ee62e4a3304,Mike Conley,201144,10,3 Pointer,2019-11-12T03:30:00Z,2019-11-11,Metallic Gold LE,Mike Conley 3 Pointer 2019-11-11 Metallic Gold LE (Series 1),3999
+e8b1c258-b832-4f1b-b0cf-6f8864bafe9b,Terrence Ross,203082,8,Dunk,2020-01-19T01:30:00Z,2020-01-18,Metallic Gold LE,Terrence Ross Dunk 2020-01-18 Metallic Gold LE (Series 1),3999
+eb913d1c-534a-43f0-9e11-7cc3e64407e7,Joe Ingles,204060,2,Assist,2020-01-09T02:00:00Z,2020-01-08,Metallic Gold LE,Joe Ingles Assist 2020-01-08 Metallic Gold LE (Series 1),3999
+ecac4cfb-38ad-4911-8e2d-1018fe603d6e,Victor Oladipo,203506,4,3 Pointer,2020-01-30T00:00:00Z,2020-01-29,Metallic Gold LE,Victor Oladipo 3 Pointer 2020-01-29 Metallic Gold LE (Series 1),49
+ef100f9e-ed36-442d-bd6b-f1fa857decd1,Derrick Rose,201565,25,Jump Shot,2019-12-10T01:00:00Z,2019-12-09,Metallic Gold LE,Derrick Rose Jump Shot 2019-12-09 Metallic Gold LE (Series 1),50
+f2a3c763-f7ff-4342-a209-44a34cdf1d02,Damian Lillard,203081,0,Dunk,2019-10-24T02:00:00Z,2019-10-23,Metallic Gold LE,Damian Lillard Dunk 2019-10-23 Metallic Gold LE (Series 1),49
+f2b46d5c-58f8-424c-ad5e-c1459160da2c,De'Aaron Fox,1628368,5,Layup,2019-11-02T02:00:00Z,2019-11-01,Metallic Gold LE,De'Aaron Fox Layup 2019-11-01 Metallic Gold LE (Series 1),299
+f1690178-bd14-4ce0-82ab-06e8ecfd690b,Jimmy Butler,202710,22,3 Pointer,2019-12-11T01:00:00Z,2019-12-10,Metallic Gold LE,Jimmy Butler 3 Pointer 2019-12-10 Metallic Gold LE (Series 1),49
+f552b506-b41d-4e7c-ac5a-59427f9e96e6,Steph Curry,201939,30,Assist,2020-03-06T03:30:00Z,2020-03-05,Metallic Gold LE,Steph Curry Assist 2020-03-05 Metallic Gold LE (Series 1),50
+f7e408b6-e70e-4bcf-98d1-faab9f99242d,Montrezl Harrell,1626149,5,Dunk,2020-02-14T01:00:00Z,2020-02-13,Metallic Gold LE,Montrezl Harrell Dunk 2020-02-13 Metallic Gold LE (Series 1),3340
+ff3f472f-335e-41a1-9557-7c369793b9f0,Hassan Whiteside,202355,21,Block,2020-01-21T03:00:00Z,2020-01-20,Metallic Gold LE,Hassan Whiteside Block 2020-01-20 Metallic Gold LE (Series 1),3344
+ffe420ae-a89c-4c21-b080-086172c5277d,Rudy Gay,200752,22,Dunk,2020-01-12T23:00:00Z,2020-01-12,Metallic Gold LE,Rudy Gay Dunk 2020-01-12 Metallic Gold LE (Series 1),299
+154d896e-7093-466c-89e4-7832e638f751,Jerami Grant,203924,9,Dunk,2020-03-10T01:00:00Z,2020-03-09,Metallic Gold LE,Jerami Grant Dunk 2020-03-09 Metallic Gold LE (Series 1),1198
+34169e0a-8c2c-47f4-97c8-f63bbf727290,Enes Kanter,202683,11,Steal,2019-12-13T01:00:00Z,2019-12-12,Metallic Gold LE,Enes Kanter Steal 2019-12-12 Metallic Gold LE (Series 1),2488
+32d29dc7-8386-444a-9984-cd035134fa6d,Josh Jackson,1628367,20,Steal,2020-03-11T00:00:00Z,2020-03-10,Metallic Gold LE,Josh Jackson Steal 2020-03-10 Metallic Gold LE (Series 1),299
+e6481a27-3932-46ca-a556-ed2b58c28b80,George Hill,201588,3,Steal,2019-11-09T02:00:00Z,2019-11-08,Metallic Gold LE,George Hill Steal 2019-11-08 Metallic Gold LE (Series 1),299
+4c878013-6ec3-4666-8fce-533881f32d8a,Patty Mills,201988,8,Steal,2020-02-02T02:00:00Z,2020-02-01,Metallic Gold LE,Patty Mills Steal 2020-02-01 Metallic Gold LE (Series 1),299
+4c58ee46-29cf-4aa6-9be0-0377ca2e6323,Delon Wright,1626153,55,Layup,2020-02-08T00:00:00Z,2020-02-07,Metallic Gold LE,Delon Wright Layup 2020-02-07 Metallic Gold LE (Series 1),2092
+15ecf851-ffa0-42bd-adbc-bacec92adf71,Justin Holiday,203200,8,Layup,2020-01-09T00:00:00Z,2020-01-08,Metallic Gold LE,Justin Holiday Layup 2020-01-08 Metallic Gold LE (Series 1),2767
+609eba0d-3694-41e8-a720-84ecbfff996b,Mo Bamba,1628964,5,Dunk,2019-10-30T23:00:00Z,2019-10-30,Metallic Gold LE,Mo Bamba Dunk 2019-10-30 Metallic Gold LE (Series 1),2767
+2faa8899-3212-48b7-ae99-b56fb0f7d277,Norman Powell,1626181,24,Dunk,2020-02-01T00:00:00Z,2020-01-31,Metallic Gold LE,Norman Powell Dunk 2020-01-31 Metallic Gold LE (Series 1),299
+9b94ef4d-920f-42d6-a301-7c1748ab431b,Boban Marjanovic,1626246,51,Dunk,2020-08-03T01:00:00Z,2020-08-02,Metallic Gold LE,Boban Marjanovic Dunk 2020-08-02 Metallic Gold LE (Series 1),2681
+e1acc264-12fa-47d5-aa6f-291e53158cd0,Bol Bol,1629626,10,Dunk,2020-08-07T00:00:00Z,2020-08-06,Metallic Gold LE,Bol Bol Dunk 2020-08-06 Metallic Gold LE (Series 1),299
+ac1d80de-8288-47d6-b34e-53fc494dd5f1,Jusuf Nurkić,203994,27,Dunk,2020-07-31T20:00:00Z,2020-07-31,Metallic Gold LE,Jusuf Nurkić Dunk 2020-07-31 Metallic Gold LE (Series 1),2680
+602c7d72-ead9-4c1c-a9fe-dde267f1a0b7,Jakob Poeltl,1627751,25,Block,2020-08-01T00:00:00Z,2020-07-31,Metallic Gold LE,Jakob Poeltl Block 2020-07-31 Metallic Gold LE (Series 1),299
+46f9e2fc-d787-4905-ab90-a85d69efc9eb,Shabazz Napier,203894,5,Jump Shot,2020-08-05T20:00:00Z,2020-08-05,Metallic Gold LE,Shabazz Napier Jump Shot 2020-08-05 Metallic Gold LE (Series 1),299
+e4378edf-c2bd-41c4-a6f1-36a7ef8217ac,Danuel House Jr.,1627863,4,Dunk,2020-08-18T22:30:00Z,2020-08-18,Metallic Gold LE,Danuel House Jr. Dunk 2020-08-18 Metallic Gold LE (Series 1),3525
+0efe3a9b-767d-4b43-8ef9-8dafc464646c,JaMychal Green,203210,4,Dunk,2020-08-30T19:30:00Z,2020-08-30,Metallic Gold LE,JaMychal Green Dunk 2020-08-30 Metallic Gold LE (Series 1),2850
+82fba3e8-eff4-402d-b45a-9c65ff8e1220,Landry Shamet,1629013,20,Dunk,2020-08-22T01:00:00Z,2020-08-21,Metallic Gold LE,Landry Shamet Dunk 2020-08-21 Metallic Gold LE (Series 1),2851
+68b6c94f-99c4-4371-8bc7-09124ae304e3,Dennis Schröder,203471,17,Layup,2020-08-24T20:00:00Z,2020-08-24,Metallic Gold LE,Dennis Schröder Layup 2020-08-24 Metallic Gold LE (Series 1),2852
+f9f9cec9-acbe-42da-8fa1-1c623f095f59,Rui Hachimura,1629060,8,Dunk,2019-11-09T00:00:00Z,2019-11-08,Metallic Gold LE,Rui Hachimura Dunk 2019-11-08 Metallic Gold LE (Series 1),49
+fa00b3e9-ef09-4aa0-9c33-f54fb15ab5dc,Lonzo Ball,1628366,2,Assist,2019-12-10T01:00:00Z,2019-12-09,Metallic Gold LE,Lonzo Ball Assist 2019-12-09 Metallic Gold LE (Series 1),3999
+9fc007e3-bc33-4047-8ffd-dc9a59c0fbc4,Michael Porter Jr.,1629008,1,Dunk,2019-12-30T01:00:00Z,2019-12-29,Metallic Gold LE,Michael Porter Jr. Dunk 2019-12-29 Metallic Gold LE (Series 1),150
+9cf44355-e828-4228-b204-7a4f0484df4a,DeMar DeRozan,201942,10,Dunk,2020-01-12T23:00:00Z,2020-01-12,Metallic Gold LE,DeMar DeRozan Dunk 2020-01-12 Metallic Gold LE (Series 1),299
+c0fa2c26-fce9-46f0-8b68-c36dc6e762c6,Jamal Murray,1627750,27,Dunk,2019-12-28T22:00:00Z,2019-12-28,Metallic Gold LE,Jamal Murray Dunk 2019-12-28 Metallic Gold LE (Series 1),50
+a1cdab2e-8d67-4531-9e60-bf7576f91902,Danny Green,201980,14,Dunk,2019-11-18T02:30:00Z,2019-11-17,Metallic Gold LE,Danny Green Dunk 2019-11-17 Metallic Gold LE (Series 1),1000
+9c0cd57c-8203-4ec1-9a0c-9b7e7a6f0635,Bogdan Bogdanović,203992,8,Assist,2019-10-29T02:00:00Z,2019-10-28,Metallic Gold LE,Bogdan Bogdanović Assist 2019-10-28 Metallic Gold LE (Series 1),3345
+45afe5ed-a21d-4cb1-90fe-738cb890c550,Coby White,1629632,0,Assist,2019-10-26T00:00:00Z,2019-10-25,Metallic Gold LE,Coby White Assist 2019-10-25 Metallic Gold LE (Series 1),50
+1711d369-0be4-4196-9f0e-285be762fe46,Devonte' Graham,1628984,4,3 Pointer,2019-11-17T00:30:00Z,2019-11-16,Metallic Gold LE,Devonte' Graham 3 Pointer 2019-11-16 Metallic Gold LE (Series 1),2799
+f0446f3d-2b4f-4626-a8c9-8ce9d0ff8cd1,Tomáš Satoranský,203107,31,Dunk,2019-11-24T00:00:00Z,2019-11-23,Metallic Gold LE,Tomáš Satoranský Dunk 2019-11-23 Metallic Gold LE (Series 1),1325
+90125589-afe8-41d9-88d8-857d5898b2ae,Danilo Gallinari,201568,8,Dunk,2020-02-24T00:00:00Z,2020-02-23,Metallic Gold LE,Danilo Gallinari Dunk 2020-02-23 Metallic Gold LE (Series 1),1000
+094561da-ebfa-446f-a15d-9e3d86db5157,Evan Fournier,203095,10,3 Pointer,2019-12-07T00:00:00Z,2019-12-06,Metallic Gold LE,Evan Fournier 3 Pointer 2019-12-06 Metallic Gold LE (Series 1),3999
+03f80578-485e-48c2-982c-fc201f434791,Markelle Fultz,1628365,20,Dunk,2019-12-21T03:00:00Z,2019-12-20,Metallic Gold LE,Markelle Fultz Dunk 2019-12-20 Metallic Gold LE (Series 1),1325
+ea889ef6-0d9f-4c04-bbc6-0d46bdbd8cb5,Brandon Ingram,1627742,14,Dunk,2019-10-29T00:00:00Z,2019-10-28,Metallic Gold LE,Brandon Ingram Dunk 2019-10-28 Metallic Gold LE (Series 1),275
+a5cb5392-704c-4687-a2d5-c0f3e8e3ec6c,Daniel Theis,1628464,27,Block,2020-01-17T01:00:00Z,2020-01-16,Metallic Gold LE,Daniel Theis Block 2020-01-16 Metallic Gold LE (Series 1),1927
+9ec3d149-ba82-4f7a-b9cb-8f5f3c0f8a21,Luke Kornet,1628436,2,Dunk,2020-01-26T01:00:00Z,2020-01-25,Metallic Gold LE,Luke Kornet Dunk 2020-01-25 Metallic Gold LE (Series 1),3999
+34d76a82-c293-4c04-8f84-335d8e9239cc,Russell Westbrook,201566,0,Layup,2019-12-10T01:00:00Z,2019-12-09,Metallic Gold LE,Russell Westbrook Layup 2019-12-09 Metallic Gold LE (Series 1),50
+07aa5576-e210-4ec2-81a0-c7405e65a4de,Kevin Huerter,1628989,3,Assist,2020-01-09T00:30:00Z,2020-01-08,Metallic Gold LE,Kevin Huerter Assist 2020-01-08 Metallic Gold LE (Series 1),1253
+a9c9ca2f-ff9a-4102-8085-8d670750d410,LaMarcus Aldridge,200746,12,Jump Shot,2020-01-18T01:30:00Z,2020-01-17,Metallic Gold LE,LaMarcus Aldridge Jump Shot 2020-01-17 Metallic Gold LE (Series 1),3999
+01265a5b-d918-4dd4-955e-c7bebc477549,Maxi Kleber,1628467,42,Dunk,2019-12-04T00:30:00Z,2019-12-03,Metallic Gold LE,Maxi Kleber Dunk 2019-12-03 Metallic Gold LE (Series 1),3999
+b683f311-6527-43e2-ad51-3aebb15688e7,Ivica Zubac,1627826,40,Dunk,2020-09-04T01:00:00Z,2020-09-03,Metallic Gold LE,Ivica Zubac Dunk 2020-09-03 Metallic Gold LE (Series 1),3287
+d2461b42-9d9d-4202-a220-32cadf123a74,Dwight Howard,2730,39,Block,2020-09-23T01:00:00Z,2020-09-22,Metallic Gold LE,Dwight Howard Block 2020-09-22 Metallic Gold LE (Series 1),2438
+621c2ac0-a968-40a8-8736-89e340f4b58c,Rajon Rondo,200765,9,Assist,2020-09-25T01:00:00Z,2020-09-24,Metallic Gold LE,Rajon Rondo Assist 2020-09-24 Metallic Gold LE (Series 1),999
+ba054aff-1c4a-4d9e-b367-f0d5168b0fb5,Kentavious Caldwell-Pope,203484,1,Layup,2020-10-07T01:00:00Z,2020-10-06,Metallic Gold LE,Kentavious Caldwell-Pope Layup 2020-10-06 Metallic Gold LE (Series 1),299
+5ae6891f-45a4-4ea6-9364-c92cb29a3275,Markieff Morris,202693,88,3 Pointer,2020-10-04T23:30:00Z,2020-10-04,Metallic Gold LE,Markieff Morris 3 Pointer 2020-10-04 Metallic Gold LE (Series 1),299
+5ed1fb13-72df-4e72-afe6-09d35f7c5672,Duncan Robinson,1629130,55,3 Pointer,2020-10-04T23:30:00Z,2020-10-04,Metallic Gold LE,Duncan Robinson 3 Pointer 2020-10-04 Metallic Gold LE (Series 1),1959
+7e5ac838-7886-4374-aa6e-6c58736139a0,Jae Crowder,203109,99,Assist,2020-10-04T23:30:00Z,2020-10-04,Metallic Gold LE,Jae Crowder Assist 2020-10-04 Metallic Gold LE (Series 1),750
+eb8c4096-cfaf-463c-93f3-8021d632d906,Kelly Olynyk,203482,9,Layup,2020-10-04T23:30:00Z,2020-10-04,Metallic Gold LE,Kelly Olynyk Layup 2020-10-04 Metallic Gold LE (Series 1),299
+79f00aeb-c355-4713-a9eb-347d868e77ed,De'Andre Hunter,1629631,12,Dunk,2020-02-21T00:30:00Z,2020-02-20,Metallic Gold LE,De'Andre Hunter Dunk 2020-02-20 Metallic Gold LE (Series 1),299
+0b068dae-e791-4593-a077-74aa053aea54,Luguentz Dort,1629652,5,Dunk,2020-01-26T01:00:00Z,2020-01-25,Metallic Gold LE,Luguentz Dort Dunk 2020-01-25 Metallic Gold LE (Series 1),299
+ede281a8-b5cf-4d17-bac0-16470f08f525,Jeff Teague,201952,00,Handles,2020-02-06T01:00:00Z,2020-02-05,Metallic Gold LE,Jeff Teague Handles 2020-02-05 Metallic Gold LE (Series 1),1000
+45e0e8c4-a281-40b1-91fd-c777300a29ed,DeAndre Jordan,201599,6,Dunk,2020-01-03T01:30:00Z,2020-01-02,Metallic Gold LE,DeAndre Jordan Dunk 2020-01-02 Metallic Gold LE (Series 1),1500
+4fc9d015-3840-491e-a6f4-843e12a038e7,Larry Nance Jr.,1626204,22,Dunk,2020-03-05T00:00:00Z,2020-03-04,Metallic Gold LE,Larry Nance Jr. Dunk 2020-03-04 Metallic Gold LE (Series 1),1500
+8dee8dd1-68a7-4036-8e2a-cda9893ea52a,Jarrell Brantley,1629714,5,Layup,2020-08-13T22:30:00Z,2020-08-13,Metallic Gold LE,Jarrell Brantley Layup 2020-08-13 Metallic Gold LE (Series 1),1500
+1607a057-2b78-41a8-9cee-78f3ea5e6bd8,James Harden,201935,13,3 Pointer,2019-11-23T03:30:00Z,2019-11-22,From the Top,James Harden 3 Pointer 2019-11-22 From the Top (Series 1),25
+08d16f79-a996-435e-afc2-0a819fe12594,James Harden,201935,13,Assist,2020-01-11T22:00:00Z,2020-01-11,From the Top,James Harden Assist 2020-01-11 From the Top (Series 1),59
+c1b49c28-dfb9-4dd5-83b7-91b73f99f088,Russell Westbrook,201566,0,Dunk,2020-03-11T00:00:00Z,2020-03-10,From the Top,Russell Westbrook Dunk 2020-03-10 From the Top (Series 1),59
+51f4281b-a87f-47bc-ba21-eec09f1a7730,Giannis Antetokounmpo,203507,34,Block,2019-11-17T00:00:00Z,2019-11-16,From the Top,Giannis Antetokounmpo Block 2019-11-16 From the Top (Series 1),59
+f552b506-b41d-4e7c-ac5a-59427f9e96e6,Steph Curry,201939,30,Assist,2020-03-06T03:30:00Z,2020-03-05,From the Top,Steph Curry Assist 2020-03-05 From the Top (Series 1),50
+b3eaf03e-a764-4959-9eae-9442f06d1217,Steph Curry,201939,30,3 Pointer,2020-03-06T03:30:00Z,2020-03-05,From the Top,Steph Curry 3 Pointer 2020-03-05 From the Top (Series 1),3600
+3d5eecc1-0660-4819-9bc2-eef3aaa0be58,Russell Westbrook,201566,0,Assist,2020-02-10T00:00:00Z,2020-02-09,From the Top,Russell Westbrook Assist 2020-02-09 From the Top (Series 1),59
+5d14c326-f624-4dcc-8432-bc395eb24b93,Derrick Rose,201565,25,Assist,2020-01-25T00:00:00Z,2020-01-24,From the Top,Derrick Rose Assist 2020-01-24 From the Top (Series 1),3600
+768166e3-f4bb-4395-9b48-4c545aebc95c,LeBron James,2544,23,Dunk,2020-02-07T03:30:00Z,2020-02-06,From the Top,LeBron James Dunk 2020-02-06 From the Top (Series 1),1000
+6750704f-3ac0-411e-ae52-807306b3d8d3,Derrick Rose,201565,25,Layup,2020-02-29T02:00:00Z,2020-02-28,From the Top,Derrick Rose Layup 2020-02-28 From the Top (Series 1),59
+a7dfd16d-3674-4f88-9500-600dabfca6bb,Giannis Antetokounmpo,203507,34,Layup,2020-01-15T01:00:00Z,2020-01-14,From the Top,Giannis Antetokounmpo Layup 2020-01-14 From the Top (Series 1),59
+0f883540-25fa-4fc9-9ee8-f1354d687b9c,LeBron James,2544,23,Block,2019-11-26T01:30:00Z,2019-11-25,From the Top,LeBron James Block 2019-11-25 From the Top (Series 1),59
+a99657ea-91f5-4e48-b3b7-72e4e74117a9,Og Anunoby,1628384,3,3 Pointer,2020-09-03T22:30:00Z,2020-09-03,Conference Semifinals,Og Anunoby 3 Pointer 2020-09-03 Conference Semifinals (Series 1),165
+9bab6fcc-2a12-4195-b952-90b64592f582,Khris Middleton,203114,22,3 Pointer,2020-09-06T19:30:00Z,2020-09-06,Conference Semifinals,Khris Middleton 3 Pointer 2020-09-06 Conference Semifinals (Series 1),3288
+813e4469-c150-4ded-b60f-02380ec71bc5,Jimmy Butler,202710,22,Steal,2020-09-02T22:30:00Z,2020-09-02,Conference Semifinals,Jimmy Butler Steal 2020-09-02 Conference Semifinals (Series 1),275
+d2c2bfff-a7f4-487b-9f3e-9eb175d27b0e,Jamal Murray,1627750,27,Dunk,2020-09-13T17:00:00Z,2020-09-13,Conference Semifinals,Jamal Murray Dunk 2020-09-13 Conference Semifinals (Series 1),275
+4a32bf82-6967-40bf-8420-e40be36b1b77,Nikola Jokić,203999,15,3 Pointer,2020-09-13T17:00:00Z,2020-09-13,Conference Semifinals,Nikola Jokić 3 Pointer 2020-09-13 Conference Semifinals (Series 1),275
+95959d37-a068-4b96-8850-f2ddfdf45807,Marcus Smart,203935,7,Block,2020-09-12T01:00:00Z,2020-09-11,Conference Semifinals,Marcus Smart Block 2020-09-11 Conference Semifinals (Series 1),2200
+23a02d08-9f0e-48f8-9f8d-b5f90e1ce1d0,Jayson Tatum,1628369,0,Assist,2020-09-12T01:00:00Z,2020-09-11,Conference Semifinals,Jayson Tatum Assist 2020-09-11 Conference Semifinals (Series 1),275
+abecc8f2-2ece-44ba-9fb6-527b5e5189bc,Kawhi Leonard,202695,2,Block,2020-09-08T01:00:00Z,2020-09-07,Conference Semifinals,Kawhi Leonard Block 2020-09-07 Conference Semifinals (Series 1),3287
+6c806ca9-c147-43b1-b1da-dd9de23b043b,LeBron James,2544,23,Dunk,2020-09-05T01:00:00Z,2020-09-04,Conference Semifinals,LeBron James Dunk 2020-09-04 Conference Semifinals (Series 1),275
+d824e1f8-b184-4caf-9284-1a759dc277cd,James Harden,201935,13,Dunk,2020-09-05T01:00:00Z,2020-09-04,Conference Semifinals,James Harden Dunk 2020-09-04 Conference Semifinals (Series 1),275
+9f9d9b87-283a-48f1-a53e-37691a530b45,Donovan Mitchell,1628378,45,Dunk,2020-08-17T17:30:00Z,2020-08-17,First Round,Donovan Mitchell Dunk 2020-08-17 First Round (Series 1),3526
+0efe3a9b-767d-4b43-8ef9-8dafc464646c,JaMychal Green,203210,4,Dunk,2020-08-30T19:30:00Z,2020-08-30,First Round,JaMychal Green Dunk 2020-08-30 First Round (Series 1),2850
+082dda77-041e-46b7-9b7f-0d7ab0b9b8ed,OG Anunoby,1628384,3,Dunk,2020-08-19T17:30:00Z,2020-08-19,First Round,OG Anunoby Dunk 2020-08-19 First Round (Series 1),200
+585e4299-e2b5-4d3b-93eb-5a9a5921f506,James Harden,201935,13,Block,2020-09-03T01:00:00Z,2020-09-02,First Round,James Harden Block 2020-09-02 First Round (Series 1),3525
+1d4ac8c2-649f-4e34-b8cf-bc6837db09b2,Jamal Murray,1627750,27,Handles,2020-08-31T00:30:00Z,2020-08-30,First Round,Jamal Murray Handles 2020-08-30 First Round (Series 1),3525
+664244ee-02ae-46a9-9198-74de10e550d1,Luka Dončić,1629029,77,3 Pointer,2020-08-23T19:30:00Z,2020-08-23,First Round,Luka Dončić 3 Pointer 2020-08-23 First Round (Series 1),200
+95af8d99-8b08-4bbb-b7b7-b27405955f05,Jayson Tatum,1628369,0,Layup,2020-08-23T17:00:00Z,2020-08-23,First Round,Jayson Tatum Layup 2020-08-23 First Round (Series 1),200
+240fca07-e5a5-461c-91cc-373106e321a2,Nikola Jokić,203999,15,Jump Shot,2020-09-02T00:30:00Z,2020-09-01,First Round,Nikola Jokić Jump Shot 2020-09-01 First Round (Series 1),3525
+16fd39e2-0408-45df-8181-e8c36cc15c27,Nikola Vučević,202696,9,Jump Shot,2020-08-18T17:30:00Z,2020-08-18,First Round,Nikola Vučević Jump Shot 2020-08-18 First Round (Series 1),3527
+13177719-5dbf-4fe3-9480-7a54403b2c87,Damian Lillard,203081,0,Layup,2020-08-21T01:00:00Z,2020-08-20,First Round,Damian Lillard Layup 2020-08-20 First Round (Series 1),200
+74c91a64-64c8-43ee-b179-268213afbf63,Giannis Antetokounmpo,203507,34,Dunk,2020-08-20T22:00:00Z,2020-08-20,First Round,Giannis Antetokounmpo Dunk 2020-08-20 First Round (Series 1),2489
+90039c38-bba5-415e-9a75-645587e689d9,Bam Adebayo,1628389,13,Layup,2020-08-18T20:00:00Z,2020-08-18,First Round,Bam Adebayo Layup 2020-08-18 First Round (Series 1),200
+f5d97929-1fb0-44c2-a8cd-3baad154cfaf,LeBron James,2544,23,Dunk,2020-08-21T01:00:00Z,2020-08-20,First Round,LeBron James Dunk 2020-08-20 First Round (Series 1),200
+6b62d953-df77-4e8a-8e5b-b463dc84f3b7,Chris Paul,101108,3,3 Pointer,2020-09-01T01:00:00Z,2020-08-31,First Round,Chris Paul 3 Pointer 2020-08-31 First Round (Series 1),2852
+f537d9ad-cbd8-4ef8-a80f-08b2507d4ac3,Anthony Davis,203076,3,Jump Shot,2020-08-21T01:00:00Z,2020-08-20,First Round,Anthony Davis Jump Shot 2020-08-20 First Round (Series 1),200
+4c21a774-5e77-4f3a-b414-617f0cc42f74,Jonas Valančiūnas,202685,17,Block,2020-01-12T23:00:00Z,2020-01-12,Denied!,Jonas Valančiūnas Block 2020-01-12 Denied! (Series 1),2981
+ddc54fac-555c-47f5-b6ee-41996aa1ed10,Jarrett Allen,1628386,31,Block,2020-01-08T00:30:00Z,2020-01-07,Denied!,Jarrett Allen Block 2020-01-07 Denied! (Series 1),299
+cf256a06-baae-4b24-8b06-f441cb0a1821,OG Anunoby,1628384,3,Block,2019-10-27T00:00:00Z,2019-10-26,Denied!,OG Anunoby Block 2019-10-26 Denied! (Series 1),1358
+9efe1583-9c4f-4351-aef3-4794e7c3ae29,Torrey Craig,1628470,3,Block,2019-10-26T01:00:00Z,2019-10-25,Denied!,Torrey Craig Block 2019-10-25 Denied! (Series 1),3340
+d012e87f-7aec-4f5d-969b-2af03890ab4f,Zion Williamson,1629627,1,Block,2020-01-25T01:00:00Z,2020-01-24,Denied!,Zion Williamson Block 2020-01-24 Denied! (Series 1),192
+64c5104d-9bac-4e88-8554-c78e5ff23c76,JaVale McGee,201580,7,Block,2020-01-16T03:30:00Z,2020-01-15,Denied!,JaVale McGee Block 2020-01-15 Denied! (Series 1),3339
+a5cb5392-704c-4687-a2d5-c0f3e8e3ec6c,Daniel Theis,1628464,27,Block,2020-01-17T01:00:00Z,2020-01-16,Denied!,Daniel Theis Block 2020-01-16 Denied! (Series 1),1927
+bea7b634-2aa5-4e42-a584-682c47488fcc,Pascal Siakam,1627783,43,Block,2019-11-11T02:30:00Z,2019-11-10,Denied!,Pascal Siakam Block 2019-11-10 Denied! (Series 1),3999
+ff3f472f-335e-41a1-9557-7c369793b9f0,Hassan Whiteside,202355,21,Block,2020-01-21T03:00:00Z,2020-01-20,Denied!,Hassan Whiteside Block 2020-01-20 Denied! (Series 1),3344
+67319ec3-e326-4529-b452-cc79b1d2bd65,Bam Adebayo,1628389,13,Block,2019-10-29T23:30:00Z,2019-10-29,Denied!,Bam Adebayo Block 2019-10-29 Denied! (Series 1),50
+6510e4e3-6233-4985-bda8-33191c57def1,Nikola Jokić,203999,15,Jump Shot,2020-09-23T01:00:00Z,2020-09-22,Western Conference Finals,Nikola Jokić Jump Shot 2020-09-22 Western Conference Finals (Series 1),999
+79091f87-a97d-4234-b85d-2c353d317510,Jamal Murray,1627750,27,Layup,2020-09-25T01:00:00Z,2020-09-24,Western Conference Finals,Jamal Murray Layup 2020-09-24 Western Conference Finals (Series 1),999
+ad2c936f-df9d-4880-91f8-28807bd5be3c,Michael Porter Jr.,1629008,1,Layup,2020-09-27T01:00:00Z,2020-09-26,Western Conference Finals,Michael Porter Jr. Layup 2020-09-26 Western Conference Finals (Series 1),999
+841ef60e-f59d-42d8-bf26-53ff8b9824bc,LeBron James,2544,23,Dunk,2020-09-19T01:00:00Z,2020-09-18,Western Conference Finals,LeBron James Dunk 2020-09-18 Western Conference Finals (Series 1),3113
+621c2ac0-a968-40a8-8736-89e340f4b58c,Rajon Rondo,200765,9,Assist,2020-09-25T01:00:00Z,2020-09-24,Western Conference Finals,Rajon Rondo Assist 2020-09-24 Western Conference Finals (Series 1),999
+f1b17e03-bd75-47dd-bfe3-00577d9e703a,Alex Caruso,1627936,4,Dunk,2020-09-20T23:30:00Z,2020-09-20,Western Conference Finals,Alex Caruso Dunk 2020-09-20 Western Conference Finals (Series 1),999
+c8668e7c-ec46-435c-b4ad-dfeeca16e7c4,Anthony Davis,203076,3,3 Pointer,2020-09-20T23:30:00Z,2020-09-20,Western Conference Finals,Anthony Davis 3 Pointer 2020-09-20 Western Conference Finals (Series 1),270
+d2461b42-9d9d-4202-a220-32cadf123a74,Dwight Howard,2730,39,Block,2020-09-23T01:00:00Z,2020-09-22,Western Conference Finals,Dwight Howard Block 2020-09-22 Western Conference Finals (Series 1),2438
+70b1a644-e90d-484c-90d2-4b529c2dd1e1,Jerami Grant,203924,9,Dunk,2020-09-25T01:00:00Z,2020-09-24,Western Conference Finals,Jerami Grant Dunk 2020-09-24 Western Conference Finals (Series 1),999
+2dc70202-2434-46b9-bbd5-078f966bd186,Jamal Murray,1627750,27,3 Pointer,2020-09-23T01:00:00Z,2020-09-22,Western Conference Finals,Jamal Murray 3 Pointer 2020-09-22 Western Conference Finals (Series 1),999
+c59a91b2-b49b-4e47-8003-805e2bf34105,Jaylen Brown,1627759,7,Dunk,2020-08-02T19:30:00Z,2020-08-02,So Fresh,Jaylen Brown Dunk 2020-08-02 So Fresh (Series 1),250
+46f9e2fc-d787-4905-ab90-a85d69efc9eb,Shabazz Napier,203894,5,Jump Shot,2020-08-05T20:00:00Z,2020-08-05,So Fresh,Shabazz Napier Jump Shot 2020-08-05 So Fresh (Series 1),299
+695bb22d-08cf-4457-b00c-5e6ceec69fcd,Zion Williamson,1629627,1,Assist,2020-07-30T22:30:00Z,2020-07-30,So Fresh,Zion Williamson Assist 2020-07-30 So Fresh (Series 1),250
+769443aa-0e2c-47e7-936f-5acf08db9151,Rudy Gobert,203497,27,Dunk,2020-08-04T01:00:00Z,2020-08-03,So Fresh,Rudy Gobert Dunk 2020-08-03 So Fresh (Series 1),250
+e1f92cd3-829c-4983-ab4f-42684006a131,LeBron James,2544,23,Block,2020-08-02T00:30:00Z,2020-08-01,So Fresh,LeBron James Block 2020-08-01 So Fresh (Series 1),250
+d1d164eb-4cd7-4944-8df3-d250c0de2d9c,Andre Iguodala,2738,28,Dunk,2020-08-04T22:30:00Z,2020-08-04,So Fresh,Andre Iguodala Dunk 2020-08-04 So Fresh (Series 1),1000
+602c7d72-ead9-4c1c-a9fe-dde267f1a0b7,Jakob Poeltl,1627751,25,Block,2020-08-01T00:00:00Z,2020-07-31,So Fresh,Jakob Poeltl Block 2020-07-31 So Fresh (Series 1),299
+54d7dc37-cfe6-4a32-b358-07b39aa67918,Og Anunoby,1628384,3,Dunk,2020-08-02T00:30:00Z,2020-08-01,So Fresh,Og Anunoby Dunk 2020-08-01 So Fresh (Series 1),2681
+ac1d80de-8288-47d6-b34e-53fc494dd5f1,Jusuf Nurkić,203994,27,Dunk,2020-07-31T20:00:00Z,2020-07-31,So Fresh,Jusuf Nurkić Dunk 2020-07-31 So Fresh (Series 1),2680
+118f2aa1-1aeb-4e57-90d0-9d55058abdff,Devin Booker,1626164,1,Jump Shot,2020-08-04T20:00:00Z,2020-08-04,So Fresh,Devin Booker Jump Shot 2020-08-04 So Fresh (Series 1),2681
+455cf49f-bc4f-48a0-97b1-c0a7e82559c6,Ben Simmons,1627732,25,Assist,2020-08-04T00:00:00Z,2020-08-03,So Fresh,Ben Simmons Assist 2020-08-03 So Fresh (Series 1),250
+60cc034a-c2ea-43d4-8138-d10917bf07d1,De'Aaron Fox,1628368,5,Layup,2020-08-04T18:30:00Z,2020-08-04,So Fresh,De'Aaron Fox Layup 2020-08-04 So Fresh (Series 1),250
+9b94ef4d-920f-42d6-a301-7c1748ab431b,Boban Marjanovic,1626246,51,Dunk,2020-08-03T01:00:00Z,2020-08-02,So Fresh,Boban Marjanovic Dunk 2020-08-02 So Fresh (Series 1),2681
+e1acc264-12fa-47d5-aa6f-291e53158cd0,Bol Bol,1629626,10,Dunk,2020-08-07T00:00:00Z,2020-08-06,So Fresh,Bol Bol Dunk 2020-08-06 So Fresh (Series 1),299
+b9a572cd-51f8-4a0e-8acf-d58361cb8ead,Shai Gilgeous-Alexander,1628983,2,Layup,2020-08-01T19:30:00Z,2020-08-01,So Fresh,Shai Gilgeous-Alexander Layup 2020-08-01 So Fresh (Series 1),250
+9efe1583-9c4f-4351-aef3-4794e7c3ae29,Torrey Craig,1628470,3,Block,2019-10-26T01:00:00Z,2019-10-25,For the Win,Torrey Craig Block 2019-10-25 For the Win (Series 1),3340
+9939a2dc-7c95-4c02-b747-9fee26c9d040,Zach LaVine,203897,8,3 Pointer,2019-11-24T00:00:00Z,2019-11-23,For the Win,Zach LaVine 3 Pointer 2019-11-23 For the Win (Series 1),49
+2563de53-9c32-42a8-9413-dd0158e9c656,Carmelo Anthony,2546,00,Jump Shot,2020-01-08T00:00:00Z,2020-01-07,For the Win,Carmelo Anthony Jump Shot 2020-01-07 For the Win (Series 1),3999
+c8ad129e-a803-4400-9025-2c4209bd2ed4,D'Angelo Russell,1626156,0,Block,2020-02-27T00:30:00Z,2020-02-26,For the Win,D'Angelo Russell Block 2020-02-26 For the Win (Series 1),50
+bae1c7dd-2fa6-487a-b711-3eee3573f3c6,Rudy Gobert,203497,27,Block,2020-01-25T22:00:00Z,2020-01-25,For the Win,Rudy Gobert Block 2020-01-25 For the Win (Series 1),1358
+59c27a62-5054-4ff7-bfd9-2044dcbfe4a7,Bradley Beal,203078,3,Layup,2020-02-08T00:00:00Z,2020-02-07,For the Win,Bradley Beal Layup 2020-02-07 For the Win (Series 1),50
+750ca511-3ee7-4c7f-bba8-ebaa997fe991,Spencer Dinwiddie,203915,8,Jump Shot,2019-11-26T00:00:00Z,2019-11-25,For the Win,Spencer Dinwiddie Jump Shot 2019-11-25 For the Win (Series 1),50
+1711d369-0be4-4196-9f0e-285be762fe46,Devonte' Graham,1628984,4,3 Pointer,2019-11-17T00:30:00Z,2019-11-16,For the Win,Devonte' Graham 3 Pointer 2019-11-16 For the Win (Series 1),2799
+79988343-3301-41b2-8870-286ddc1ddad3,Nemanja Bjelica,202357,88,3 Pointer,2019-12-10T01:00:00Z,2019-12-09,For the Win,Nemanja Bjelica 3 Pointer 2019-12-09 For the Win (Series 1),199
+ef100f9e-ed36-442d-bd6b-f1fa857decd1,Derrick Rose,201565,25,Jump Shot,2019-12-10T01:00:00Z,2019-12-09,For the Win,Derrick Rose Jump Shot 2019-12-09 For the Win (Series 1),50
+75bb9eeb-0277-4aba-bdbf-39508b608f85,Tyler Herro,1629639,14,Layup,2020-09-27T23:30:00Z,2020-09-27,Eastern Conference Finals,Tyler Herro Layup 2020-09-27 Eastern Conference Finals (Series 1),999
+3ac7ba42-2ee7-4093-973a-37ffc8ea22b2,Tyler Herro,1629639,14,Layup,2020-09-24T00:30:00Z,2020-09-23,Eastern Conference Finals,Tyler Herro Layup 2020-09-23 Eastern Conference Finals (Series 1),151
+b179bbba-e9d7-4f78-8ac6-bf3aa3195588,Jimmy Butler,202710,22,Steal,2020-09-17T23:00:00Z,2020-09-17,Eastern Conference Finals,Jimmy Butler Steal 2020-09-17 Eastern Conference Finals (Series 1),999
+3fc1c62e-10c1-49ff-9537-abfcc1e8f7e7,Bam Adebayo,1628389,13,Dunk,2020-09-27T23:30:00Z,2020-09-27,Eastern Conference Finals,Bam Adebayo Dunk 2020-09-27 Eastern Conference Finals (Series 1),999
+4aa9fdc8-0f20-4598-bd2d-43886895d940,Goran Dragić ,201609,7,3 Pointer,2020-09-24T00:30:00Z,2020-09-23,Eastern Conference Finals,Goran Dragić  3 Pointer 2020-09-23 Eastern Conference Finals (Series 1),999
+848fc5cd-f44a-4781-ba40-83a24e9f30d2,Kemba Walker,202689,8,Layup,2020-09-24T00:30:00Z,2020-09-23,Eastern Conference Finals,Kemba Walker Layup 2020-09-23 Eastern Conference Finals (Series 1),2500
+e2e2d094-ecc0-4abc-998c-ebef00c84ce6,Jayson Tatum,1628369,0,Dunk,2020-09-27T23:30:00Z,2020-09-27,Eastern Conference Finals,Jayson Tatum Dunk 2020-09-27 Eastern Conference Finals (Series 1),999
+dcf97c17-1828-41a2-857d-c959e7ee6f40,Daniel Theis,1628464,27,Block,2020-09-15T22:30:00Z,2020-09-15,Eastern Conference Finals,Daniel Theis Block 2020-09-15 Eastern Conference Finals (Series 1),2500
+29a35f9e-323e-43a2-a4e6-bccce704de07,Jaylen Brown,1627759,7,Steal,2020-09-20T00:30:00Z,2020-09-19,Eastern Conference Finals,Jaylen Brown Steal 2020-09-19 Eastern Conference Finals (Series 1),2500
+3b9f82f1-cde1-40ef-8983-b3e93e1e29de,Marcus Smart,203935,36,Assist,2020-09-20T00:30:00Z,2020-09-19,Eastern Conference Finals,Marcus Smart Assist 2020-09-19 Eastern Conference Finals (Series 1),999
+b0757777-868a-4efe-a98d-8e58e4eee94b,Troy Brown Jr.,1628972,6,Jump Shot,2020-08-13T16:00:00Z,2020-08-13,Got Game,Troy Brown Jr. Jump Shot 2020-08-13 Got Game (Series 1),1500
+ac9314ad-32af-4e83-899a-a347faa00385,Harry Giles,1628385,20,Assist,2020-03-04T03:00:00Z,2020-03-03,Got Game,Harry Giles Assist 2020-03-03 Got Game (Series 1),1000
+e4378edf-c2bd-41c4-a6f1-36a7ef8217ac,Danuel House Jr.,1627863,4,Dunk,2020-08-18T22:30:00Z,2020-08-18,Got Game,Danuel House Jr. Dunk 2020-08-18 Got Game (Series 1),3525
+9f9d9b87-283a-48f1-a53e-37691a530b45,Donovan Mitchell,1628378,45,Dunk,2020-08-17T17:30:00Z,2020-08-17,Got Game,Donovan Mitchell Dunk 2020-08-17 Got Game (Series 1),3526
+fa00b3e9-ef09-4aa0-9c33-f54fb15ab5dc,Lonzo Ball,1628366,2,Assist,2019-12-10T01:00:00Z,2019-12-09,Got Game,Lonzo Ball Assist 2019-12-09 Got Game (Series 1),3999
+ba054aff-1c4a-4d9e-b367-f0d5168b0fb5,Kentavious Caldwell-Pope,203484,1,Layup,2020-10-07T01:00:00Z,2020-10-06,Got Game,Kentavious Caldwell-Pope Layup 2020-10-06 Got Game (Series 1),299
+6750704f-3ac0-411e-ae52-807306b3d8d3,Derrick Rose,201565,25,Layup,2020-02-29T02:00:00Z,2020-02-28,Got Game,Derrick Rose Layup 2020-02-28 Got Game (Series 1),59
+b683f311-6527-43e2-ad51-3aebb15688e7,Ivica Zubac,1627826,40,Dunk,2020-09-04T01:00:00Z,2020-09-03,Got Game,Ivica Zubac Dunk 2020-09-03 Got Game (Series 1),3287
+1603a070-f95d-48f1-b5db-c74480505e56,Malcolm Brogdon,1627763,7,Assist,2020-08-24T22:30:00Z,2020-08-24,Got Game,Malcolm Brogdon Assist 2020-08-24 Got Game (Series 1),3525
+8dc7459a-285e-4be4-aa7f-3180504c2662,Marcus Smart,203935,36,3 Pointer,2020-01-19T00:00:00Z,2020-01-18,Got Game,Marcus Smart 3 Pointer 2020-01-18 Got Game (Series 1),1500
+32d29dc7-8386-444a-9984-cd035134fa6d,Josh Jackson,1628367,20,Steal,2020-03-11T00:00:00Z,2020-03-10,Got Game,Josh Jackson Steal 2020-03-10 Got Game (Series 1),299
+53c5bb3e-bbd8-4660-b074-703692fe202e,Damion Lee,1627814,1,Assist,2019-12-24T03:30:00Z,2019-12-23,Got Game,Damion Lee Assist 2019-12-23 Got Game (Series 1),1500
+609eba0d-3694-41e8-a720-84ecbfff996b,Mo Bamba,1628964,5,Dunk,2019-10-30T23:00:00Z,2019-10-30,Got Game,Mo Bamba Dunk 2019-10-30 Got Game (Series 1),2767
+eac36037-1737-45fd-a95b-1f4ea977a5d9,RJ Barrett,1629628,9,Dunk,2019-12-08T00:30:00Z,2019-12-07,Got Game,RJ Barrett Dunk 2019-12-07 Got Game (Series 1),1500
+41c06593-8fdd-4d38-8766-02fb5dc42d9e,D'Angelo Russell,1626156,0,Assist,2020-03-05T01:00:00Z,2020-03-04,Got Game,D'Angelo Russell Assist 2020-03-04 Got Game (Series 1),1500
+ac1d80de-8288-47d6-b34e-53fc494dd5f1,Jusuf Nurkić,203994,27,Dunk,2020-07-31T20:00:00Z,2020-07-31,Got Game,Jusuf Nurkić Dunk 2020-07-31 Got Game (Series 1),2680
+9b94ef4d-920f-42d6-a301-7c1748ab431b,Boban Marjanovic,1626246,51,Dunk,2020-08-03T01:00:00Z,2020-08-02,Got Game,Boban Marjanovic Dunk 2020-08-02 Got Game (Series 1),2681
+d2c2bfff-a7f4-487b-9f3e-9eb175d27b0e,Jamal Murray,1627750,27,Dunk,2020-09-13T17:00:00Z,2020-09-13,Got Game,Jamal Murray Dunk 2020-09-13 Got Game (Series 1),275
+45e0e8c4-a281-40b1-91fd-c777300a29ed,DeAndre Jordan,201599,6,Dunk,2020-01-03T01:30:00Z,2020-01-02,Got Game,DeAndre Jordan Dunk 2020-01-02 Got Game (Series 1),1500
+635d8526-b1d2-430a-9b92-937394aa59c8,Devonte' Graham,1628984,4,Layup,2019-12-28T00:00:00Z,2019-12-27,Got Game,Devonte' Graham Layup 2019-12-27 Got Game (Series 1),1000
+c008e2bd-e9bd-49a9-ac00-333232541048,Cameron Payne,1626166,15,Steal,2020-08-04T20:00:00Z,2020-08-04,Got Game,Cameron Payne Steal 2020-08-04 Got Game (Series 1),1500
+4fc9d015-3840-491e-a6f4-843e12a038e7,Larry Nance Jr.,1626204,22,Dunk,2020-03-05T00:00:00Z,2020-03-04,Got Game,Larry Nance Jr. Dunk 2020-03-04 Got Game (Series 1),1500
+ede281a8-b5cf-4d17-bac0-16470f08f525,Jeff Teague,201952,00,Handles,2020-02-06T01:00:00Z,2020-02-05,Got Game,Jeff Teague Handles 2020-02-05 Got Game (Series 1),1000
+5768a1d6-76e6-4ded-8b14-a1d96345c60b,Zach LaVine,203897,8,Dunk,2019-11-28T03:30:00Z,2019-11-27,Got Game,Zach LaVine Dunk 2019-11-27 Got Game (Series 1),1500
+399217f7-6db6-4d9d-8e98-ed9023f773d7,Karl-Anthony Towns,1626157,32,Dunk,2019-11-12T00:00:00Z,2019-11-11,Lace 'Em Up,Karl-Anthony Towns Dunk 2019-11-11 Lace 'Em Up (Series 1),75
+a110f381-59ce-437a-b2b9-95fdbeb9a2c8,Rajon Rondo,200765,9,Jump Shot,2020-09-19T01:00:00Z,2020-09-18,Lace 'Em Up,Rajon Rondo Jump Shot 2020-09-18 Lace 'Em Up (Series 1),1000
+fb9c6da4-1a2a-41da-9deb-e4eb1a6f0b2d,Kevin Love,201567,0,Assist,2020-03-01T01:00:00Z,2020-02-29,Lace 'Em Up,Kevin Love Assist 2020-02-29 Lace 'Em Up (Series 1),75
+c32b29d6-48c9-4e0f-afe1-e28f712fa503,Darius Bazley,1629647,7,Dunk,2020-08-24T20:00:00Z,2020-08-24,Lace 'Em Up,Darius Bazley Dunk 2020-08-24 Lace 'Em Up (Series 1),1500
+1985ddad-7db4-47c3-b54d-737c1b9440f7,Langston Galloway,204038,9,3 Pointer,2020-02-13T00:00:00Z,2020-02-12,Lace 'Em Up,Langston Galloway 3 Pointer 2020-02-12 Lace 'Em Up (Series 1),75
+3aa9de64-2ff4-4abc-82cd-03d0a449a0dc,Kristaps Porziņģis,204001,6,3 Pointer,2019-12-22T20:30:00Z,2019-12-22,Lace 'Em Up,Kristaps Porziņģis 3 Pointer 2019-12-22 Lace 'Em Up (Series 1),1500
+b8f44af1-3464-4eb2-b69e-aed7bc2a78ac,Deandre Ayton,1629028,22,Dunk,2020-08-13T20:00:00Z,2020-08-13,Lace 'Em Up,Deandre Ayton Dunk 2020-08-13 Lace 'Em Up (Series 1),75
+9fd8ba34-ceb2-436d-bccd-01b9f4031932,DeMar DeRozan,201942,10,Dunk,2020-02-07T03:00:00Z,2020-02-06,Lace 'Em Up,DeMar DeRozan Dunk 2020-02-06 Lace 'Em Up (Series 1),75
+2b32ab68-c81b-458d-827d-e5df7ed7acfc,Markelle Fultz,1628365,20,3 Pointer,2020-08-02T22:00:00Z,2020-08-02,Lace 'Em Up,Markelle Fultz 3 Pointer 2020-08-02 Lace 'Em Up (Series 1),75
+f6152f87-1ce1-466c-90ac-34febbf8dfc3,Eric Gordon,201569,10,3 Pointer,2020-09-01T01:00:00Z,2020-08-31,Lace 'Em Up,Eric Gordon 3 Pointer 2020-08-31 Lace 'Em Up (Series 1),75
+7fa85231-d92d-4df1-a631-2e85b48a4c11,Joel Embiid,203954,21,Layup,2020-02-21T01:00:00Z,2020-02-20,Lace 'Em Up,Joel Embiid Layup 2020-02-20 Lace 'Em Up (Series 1),1500
+ed7f7aa7-eafa-4a4f-ad65-190127940941,Zion Williamson,1629627,1,Handles,2020-08-09T19:00:00Z,2020-08-09,Lace 'Em Up,Zion Williamson Handles 2020-08-09 Lace 'Em Up (Series 1),75
+2e84ac4e-302a-43dc-a96b-ba615a77a5e9,Brook Lopez,201572,11,Dunk,2020-09-08T22:30:00Z,2020-09-08,Lace 'Em Up,Brook Lopez Dunk 2020-09-08 Lace 'Em Up (Series 1),1500
+e2190c75-ecd0-44de-bb58-b3588c8701c9,Jonas Valančiūnas,202685,17,Dunk,2019-12-27T01:00:00Z,2019-12-26,Lace 'Em Up,Jonas Valančiūnas Dunk 2019-12-26 Lace 'Em Up (Series 1),1500
+53969395-987d-4de3-a47d-838d792025da,Damian Lillard,203081,0,Handles,2020-01-21T03:00:00Z,2020-01-20,Lace 'Em Up,Damian Lillard Handles 2020-01-20 Lace 'Em Up (Series 1),75
+e049ed0c-da74-44cf-bc0f-5feb61a19d92,Trae Young,1629027,11,Handles,2020-01-07T00:30:00Z,2020-01-06,Lace 'Em Up,Trae Young Handles 2020-01-06 Lace 'Em Up (Series 1),1500
+f32deb18-b2ff-4191-b1b7-904a86eaed0e,Serge Ibaka,201586,9,Block,2020-02-02T20:00:00Z,2020-02-02,Lace 'Em Up,Serge Ibaka Block 2020-02-02 Lace 'Em Up (Series 1),1000
+e96153a7-b218-4da8-9e0f-6a79fe0e5df6,Bradley Beal,203078,3,Dunk,2020-02-25T00:00:00Z,2020-02-24,Lace 'Em Up,Bradley Beal Dunk 2020-02-24 Lace 'Em Up (Series 1),75
+271b34eb-8050-4925-9108-c6600ca4606d,Jordan Clarkson,203903,00,Handles,2020-02-08T03:30:00Z,2020-02-07,Lace 'Em Up,Jordan Clarkson Handles 2020-02-07 Lace 'Em Up (Series 1),75
+e6f3075a-e252-44e3-b612-6d96ab973848,T.J. McConnell,204456,9,Assist,2020-02-02T00:00:00Z,2020-02-01,Lace 'Em Up,T.J. McConnell Assist 2020-02-01 Lace 'Em Up (Series 1),1500
+1882fa1d-a9f3-4ac5-99c9-b03480afe87e,Marcus Morris,202694,31,Dunk,2020-02-10T00:30:00Z,2020-02-09,Lace 'Em Up,Marcus Morris Dunk 2020-02-09 Lace 'Em Up (Series 1),1500
+dad94dfe-aee2-4cbe-94e8-22fd5b80e1d9,Caris LeVert,1627747,22,Layup,2020-08-10T01:00:00Z,2020-08-09,Lace 'Em Up,Caris LeVert Layup 2020-08-09 Lace 'Em Up (Series 1),75
+e8a2bd7c-07e1-4bbb-a4b6-ec9851433f0f,De'Aaron Fox,1628368,5,Block,2019-11-03T23:00:00Z,2019-11-03,Lace 'Em Up,De'Aaron Fox Block 2019-11-03 Lace 'Em Up (Series 1),36
+ec1ed176-463e-4360-8299-6171d7e258a1,Bol Bol,1629626,10,Assist,2020-08-11T01:00:00Z,2020-08-10,Lace 'Em Up,Bol Bol Assist 2020-08-10 Lace 'Em Up (Series 1),1500
+815bf3d5-300d-4176-bc53-a89681b57811,Tyler Herro,1629639,14,Jump Shot,2020-10-07T01:00:00Z,2020-10-06,Lace 'Em Up,Tyler Herro Jump Shot 2020-10-06 Lace 'Em Up (Series 1),1500
+a2f7eaeb-51e2-423c-bb21-f4e201a9e171,Dennis Smith Jr.,1628372,5,Dunk,2020-02-27T00:00:00Z,2020-02-26,Lace 'Em Up,Dennis Smith Jr. Dunk 2020-02-26 Lace 'Em Up (Series 1),75
+43da501e-a739-4063-a471-18945a03d224,Coby White,1629632,0,Steal,2019-11-16T23:00:00Z,2019-11-16,Lace 'Em Up,Coby White Steal 2019-11-16 Lace 'Em Up (Series 1),75
+5d195b74-fbfd-4041-be0a-16185ce703f0,Jayson Tatum,1628369,0,3 Pointer,2020-08-19T22:30:00Z,2020-08-19,Lace 'Em Up,Jayson Tatum 3 Pointer 2020-08-19 Lace 'Em Up (Series 1),1500
+b6a01573-e04f-460c-81f6-d56c7dd01d30,Draymond Green,203110,23,Block,2020-01-17T03:30:00Z,2020-01-16,Lace 'Em Up,Draymond Green Block 2020-01-16 Lace 'Em Up (Series 1),75
+3f2af8db-73ad-405f-8592-cfc309e6dee6,Terry Rozier,1626179,3,3 Pointer,2020-03-09T23:30:00Z,2020-03-09,Lace 'Em Up,Terry Rozier 3 Pointer 2020-03-09 Lace 'Em Up (Series 1),75
+498f6013-c838-42e4-9e67-7e8bcc996c30,Kyrie Irving,202681,11,Steal,2020-02-01T00:30:00Z,2020-01-31,With the Strip,Kyrie Irving Steal 2020-01-31 With the Strip (Series 1),3163
+e6481a27-3932-46ca-a556-ed2b58c28b80,George Hill,201588,3,Steal,2019-11-09T02:00:00Z,2019-11-08,With the Strip,George Hill Steal 2019-11-08 With the Strip (Series 1),299
+ea0002b5-de33-4e3f-9b4b-7ababd3feb0c,Ja Morant,1629630,12,Steal,2020-01-08T01:00:00Z,2020-01-07,With the Strip,Ja Morant Steal 2020-01-07 With the Strip (Series 1),3164
+32d29dc7-8386-444a-9984-cd035134fa6d,Josh Jackson,1628367,20,Steal,2020-03-11T00:00:00Z,2020-03-10,With the Strip,Josh Jackson Steal 2020-03-10 With the Strip (Series 1),299
+37edf037-8f27-4b82-92db-b6e2db4d3bb0,Marcus Smart,203935,36,Steal,2019-11-21T03:00:00Z,2019-11-20,With the Strip,Marcus Smart Steal 2019-11-20 With the Strip (Series 1),1527
+1849a19b-3e89-4c99-bce2-c404df45e1bc,Ky Bowman,1629065,12,Steal,2020-01-09T03:00:00Z,2020-01-08,With the Strip,Ky Bowman Steal 2020-01-08 With the Strip (Series 1),3340
+4121cf7f-cd12-4c3c-a5bf-414478213c19,Ish Smith,202397,14,Steal,2020-02-24T00:00:00Z,2020-02-23,With the Strip,Ish Smith Steal 2020-02-23 With the Strip (Series 1),3999
+1ce18272-fe5b-4e3c-9d8a-4586d7b57e97,Danilo Gallinari,201568,8,Steal,2020-02-28T01:00:00Z,2020-02-27,With the Strip,Danilo Gallinari Steal 2020-02-27 With the Strip (Series 1),2492
+64fb404b-9e7b-4044-9b95-1a0e5028d965,Khris Middleton,203114,22,Steal,2020-02-11T01:00:00Z,2020-02-10,With the Strip,Khris Middleton Steal 2020-02-10 With the Strip (Series 1),1000
+34169e0a-8c2c-47f4-97c8-f63bbf727290,Enes Kanter,202683,11,Steal,2019-12-13T01:00:00Z,2019-12-12,With the Strip,Enes Kanter Steal 2019-12-12 With the Strip (Series 1),2488
+3c9b5990-75d0-475c-a99c-413d33d800f7,Gary Harris,203914,14,Steal,2020-02-26T02:00:00Z,2020-02-25,With the Strip,Gary Harris Steal 2020-02-25 With the Strip (Series 1),3164
+8235d2a8-9257-475a-8cf2-5cb79768d14a,Andre Iguodala,2738,28,Steal,2020-02-10T02:00:00Z,2020-02-09,With the Strip,Andre Iguodala Steal 2020-02-09 With the Strip (Series 1),499
+eb356b1c-f2d4-4111-88ad-f2e4402afe7b,Cam Reddish,1629629,22,Steal,2020-02-21T00:30:00Z,2020-02-20,With the Strip,Cam Reddish Steal 2020-02-20 With the Strip (Series 1),3164
+f94ca347-472e-403e-b4e5-cc715167db13,Fred VanVleet,1627832,23,Steal,2020-02-06T00:30:00Z,2020-02-05,With the Strip,Fred VanVleet Steal 2020-02-05 With the Strip (Series 1),3169
+4c878013-6ec3-4666-8fce-533881f32d8a,Patty Mills,201988,8,Steal,2020-02-02T02:00:00Z,2020-02-01,With the Strip,Patty Mills Steal 2020-02-01 With the Strip (Series 1),299
+bb4aac88-4a10-4159-b0ba-bb5a1e80e61d,Matisse Thybulle,1629680,22,Block,2020-08-07T22:30:00Z,2020-08-07,Rookie Debut,Matisse Thybulle Block 2020-08-07 Rookie Debut (Series 1),197
+8dee8dd1-68a7-4036-8e2a-cda9893ea52a,Jarrell Brantley,1629714,5,Layup,2020-08-13T22:30:00Z,2020-08-13,Rookie Debut,Jarrell Brantley Layup 2020-08-13 Rookie Debut (Series 1),1500
+1849a19b-3e89-4c99-bce2-c404df45e1bc,Ky Bowman,1629065,12,Steal,2020-01-09T03:00:00Z,2020-01-08,Rookie Debut,Ky Bowman Steal 2020-01-08 Rookie Debut (Series 1),3340
+e1acc264-12fa-47d5-aa6f-291e53158cd0,Bol Bol,1629626,10,Dunk,2020-08-07T00:00:00Z,2020-08-06,Rookie Debut,Bol Bol Dunk 2020-08-06 Rookie Debut (Series 1),299
+f9f9cec9-acbe-42da-8fa1-1c623f095f59,Rui Hachimura,1629060,8,Dunk,2019-11-09T00:00:00Z,2019-11-08,Rookie Debut,Rui Hachimura Dunk 2019-11-08 Rookie Debut (Series 1),49
+0b068dae-e791-4593-a077-74aa053aea54,Luguentz Dort,1629652,5,Dunk,2020-01-26T01:00:00Z,2020-01-25,Rookie Debut,Luguentz Dort Dunk 2020-01-25 Rookie Debut (Series 1),299
+79f00aeb-c355-4713-a9eb-347d868e77ed,De'Andre Hunter,1629631,12,Dunk,2020-02-21T00:30:00Z,2020-02-20,Rookie Debut,De'Andre Hunter Dunk 2020-02-20 Rookie Debut (Series 1),299
+0357fd8e-0d19-41a9-939a-dbd81b2ca11a,Jordan McLaughlin,1629162,6,Dunk,2020-01-25T01:00:00Z,2020-01-24,Rookie Debut,Jordan McLaughlin Dunk 2020-01-24 Rookie Debut (Series 1),3999
+9fc007e3-bc33-4047-8ffd-dc9a59c0fbc4,Michael Porter Jr.,1629008,1,Dunk,2019-12-30T01:00:00Z,2019-12-29,Rookie Debut,Michael Porter Jr. Dunk 2019-12-29 Rookie Debut (Series 1),150
+92f4ecc2-6f75-47bf-9eb7-3d3756b83157,RJ Barrett,1629628,9,Layup,2019-10-24T00:30:00Z,2019-10-23,Rookie Debut,RJ Barrett Layup 2019-10-23 Rookie Debut (Series 1),299
+dd921acd-925e-4310-b5bd-4d9a6954838e,Jarrett Culver,1629633,23,Dunk,2020-01-02T01:00:00Z,2020-01-01,Rookie Debut,Jarrett Culver Dunk 2020-01-01 Rookie Debut (Series 1),3999
+d012e87f-7aec-4f5d-969b-2af03890ab4f,Zion Williamson,1629627,1,Block,2020-01-25T01:00:00Z,2020-01-24,Rookie Debut,Zion Williamson Block 2020-01-24 Rookie Debut (Series 1),192
+632d3d29-8b76-4f30-9d83-f5be86f3d71e,Cam Reddish,1629629,22,Dunk,2019-10-29T23:30:00Z,2019-10-29,Rookie Debut,Cam Reddish Dunk 2019-10-29 Rookie Debut (Series 1),299
+45afe5ed-a21d-4cb1-90fe-738cb890c550,Coby White,1629632,0,Assist,2019-10-26T00:00:00Z,2019-10-25,Rookie Debut,Coby White Assist 2019-10-25 Rookie Debut (Series 1),50
+0c3621c5-6308-4b19-81f3-47fecf146622,Tyler Herro,1629639,14,3 Pointer,2019-12-29T01:00:00Z,2019-12-28,Rookie Debut,Tyler Herro 3 Pointer 2019-12-28 Rookie Debut (Series 1),299
+99a3f83b-6510-437e-8cae-9ea4848b105c,Eric Paschall,1629672,7,Dunk,2020-01-05T01:30:00Z,2020-01-04,Rookie Debut,Eric Paschall Dunk 2020-01-04 Rookie Debut (Series 1),1257
+5f12f915-3ed8-4f60-8236-c88781431673,Kevin Porter Jr.,1629645,4,Dunk,2020-02-10T00:30:00Z,2020-02-09,Rookie Debut,Kevin Porter Jr. Dunk 2020-02-09 Rookie Debut (Series 1),250
+9ac24e13-f3df-4235-acb0-b9b42c73ac0f,Darius Garland,1629636,10,Layup,2020-01-19T01:00:00Z,2020-01-18,Rookie Debut,Darius Garland Layup 2020-01-18 Rookie Debut (Series 1),250
+ba1502dd-34ae-4712-b84e-5252e46d8ee3,Kendrick Nunn,1629134,25,Dunk,2019-12-14T00:00:00Z,2019-12-13,Rookie Debut,Kendrick Nunn Dunk 2019-12-13 Rookie Debut (Series 1),250
+08dbe88e-791e-46c9-b50e-195422e64cdf,P.J. Washington,1629023,25,Dunk,2019-11-06T00:00:00Z,2019-11-05,Rookie Debut,P.J. Washington Dunk 2019-11-05 Rookie Debut (Series 1),3999
+e48cf01d-0343-48fd-a4ae-c789633cba11,Ja Morant,1629630,12,Dunk,2019-12-12T02:00:00Z,2019-12-11,Rookie Debut,Ja Morant Dunk 2019-12-11 Rookie Debut (Series 1),49
+9add876a-b8f3-477c-a800-46ae136da628,Jaren Jackson Jr.,1628991,13,Dunk,2019-11-09T00:00:00Z,2019-11-08,Throwdowns,Jaren Jackson Jr. Dunk 2019-11-08 Throwdowns (Series 1),275
+5f12f915-3ed8-4f60-8236-c88781431673,Kevin Porter Jr.,1629645,4,Dunk,2020-02-10T00:30:00Z,2020-02-09,Throwdowns,Kevin Porter Jr. Dunk 2020-02-09 Throwdowns (Series 1),250
+632d3d29-8b76-4f30-9d83-f5be86f3d71e,Cam Reddish,1629629,22,Dunk,2019-10-29T23:30:00Z,2019-10-29,Throwdowns,Cam Reddish Dunk 2019-10-29 Throwdowns (Series 1),299
+856f785c-14cb-4c29-8d77-9d0c210ab700,Mitchell Robinson,1629011,23,Dunk,2019-12-27T00:30:00Z,2019-12-26,Throwdowns,Mitchell Robinson Dunk 2019-12-26 Throwdowns (Series 1),299
+715bac73-3bc7-40d2-905c-783e2bef516d,Josh Okogie,1629006,20,Dunk,2020-02-23T23:00:00Z,2020-02-23,Throwdowns,Josh Okogie Dunk 2020-02-23 Throwdowns (Series 1),275
+f7e408b6-e70e-4bcf-98d1-faab9f99242d,Montrezl Harrell,1626149,5,Dunk,2020-02-14T01:00:00Z,2020-02-13,Throwdowns,Montrezl Harrell Dunk 2020-02-13 Throwdowns (Series 1),3340
+e8b1c258-b832-4f1b-b0cf-6f8864bafe9b,Terrence Ross,203082,8,Dunk,2020-01-19T01:30:00Z,2020-01-18,Throwdowns,Terrence Ross Dunk 2020-01-18 Throwdowns (Series 1),3999
+c4763b3a-b5d4-494c-bb2d-11ea892f8eaf,Serge Ibaka,201586,9,Dunk,2019-11-07T00:30:00Z,2019-11-06,Throwdowns,Serge Ibaka Dunk 2019-11-06 Throwdowns (Series 1),2986
+6028f7b9-7f8b-45b0-ba2b-c1f8523b7b64,Anthony Davis,203076,3,Dunk,2020-01-02T03:30:00Z,2020-01-01,Throwdowns,Anthony Davis Dunk 2020-01-01 Throwdowns (Series 1),275
+c1b49c28-dfb9-4dd5-83b7-91b73f99f088,Russell Westbrook,201566,0,Dunk,2020-03-11T00:00:00Z,2020-03-10,Throwdowns,Russell Westbrook Dunk 2020-03-10 Throwdowns (Series 1),59
+ea889ef6-0d9f-4c04-bbc6-0d46bdbd8cb5,Brandon Ingram,1627742,14,Dunk,2019-10-29T00:00:00Z,2019-10-28,Throwdowns,Brandon Ingram Dunk 2019-10-28 Throwdowns (Series 1),275
+1d307d9a-aed4-48cd-864a-7691c23f6025,Bruce Brown,1628971,6,Dunk,2020-02-24T02:00:00Z,2020-02-23,Throwdowns,Bruce Brown Dunk 2020-02-23 Throwdowns (Series 1),3339
+ce4f23f1-0159-410c-a562-74e10417d745,Domantas Sabonis,1627734,11,Dunk,2019-12-31T20:00:00Z,2019-12-31,Throwdowns,Domantas Sabonis Dunk 2019-12-31 Throwdowns (Series 1),3999
+9cf44355-e828-4228-b204-7a4f0484df4a,DeMar DeRozan,201942,10,Dunk,2020-01-12T23:00:00Z,2020-01-12,Throwdowns,DeMar DeRozan Dunk 2020-01-12 Throwdowns (Series 1),299
+154d896e-7093-466c-89e4-7832e638f751,Jerami Grant,203924,9,Dunk,2020-03-10T01:00:00Z,2020-03-09,Throwdowns,Jerami Grant Dunk 2020-03-09 Throwdowns (Series 1),1198
+3427155d-dafa-45ec-bf71-ac19b4ab15ab,Giannis Antetokounmpo,203507,34,Dunk,2020-03-01T18:00:00Z,2020-03-01,Throwdowns,Giannis Antetokounmpo Dunk 2020-03-01 Throwdowns (Series 1),275
+c0fa2c26-fce9-46f0-8b68-c36dc6e762c6,Jamal Murray,1627750,27,Dunk,2019-12-28T22:00:00Z,2019-12-28,Throwdowns,Jamal Murray Dunk 2019-12-28 Throwdowns (Series 1),50
+1acc1232-5946-4399-bf98-c99a1c94dec4,Miles Bridges,1628970,0,Dunk,2019-11-14T00:00:00Z,2019-11-13,Throwdowns,Miles Bridges Dunk 2019-11-13 Throwdowns (Series 1),3999
+8d3a2c69-e1fe-4074-86cd-64b3e012f1d4,Tobias Harris,202699,12,Dunk,2020-02-12T00:00:00Z,2020-02-11,Throwdowns,Tobias Harris Dunk 2020-02-11 Throwdowns (Series 1),275
+768166e3-f4bb-4395-9b48-4c545aebc95c,LeBron James,2544,23,Dunk,2020-02-07T03:30:00Z,2020-02-06,Throwdowns,LeBron James Dunk 2020-02-06 Throwdowns (Series 1),1000
+a66e911f-9fd3-42f9-ac7c-c4fa9396f194,Anthony Davis,203076,3,Layup,2020-10-01T01:00:00Z,2020-09-30,The Finals,Anthony Davis Layup 2020-09-30 The Finals (Series 1),750
+eb8c4096-cfaf-463c-93f3-8021d632d906,Kelly Olynyk,203482,9,Layup,2020-10-04T23:30:00Z,2020-10-04,The Finals,Kelly Olynyk Layup 2020-10-04 The Finals (Series 1),299
+7e5ac838-7886-4374-aa6e-6c58736139a0,Jae Crowder,203109,99,Assist,2020-10-04T23:30:00Z,2020-10-04,The Finals,Jae Crowder Assist 2020-10-04 The Finals (Series 1),750
+5ae6891f-45a4-4ea6-9364-c92cb29a3275,Markieff Morris,202693,88,3 Pointer,2020-10-04T23:30:00Z,2020-10-04,The Finals,Markieff Morris 3 Pointer 2020-10-04 The Finals (Series 1),299
+40ed791a-af63-453a-92da-18ed7aa26096,Jimmy Butler,202710,22,Jump Shot,2020-10-10T01:00:00Z,2020-10-09,The Finals,Jimmy Butler Jump Shot 2020-10-09 The Finals (Series 1),357
+48902a95-f3ee-4499-afad-5b62e106ea31,LeBron James,2544,23,Dunk,2020-10-01T01:00:00Z,2020-09-30,The Finals,LeBron James Dunk 2020-09-30 The Finals (Series 1),750
+e4116a74-4685-4123-a194-fa595cd4a078,Bam Adebayo,1628389,13,Jump Shot,2020-10-07T01:00:00Z,2020-10-06,The Finals,Bam Adebayo Jump Shot 2020-10-06 The Finals (Series 1),750
+0ed6b880-d18e-404e-b703-2f6d7be0e755,Dwight Howard,2730,39,Assist,2020-10-01T01:00:00Z,2020-09-30,The Finals,Dwight Howard Assist 2020-09-30 The Finals (Series 1),750
+88bd8ad2-160d-4011-a517-22b07f1c909a,Andre Iguodala,2738,28,Assist,2020-10-01T01:00:00Z,2020-09-30,The Finals,Andre Iguodala Assist 2020-09-30 The Finals (Series 1),1915
+797f7a1e-cad2-4c1b-b2e4-b75b3e8921c9,Goran Dragić ,201609,7,Layup,2020-10-11T23:30:00Z,2020-10-11,The Finals,Goran Dragić  Layup 2020-10-11 The Finals (Series 1),1915
+b70db602-c210-49f4-8685-b396161a89c5,Rajon Rondo,200765,9,Assist,2020-10-03T01:00:00Z,2020-10-02,2020 NBA Finals,Rajon Rondo Assist 2020-10-02 2020 NBA Finals (Series 1),79
+2d0a9278-d9de-436f-82c6-ad70ec52a545,Tyler Herro,1629639,14,Layup,2020-10-04T23:30:00Z,2020-10-04,2020 NBA Finals,Tyler Herro Layup 2020-10-04 2020 NBA Finals (Series 1),79
+214446d1-9779-420f-8152-b28c34a4fc2b,Kendrick Nunn,1629134,25,Block,2020-10-03T01:00:00Z,2020-10-02,2020 NBA Finals,Kendrick Nunn Block 2020-10-02 2020 NBA Finals (Series 1),1959
+ebd68015-8b97-4493-8a53-7fc6f3b6af3f,Danny Green,201980,14,Assist,2020-10-03T01:00:00Z,2020-10-02,2020 NBA Finals,Danny Green Assist 2020-10-02 2020 NBA Finals (Series 1),79
+19bef6b8-5844-46b4-a374-7089abd98d5f,Anthony Davis,203076,3,3 Pointer,2020-10-07T01:00:00Z,2020-10-06,2020 NBA Finals,Anthony Davis 3 Pointer 2020-10-06 2020 NBA Finals (Series 1),79
+ae2568ea-1126-4ae9-adae-16f59f721f0b,Alex Caruso,1627936,4,Layup,2020-10-11T23:30:00Z,2020-10-11,2020 NBA Finals,Alex Caruso Layup 2020-10-11 2020 NBA Finals (Series 1),79
+bff6373c-7ac5-4406-b826-bc8f27de1365,Jimmy Butler,202710,22,Dunk,2020-10-04T23:30:00Z,2020-10-04,2020 NBA Finals,Jimmy Butler Dunk 2020-10-04 2020 NBA Finals (Series 1),79
+ba054aff-1c4a-4d9e-b367-f0d5168b0fb5,Kentavious Caldwell-Pope,203484,1,Layup,2020-10-07T01:00:00Z,2020-10-06,2020 NBA Finals,Kentavious Caldwell-Pope Layup 2020-10-06 2020 NBA Finals (Series 1),299
+5ed1fb13-72df-4e72-afe6-09d35f7c5672,Duncan Robinson,1629130,55,3 Pointer,2020-10-04T23:30:00Z,2020-10-04,2020 NBA Finals,Duncan Robinson 3 Pointer 2020-10-04 2020 NBA Finals (Series 1),1959
+b2fcd3d0-c8a7-4355-b12b-9c4f58b7e523,LeBron James,2544,23,Dunk,2020-10-11T23:30:00Z,2020-10-11,2020 NBA Finals,LeBron James Dunk 2020-10-11 2020 NBA Finals (Series 1),79
+2be622c8-36fd-41e7-9d3c-ea49c271956f,Trae Young,1629027,11,Handles,2019-11-06T00:30:00Z,2019-11-05,Holo MMXX,Trae Young Handles 2019-11-05 Holo MMXX (Series 1),25
+7bb10d8a-e605-4ec5-b69f-6c4a54d70845,Kyrie Irving,202681,11,Handles,2019-10-27T22:00:00Z,2019-10-27,Holo MMXX,Kyrie Irving Handles 2019-10-27 Holo MMXX (Series 1),150
+a53dc13f-3b6a-40f0-816d-5f222b239296,Jaylen Brown,1627759,7,Handles,2019-12-25T17:00:00Z,2019-12-25,Holo MMXX,Jaylen Brown Handles 2019-12-25 Holo MMXX (Series 1),50
+be4f526a-e0b1-4262-a9c9-2dce82a57f2e,John Collins,1628381,20,Dunk,2020-02-13T00:00:00Z,2020-02-12,Holo MMXX,John Collins Dunk 2020-02-12 Holo MMXX (Series 1),3999
+a2bb62c4-7501-4b26-b2e2-06544c66ecf6,Andrew Wiggins,203952,22,Dunk,2020-02-13T02:00:00Z,2020-02-12,Holo MMXX,Andrew Wiggins Dunk 2020-02-12 Holo MMXX (Series 1),299
+13abe3e9-63f4-40ee-bdfe-40cbe0c72a3b,Julius Randle,203944,30,Dunk,2019-11-30T00:30:00Z,2019-11-29,Holo MMXX,Julius Randle Dunk 2019-11-29 Holo MMXX (Series 1),1325
+ce4f23f1-0159-410c-a562-74e10417d745,Domantas Sabonis,1627734,11,Dunk,2019-12-31T20:00:00Z,2019-12-31,Holo MMXX,Domantas Sabonis Dunk 2019-12-31 Holo MMXX (Series 1),3999
+f7b639eb-486f-4fc2-b67c-8bea8b663431,Ben Simmons,1627732,25,Layup,2019-12-29T01:00:00Z,2019-12-28,Holo MMXX,Ben Simmons Layup 2019-12-28 Holo MMXX (Series 1),1359
+4c21a774-5e77-4f3a-b414-617f0cc42f74,Jonas Valančiūnas,202685,17,Block,2020-01-12T23:00:00Z,2020-01-12,Holo MMXX,Jonas Valančiūnas Block 2020-01-12 Holo MMXX (Series 1),2981
+092685e0-8636-459d-a9d0-9a6c2ce150e6,Nikola Jokić,203999,15,Handles,2019-12-30T01:00:00Z,2019-12-29,Holo MMXX,Nikola Jokić Handles 2019-12-29 Holo MMXX (Series 1),1430
+0b2b9e68-d52e-4511-910a-6ea5d37915ac,Karl-Anthony Towns,1626157,32,Dunk,2020-02-01T20:30:00Z,2020-02-01,Holo MMXX,Karl-Anthony Towns Dunk 2020-02-01 Holo MMXX (Series 1),2983
+10db33f6-f9dc-4571-86db-c49a6b33a863,Khris Middleton,203114,22,Dunk,2020-01-29T01:00:00Z,2020-01-28,Holo MMXX,Khris Middleton Dunk 2020-01-28 Holo MMXX (Series 1),50
+38958d66-8ed0-4ef7-ada7-e0fcefc5eb8c,Dāvis Bertāns,202722,42,3 Pointer,2020-01-23T00:30:00Z,2020-01-22,Holo MMXX,Dāvis Bertāns 3 Pointer 2020-01-22 Holo MMXX (Series 1),3999
+40ebbf73-582a-4e8c-bf6e-627aee3d6f83,CJ McCollum,203468,3,Dunk,2019-11-11T02:00:00Z,2019-11-10,Holo MMXX,CJ McCollum Dunk 2019-11-10 Holo MMXX (Series 1),3999
+41a6a797-7fe9-4ed3-b96c-d0b533248670,Collin Sexton,1629012,2,Dunk,2019-10-30T23:00:00Z,2019-10-30,Holo MMXX,Collin Sexton Dunk 2019-10-30 Holo MMXX (Series 1),3999
+45c2c7f0-c0f1-4ab8-8d5c-b836dfce41a5,Aaron Gordon,203932,00,Dunk,2020-01-16T03:30:00Z,2020-01-15,Holo MMXX,Aaron Gordon Dunk 2020-01-15 Holo MMXX (Series 1),299
+46b46192-21f7-4b69-bf9c-b70eec06f83d,Giannis Antetokounmpo,203507,34,Dunk,2019-11-17T00:00:00Z,2019-11-16,Holo MMXX,Giannis Antetokounmpo Dunk 2019-11-16 Holo MMXX (Series 1),50
+4a5c6bf5-76af-4f35-8db8-204c5039443d,Buddy Hield,1627741,24,Dunk,2019-12-14T03:00:00Z,2019-12-13,Holo MMXX,Buddy Hield Dunk 2019-12-13 Holo MMXX (Series 1),50
+5d307322-b310-42f0-8b23-8da94465b4bf,Cody Zeller,203469,40,Dunk,2020-02-21T01:00:00Z,2020-02-20,Holo MMXX,Cody Zeller Dunk 2020-02-20 Holo MMXX (Series 1),3999
+50fde806-fe34-4a47-b48e-7c5b3dbcff4e,Steven Adams,203500,12,Assist,2019-12-07T01:00:00Z,2019-12-06,Holo MMXX,Steven Adams Assist 2019-12-06 Holo MMXX (Series 1),50
+6028f7b9-7f8b-45b0-ba2b-c1f8523b7b64,Anthony Davis,203076,3,Dunk,2020-01-02T03:30:00Z,2020-01-01,Holo MMXX,Anthony Davis Dunk 2020-01-01 Holo MMXX (Series 1),275
+59c27a62-5054-4ff7-bfd9-2044dcbfe4a7,Bradley Beal,203078,3,Layup,2020-02-08T00:00:00Z,2020-02-07,Holo MMXX,Bradley Beal Layup 2020-02-07 Holo MMXX (Series 1),50
+64ef4a70-2690-4f10-a660-7afb0786af61,Andre Drummond,203083,3,Dunk,2020-02-10T00:30:00Z,2020-02-09,Holo MMXX,Andre Drummond Dunk 2020-02-09 Holo MMXX (Series 1),50
+67319ec3-e326-4529-b452-cc79b1d2bd65,Bam Adebayo,1628389,13,Block,2019-10-29T23:30:00Z,2019-10-29,Holo MMXX,Bam Adebayo Block 2019-10-29 Holo MMXX (Series 1),50
+690b3e21-e036-4eb0-ae81-c449e67b8b3d,Donovan Mitchell,1628378,45,Block,2019-10-26T02:30:00Z,2019-10-25,Holo MMXX,Donovan Mitchell Block 2019-10-25 Holo MMXX (Series 1),50
+6ea9985c-06b8-4464-a131-6194cfde01ba,James Harden,201935,13,Layup,2020-02-05T01:00:00Z,2020-02-04,Holo MMXX,James Harden Layup 2020-02-04 Holo MMXX (Series 1),50
+750ca511-3ee7-4c7f-bba8-ebaa997fe991,Spencer Dinwiddie,203915,8,Jump Shot,2019-11-26T00:00:00Z,2019-11-25,Holo MMXX,Spencer Dinwiddie Jump Shot 2019-11-25 Holo MMXX (Series 1),50
+7baad966-60e3-4a48-bb85-954375c560e1,Langston Galloway,204038,9,Jump Shot,2019-12-17T00:00:00Z,2019-12-16,Holo MMXX,Langston Galloway Jump Shot 2019-12-16 Holo MMXX (Series 1),50
+819762b5-ca6c-4a5c-83d5-e60a30322e52,Kawhi Leonard,202695,2,Dunk,2019-11-21T03:00:00Z,2019-11-20,Holo MMXX,Kawhi Leonard Dunk 2019-11-20 Holo MMXX (Series 1),50
+8d03262c-f399-4847-8a4c-d31399c4edee,Nikola Vučević,202696,9,Dunk,2020-01-05T00:00:00Z,2020-01-04,Holo MMXX,Nikola Vučević Dunk 2020-01-04 Holo MMXX (Series 1),1434
+8f145480-369e-4337-a283-08f51e0becbb,Jrue Holiday,201950,11,Assist,2019-11-01T01:30:00Z,2019-10-31,Holo MMXX,Jrue Holiday Assist 2019-10-31 Holo MMXX (Series 1),3342
+92f4ecc2-6f75-47bf-9eb7-3d3756b83157,RJ Barrett,1629628,9,Layup,2019-10-24T00:30:00Z,2019-10-23,Holo MMXX,RJ Barrett Layup 2019-10-23 Holo MMXX (Series 1),299
+93e0f73a-69e7-4e58-ba89-7345a60f5a47,Joel Embiid,203954,21,Assist,2019-10-28T23:30:00Z,2019-10-28,Holo MMXX,Joel Embiid Assist 2019-10-28 Holo MMXX (Series 1),2987
+9939a2dc-7c95-4c02-b747-9fee26c9d040,Zach LaVine,203897,8,3 Pointer,2019-11-24T00:00:00Z,2019-11-23,Holo MMXX,Zach LaVine 3 Pointer 2019-11-23 Holo MMXX (Series 1),49
+99bd66dc-3ea3-4333-8fb3-b46c24b688e1,Chris Paul,101108,3,Handles,2020-01-10T02:30:00Z,2020-01-09,Holo MMXX,Chris Paul Handles 2020-01-09 Holo MMXX (Series 1),1434
+a84fd0fe-1177-4f79-8497-e9d955d272c4,Paul George,202331,13,Jump Shot,2020-01-05T20:30:00Z,2020-01-05,Holo MMXX,Paul George Jump Shot 2020-01-05 Holo MMXX (Series 1),299
+a9dc398e-c76e-4c8f-ac52-b999222d4110,Devin Booker,1626164,1,Block,2019-11-28T02:00:00Z,2019-11-27,Holo MMXX,Devin Booker Block 2019-11-27 Holo MMXX (Series 1),1358
+abd4da56-b32e-4b41-baac-728a147a6e73,Jayson Tatum,1628369,0,Handles,2019-11-21T03:00:00Z,2019-11-20,Holo MMXX,Jayson Tatum Handles 2019-11-20 Holo MMXX (Series 1),299
+b2afd92f-bcf5-494f-9b05-b5a50165d106,Kristaps Porziņģis,204001,6,3 Pointer,2019-12-15T01:30:00Z,2019-12-14,Holo MMXX,Kristaps Porziņģis 3 Pointer 2019-12-14 Holo MMXX (Series 1),50
+b6e2029d-b4a6-4449-8293-82df2b886685,Deandre Ayton,1629028,22,Dunk,2019-10-24T02:00:00Z,2019-10-23,Holo MMXX,Deandre Ayton Dunk 2019-10-23 Holo MMXX (Series 1),2986
+bae1c7dd-2fa6-487a-b711-3eee3573f3c6,Rudy Gobert,203497,27,Block,2020-01-25T22:00:00Z,2020-01-25,Holo MMXX,Rudy Gobert Block 2020-01-25 Holo MMXX (Series 1),1358
+bea7b634-2aa5-4e42-a584-682c47488fcc,Pascal Siakam,1627783,43,Block,2019-11-11T02:30:00Z,2019-11-10,Holo MMXX,Pascal Siakam Block 2019-11-10 Holo MMXX (Series 1),3999
+c8ad129e-a803-4400-9025-2c4209bd2ed4,D'Angelo Russell,1626156,0,Block,2020-02-27T00:30:00Z,2020-02-26,Holo MMXX,D'Angelo Russell Block 2020-02-26 Holo MMXX (Series 1),50
+d012e87f-7aec-4f5d-969b-2af03890ab4f,Zion Williamson,1629627,1,Block,2020-01-25T01:00:00Z,2020-01-24,Holo MMXX,Zion Williamson Block 2020-01-24 Holo MMXX (Series 1),192
+d41d9323-aab7-47d3-83ea-4871fcc72bb9,Kyle Lowry,200768,7,3 Pointer,2020-01-18T00:00:00Z,2020-01-17,Holo MMXX,Kyle Lowry 3 Pointer 2020-01-17 Holo MMXX (Series 1),1532
+e2c09c0f-e04b-45db-9f5f-7cd0e6c5ed2b,Luka Dončić,1629029,77,Dunk,2020-03-12T00:00:00Z,2020-03-11,Holo MMXX,Luka Dončić Dunk 2020-03-11 Holo MMXX (Series 1),299
+de32d3fb-0e6a-447e-b42a-08bbf1607b7d,LeBron James,2544,23,Dunk,2019-11-16T03:30:00Z,2019-11-15,Holo MMXX,LeBron James Dunk 2019-11-15 Holo MMXX (Series 1),299
+e48cf01d-0343-48fd-a4ae-c789633cba11,Ja Morant,1629630,12,Dunk,2019-12-12T02:00:00Z,2019-12-11,Holo MMXX,Ja Morant Dunk 2019-12-11 Holo MMXX (Series 1),49
+ecac4cfb-38ad-4911-8e2d-1018fe603d6e,Victor Oladipo,203506,4,3 Pointer,2020-01-30T00:00:00Z,2020-01-29,Holo MMXX,Victor Oladipo 3 Pointer 2020-01-29 Holo MMXX (Series 1),49
+ef100f9e-ed36-442d-bd6b-f1fa857decd1,Derrick Rose,201565,25,Jump Shot,2019-12-10T01:00:00Z,2019-12-09,Holo MMXX,Derrick Rose Jump Shot 2019-12-09 Holo MMXX (Series 1),50
+f2a3c763-f7ff-4342-a209-44a34cdf1d02,Damian Lillard,203081,0,Dunk,2019-10-24T02:00:00Z,2019-10-23,Holo MMXX,Damian Lillard Dunk 2019-10-23 Holo MMXX (Series 1),49
+f1690178-bd14-4ce0-82ab-06e8ecfd690b,Jimmy Butler,202710,22,3 Pointer,2019-12-11T01:00:00Z,2019-12-10,Holo MMXX,Jimmy Butler 3 Pointer 2019-12-10 Holo MMXX (Series 1),49
+f552b506-b41d-4e7c-ac5a-59427f9e96e6,Steph Curry,201939,30,Assist,2020-03-06T03:30:00Z,2020-03-05,Holo MMXX,Steph Curry Assist 2020-03-05 Holo MMXX (Series 1),50
+9cf44355-e828-4228-b204-7a4f0484df4a,DeMar DeRozan,201942,10,Dunk,2020-01-12T23:00:00Z,2020-01-12,Holo MMXX,DeMar DeRozan Dunk 2020-01-12 Holo MMXX (Series 1),299
+c0fa2c26-fce9-46f0-8b68-c36dc6e762c6,Jamal Murray,1627750,27,Dunk,2019-12-28T22:00:00Z,2019-12-28,Holo MMXX,Jamal Murray Dunk 2019-12-28 Holo MMXX (Series 1),50
+9c0cd57c-8203-4ec1-9a0c-9b7e7a6f0635,Bogdan Bogdanović,203992,8,Assist,2019-10-29T02:00:00Z,2019-10-28,Holo MMXX,Bogdan Bogdanović Assist 2019-10-28 Holo MMXX (Series 1),3345
+45afe5ed-a21d-4cb1-90fe-738cb890c550,Coby White,1629632,0,Assist,2019-10-26T00:00:00Z,2019-10-25,Holo MMXX,Coby White Assist 2019-10-25 Holo MMXX (Series 1),50
+1711d369-0be4-4196-9f0e-285be762fe46,Devonte' Graham,1628984,4,3 Pointer,2019-11-17T00:30:00Z,2019-11-16,Holo MMXX,Devonte' Graham 3 Pointer 2019-11-16 Holo MMXX (Series 1),2799
+34d76a82-c293-4c04-8f84-335d8e9239cc,Russell Westbrook,201566,0,Layup,2019-12-10T01:00:00Z,2019-12-09,Holo MMXX,Russell Westbrook Layup 2019-12-09 Holo MMXX (Series 1),50
+a9c9ca2f-ff9a-4102-8085-8d670750d410,LaMarcus Aldridge,200746,12,Jump Shot,2020-01-18T01:30:00Z,2020-01-17,Holo MMXX,LaMarcus Aldridge Jump Shot 2020-01-17 Holo MMXX (Series 1),3999
+1f42dc83-5a08-4583-921d-7275f6ab88f9,Giannis Antetokounmpo,203507,34,Dunk,2020-08-06T20:00:00Z,2020-08-06,MVP Moves,Giannis Antetokounmpo Dunk 2020-08-06 MVP Moves (Series 1),499
+f50a324a-d23c-45c3-a7e0-dd9ca5136c90,Giannis Antetokounmpo,203507,34,Dunk,2020-08-09T00:30:00Z,2020-08-08,MVP Moves,Giannis Antetokounmpo Dunk 2020-08-08 MVP Moves (Series 1),499
+5e88f443-c94a-4426-b6a7-a8bde8520712,Giannis Antetokounmpo,203507,34,Dunk,2019-11-22T01:00:00Z,2019-11-21,MVP Moves,Giannis Antetokounmpo Dunk 2019-11-21 MVP Moves (Series 1),297
+7539422b-cb02-433f-9e50-450583042be4,Giannis Antetokounmpo,203507,34,Assist,2019-11-22T01:00:00Z,2019-11-21,MVP Moves,Giannis Antetokounmpo Assist 2019-11-21 MVP Moves (Series 1),499
+57cb2202-a0e9-47d0-b654-f01a9c05160b,Giannis Antetokounmpo,203507,34,Dunk,2020-08-22T17:00:00Z,2020-08-22,MVP Moves,Giannis Antetokounmpo Dunk 2020-08-22 MVP Moves (Series 1),499
+6311056f-0bd3-48d1-90a1-8c8cdbdd98cd,Giannis Antetokounmpo,203507,34,Dunk,2020-08-18T17:30:00Z,2020-08-18,MVP Moves,Giannis Antetokounmpo Dunk 2020-08-18 MVP Moves (Series 1),499
+8ae52e07-0981-42f3-9477-180f358a0174,Giannis Antetokounmpo,203507,34,Layup,2019-10-26T21:00:00Z,2019-10-26,MVP Moves,Giannis Antetokounmpo Layup 2019-10-26 MVP Moves (Series 1),499
+7a766c35-2045-4940-a21f-4e8bd54a93b6,Giannis Antetokounmpo,203507,34,Dunk,2019-12-03T01:00:00Z,2019-12-02,MVP Moves,Giannis Antetokounmpo Dunk 2019-12-02 MVP Moves (Series 1),499
+828789c7-77bf-4cfc-bd23-2ea2ca5d1ed2,Giannis Antetokounmpo,203507,34,Dunk,2020-08-29T19:30:00Z,2020-08-29,MVP Moves,Giannis Antetokounmpo Dunk 2020-08-29 MVP Moves (Series 1),499
+027e6187-bccf-467b-8887-48bcdc46a1f9,Giannis Antetokounmpo,203507,34,Dunk,2020-08-24T17:30:00Z,2020-08-24,MVP Moves,Giannis Antetokounmpo Dunk 2020-08-24 MVP Moves (Series 1),499
+c5477d5b-f8fc-4e68-b2cc-5c74aebb2b9b,Tony Parker,2225,9,Jump Shot,2014-03-09T01:30:00Z,2014-03-08,Run It Back,Tony Parker Jump Shot 2014-03-08 Run It Back (Series 1),275
+1e2f34bd-41bb-41c8-87d2-7a05c1873a86,Chris Bosh,2547,1,Jump Shot,2013-12-29T03:00:00Z,2013-12-28,Run It Back,Chris Bosh Jump Shot 2013-12-28 Run It Back (Series 1),275
+da6e2621-51ce-4351-87ee-6e8aa82d0965,Ray Allen,951,34,Dunk,2014-06-06T01:00:00Z,2014-06-05,Run It Back,Ray Allen Dunk 2014-06-05 Run It Back (Series 1),201
+98d16dd1-7dab-4cd9-b839-c924518f919c,Manu Ginobili,1938,20,Dunk,2014-06-16T00:00:00Z,2014-06-15,Run It Back,Manu Ginobili Dunk 2014-06-15 Run It Back (Series 1),192
+c42a9e19-8998-45a1-b300-15176c81b6ec,Leandro Barbosa,2571,10,Layup,2014-01-14T00:30:00Z,2014-01-13,Run It Back,Leandro Barbosa Layup 2014-01-13 Run It Back (Series 1),275
+eb74c536-003d-4b25-9f44-8e75d6c3d24f,Danny Granger,101122,33,Layup,2014-01-08T00:00:00Z,2014-01-07,Run It Back,Danny Granger Layup 2014-01-07 Run It Back (Series 1),275
+878aa6c2-2a72-4037-a65f-056fc9ad2d7a,Anderson Varejão,2760,17,Dunk,2014-01-23T00:00:00Z,2014-01-22,Run It Back,Anderson Varejão Dunk 2014-01-22 Run It Back (Series 1),275
+bb2179d6-8f5c-48eb-8b42-08be2b88f5fc,Amar'e Stoudemire,2405,1,Dunk,2014-01-12T00:30:00Z,2014-01-11,Run It Back,Amar'e Stoudemire Dunk 2014-01-11 Run It Back (Series 1),275
+1fc9e3ed-f277-4dbb-9065-5e969e9e7270,Steve Nash,959,10,Assist,2014-04-09T02:30:00Z,2014-04-08,Run It Back,Steve Nash Assist 2014-04-08 Run It Back (Series 1),275
+8b2dc50d-109b-4c4e-b4bf-6923efe7daf6,Tim Duncan,1495,21,Layup,2013-12-17T03:30:00Z,2013-12-16,Run It Back,Tim Duncan Layup 2013-12-16 Run It Back (Series 1),275
+1f76a9fc-9422-45bf-92fc-3d07dd0240fe,Mo Williams,2590,25,Layup,2014-05-09T01:30:00Z,2014-05-08,Run It Back,Mo Williams Layup 2014-05-08 Run It Back (Series 1),275
+687552d1-fe30-4275-977f-894647fac183,Dirk Nowitzki,1717,41,Jump Shot,2014-02-25T00:30:00Z,2014-02-24,Run It Back,Dirk Nowitzki Jump Shot 2014-02-24 Run It Back (Series 1),275
+feb7eed2-4352-4d02-98c9-1f59f0a8229a,Nick Collison,2555,4,Jump Shot,2014-05-22T01:00:00Z,2014-05-21,Run It Back,Nick Collison Jump Shot 2014-05-21 Run It Back (Series 1),275
+39bdc36b-fdc9-4dae-8163-f04c17c62c7d,Chauncey Billups,1497,1,Jump Shot,2013-12-15T23:00:00Z,2013-12-15,Run It Back,Chauncey Billups Jump Shot 2013-12-15 Run It Back (Series 1),275
+e61602c7-de7a-40d0-9df5-66ac31dfdfce,Jameer Nelson,2749,14,Dunk,2014-03-14T23:00:00Z,2014-03-14,Run It Back,Jameer Nelson Dunk 2014-03-14 Run It Back (Series 1),275
+00198643-acf1-45bf-b39d-8a47a28fd7ce,Shawn Marion,1890,0,Jump Shot,2013-11-21T02:30:00Z,2013-11-20,Run It Back,Shawn Marion Jump Shot 2013-11-20 Run It Back (Series 1),275
+9c97c874-4a99-4b27-a0be-84b1296e6bb8,Andrew Bogut,101106,12,Assist,2013-12-16T01:00:00Z,2013-12-15,Run It Back,Andrew Bogut Assist 2013-12-15 Run It Back (Series 1),275
+7a29961e-ed7c-45a7-8cd5-6b6bc4a84c08,Kevin Garnett,708,2,Dunk,2014-01-25T00:30:00Z,2014-01-24,Run It Back,Kevin Garnett Dunk 2014-01-24 Run It Back (Series 1),275
+2e391544-9869-4464-b973-2524c3c5dd32,Paul Pierce,1718,34,Block,2014-05-04T17:00:00Z,2014-05-04,Run It Back,Paul Pierce Block 2014-05-04 Run It Back (Series 1),275
+8286e3c3-3bdc-4d2c-b0b2-8caa5a6c178c,Roy Hibbert,201579,55,Dunk,2013-12-31T20:00:00Z,2013-12-31,Run It Back,Roy Hibbert Dunk 2013-12-31 Run It Back (Series 1),275
+bd8c2c92-8bba-4504-b8e8-28c49e4af8cc,Chris Paul,101108,3,Layup,2014-04-16T02:30:00Z,2014-04-15,Run It Back,Chris Paul Layup 2014-04-15 Run It Back (Series 1),275
+57ab8e8e-2322-4b38-bdab-3927bb89abae,Carmelo Anthony,2546,7,Jump Shot,2014-01-25T00:30:00Z,2014-01-24,Run It Back,Carmelo Anthony Jump Shot 2014-01-24 Run It Back (Series 1),275
+b5f2022e-951a-41d9-81a0-58e4bf8110db,Otto Porter Jr.,203490,22,Dunk,2014-04-11T23:00:00Z,2014-04-11,Run It Back,Otto Porter Jr. Dunk 2014-04-11 Run It Back (Series 1),275
+46c3dcd4-0513-47ae-88f3-5cb9465c5e4b,Kevin Durant,201142,35,3 Pointer,2014-03-21T23:00:00Z,2014-03-21,Run It Back,Kevin Durant 3 Pointer 2014-03-21 Run It Back (Series 1),209
+01282d7f-a4ce-40be-80d8-10defe890bff,Paul George,202331,24,Dunk,2014-01-19T00:00:00Z,2014-01-18,Run It Back,Paul George Dunk 2014-01-18 Run It Back (Series 1),191
+9309ada6-0e41-4c12-8fe7-19c07b03a018,Udonis Haslem,2617,40,Assist,2014-04-06T17:00:00Z,2014-04-06,Run It Back,Udonis Haslem Assist 2014-04-06 Run It Back (Series 1),275
+eb52ac6d-a607-49d9-bc0c-1d0ceb375f2a,Kelly Olynyk,203482,41,Layup,2014-03-08T00:30:00Z,2014-03-07,Run It Back,Kelly Olynyk Layup 2014-03-07 Run It Back (Series 1),275
+d4b96413-7101-4a17-b243-c1b18865b149,Steven Adams,203500,12,Dunk,2014-05-04T00:00:00Z,2014-05-03,Run It Back,Steven Adams Dunk 2014-05-03 Run It Back (Series 1),275
+0654fda1-2cee-4b21-93b2-4d914b30524e,DeMarcus Cousins,202326,15,Dunk,2013-11-23T20:30:00Z,2013-11-23,Run It Back,DeMarcus Cousins Dunk 2013-11-23 Run It Back (Series 1),275
+c0cb15bb-c8f0-4cea-99d1-46fe1d10d1a2,Marc Gasol,201188,33,3 Pointer,2014-03-02T02:00:00Z,2014-03-01,Run It Back,Marc Gasol 3 Pointer 2014-03-01 Run It Back (Series 1),275
+30ec8719-59d3-4fdf-a4e4-aeb14d46229e,Victor Oladipo,203506,5,Block,2014-01-09T03:00:00Z,2014-01-08,Run It Back,Victor Oladipo Block 2014-01-08 Run It Back (Series 1),275
+922c0250-f760-4e51-8f97-01fb2c32a769,James Harden,201935,13,Layup,2014-02-13T01:00:00Z,2014-02-12,Run It Back,James Harden Layup 2014-02-12 Run It Back (Series 1),275
+48ceb6bc-13ea-43cd-b1cd-6aafac4763d1,Jimmy Butler,202710,21,Dunk,2014-03-23T00:00:00Z,2014-03-22,Run It Back,Jimmy Butler Dunk 2014-03-22 Run It Back (Series 1),275
+676d0ea0-deba-435a-970f-1e0e69064723,Kyle Lowry,200768,7,3 Pointer,2014-04-30T23:30:00Z,2014-04-30,Run It Back,Kyle Lowry 3 Pointer 2014-04-30 Run It Back (Series 1),275
+23375a95-1e20-4f8b-a463-efebd705dbc3,Brook Lopez,201572,11,Dunk,2013-12-13T01:00:00Z,2013-12-12,Run It Back,Brook Lopez Dunk 2013-12-12 Run It Back (Series 1),275
+7bef1e66-57bd-4512-9434-73a4ad2e5f99,Kentavious Caldwell-Pope,203484,5,Dunk,2014-04-17T00:00:00Z,2014-04-16,Run It Back,Kentavious Caldwell-Pope Dunk 2014-04-16 Run It Back (Series 1),275
+a3ef694b-4ba7-4f90-b40f-5afe5dbfb8de,Giannis Antetokounmpo,203507,34,Layup,2014-02-04T01:00:00Z,2014-02-03,Run It Back,Giannis Antetokounmpo Layup 2014-02-03 Run It Back (Series 1),275
+569c1a7c-13cb-4ead-9dfd-0c7a02b67920,Jrue Holiday,201950,11,Jump Shot,2013-12-03T01:00:00Z,2013-12-02,Run It Back,Jrue Holiday Jump Shot 2013-12-02 Run It Back (Series 1),275
+a2536cd6-83d7-47af-bc6d-9c54bec59472,Michael Carter-Williams,203487,1,Dunk,2013-10-30T23:00:00Z,2013-10-30,Run It Back,Michael Carter-Williams Dunk 2013-10-30 Run It Back (Series 1),275
+e15528e5-b991-4cae-a21d-3d04b0609e8d,Dennis Schröder,203471,17,Layup,2014-04-02T23:30:00Z,2014-04-02,Run It Back,Dennis Schröder Layup 2014-04-02 Run It Back (Series 1),275
+146acb17-a138-49fe-bf8a-c038482e9bcf,Bruno Fernando,1628981,24,Dunk,2020-12-24T01:00:00Z,2020-12-23,Base Set,Bruno Fernando Dunk 2020-12-23 Base Set (Series 2),12000
+98c944a2-44a1-4fea-b26c-bf6f036441a5,Trae Young,1629027,11,Assist,2020-12-26T22:00:00Z,2020-12-26,Base Set,Trae Young Assist 2020-12-26 Base Set (Series 2),7500
+6820585b-9448-44b6-a9c9-9c041d2a4648,Kevin Durant,201142,7,3 Pointer,2020-12-23T00:00:00Z,2020-12-22,Base Set,Kevin Durant 3 Pointer 2020-12-22 Base Set (Series 2),7500
+d240a57b-01ed-4462-a35b-94d8cb1eec2a,LaMelo Ball,1630163,2,Assist,2020-12-24T00:00:00Z,2020-12-23,Base Set,LaMelo Ball Assist 2020-12-23 Base Set (Series 2),4000
+84b287bb-bec0-4b5a-9cf0-7b38516b4573,Miles Bridges,1628970,0,Dunk,2020-12-24T00:00:00Z,2020-12-23,Base Set,Miles Bridges Dunk 2020-12-23 Base Set (Series 2),15000
+2726f5b8-172f-4ac0-a698-743ca230acf6,Patrick Williams,1630172,9,Layup,2020-12-24T01:00:00Z,2020-12-23,Base Set,Patrick Williams Layup 2020-12-23 Base Set (Series 2),4000
+f0ef9d8c-e64a-4792-899a-897cf3e68310,Andre Drummond,203083,3,Dunk,2020-12-24T00:00:00Z,2020-12-23,Base Set,Andre Drummond Dunk 2020-12-23 Base Set (Series 2),15000
+82d4e63b-8e2a-4e84-8111-cd1f59a7cf99,Isaac Okoro,1630171,35,Dunk,2020-12-24T00:00:00Z,2020-12-23,Base Set,Isaac Okoro Dunk 2020-12-23 Base Set (Series 2),4000
+64d777b4-7ed7-4244-aa5c-fb7979fad8cd,JaVale McGee,201580,6,Dunk,2020-12-27T00:00:00Z,2020-12-26,Base Set,JaVale McGee Dunk 2020-12-26 Base Set (Series 2),15000
+1e514cfe-c6c9-46f4-bb0b-1b281d632488,Killian Hayes,1630165,7,Jump Shot,2020-12-24T01:00:00Z,2020-12-23,Base Set,Killian Hayes Jump Shot 2020-12-23 Base Set (Series 2),4000
+bfd280cc-c84c-418d-bfb8-da08a90e1b3c,James Wiseman,1630164,33,Dunk,2020-12-23T00:00:00Z,2020-12-22,Base Set,James Wiseman Dunk 2020-12-22 Base Set (Series 2),4000
+fc5a461e-2c14-45a5-b533-cce672c91bcb,Kelly Oubre Jr.,1626162,12,Dunk,2020-12-23T00:00:00Z,2020-12-22,Base Set,Kelly Oubre Jr. Dunk 2020-12-22 Base Set (Series 2),15000
+94ecf5e5-cddd-4f28-bcb6-0c35f657e04e,Steph Curry,201939,30,3 Pointer,2020-12-23T00:00:00Z,2020-12-22,Base Set,Steph Curry 3 Pointer 2020-12-22 Base Set (Series 2),7500
+4854d0a2-fe1d-4b3a-90eb-d88ee8662f37,Malcolm Brogdon,1627763,7,Assist,2020-12-24T00:00:00Z,2020-12-23,Base Set,Malcolm Brogdon Assist 2020-12-23 Base Set (Series 2),15000
+dd736f1f-1dc9-4114-b73e-32d8cc680933,T.J. McConnell,204456,9,Assist,2020-12-24T00:00:00Z,2020-12-23,Base Set,T.J. McConnell Assist 2020-12-23 Base Set (Series 2),15000
+b889a064-ca18-4e52-8650-a6175161713f,Ivica Zubac,1627826,40,Dunk,2020-12-23T03:00:00Z,2020-12-22,Base Set,Ivica Zubac Dunk 2020-12-22 Base Set (Series 2),15000
+31024ca7-ae9b-40a8-b118-7718bcd72bb3,Kawhi Leonard,202695,2,Layup,2020-12-23T03:00:00Z,2020-12-22,Base Set,Kawhi Leonard Layup 2020-12-22 Base Set (Series 2),7500
+74ad4c27-5a68-42f6-b19b-b58fd7d3f635,Dennis Schröder,203471,17,Layup,2020-12-23T03:00:00Z,2020-12-22,Base Set,Dennis Schröder Layup 2020-12-22 Base Set (Series 2),15000
+2d0fe5aa-617a-4492-89d2-faa125e4b196,LeBron James,2544,23,Dunk,2020-12-23T03:00:00Z,2020-12-22,Base Set,LeBron James Dunk 2020-12-22 Base Set (Series 2),7500
+67c348a8-a5b3-4bf5-8e4e-a9e78cefe6c8,Ja Morant,1629630,12,Handles,2020-12-26T22:00:00Z,2020-12-26,Base Set,Ja Morant Handles 2020-12-26 Base Set (Series 2),7500
+748afe00-ef2d-4635-8276-d9f41795248c,Precious Achiuwa,1630173,5,Dunk,2020-12-24T00:00:00Z,2020-12-23,Base Set,Precious Achiuwa Dunk 2020-12-23 Base Set (Series 2),4000
+183cc44b-a768-4ef5-9e63-1acff06653fd,Anthony Edwards,1630162,1,Layup,2020-12-24T01:00:00Z,2020-12-23,Base Set,Anthony Edwards Layup 2020-12-23 Base Set (Series 2),4000
+7ae992d0-b943-4d96-b103-9c206946525c,Shai Gilgeous-Alexander,1628983,2,Jump Shot,2020-12-27T00:00:00Z,2020-12-26,Base Set,Shai Gilgeous-Alexander Jump Shot 2020-12-26 Base Set (Series 2),15000
+2bdc4a80-de86-488e-8d05-c7855d49e98d,Cole Anthony,1630175,50,Jump Shot,2020-12-24T00:00:00Z,2020-12-23,Base Set,Cole Anthony Jump Shot 2020-12-23 Base Set (Series 2),4000
+10357d57-4fab-497b-b220-423b77847b87,Ben Simmons,1627732,25,Dunk,2020-12-27T00:30:00Z,2020-12-26,Base Set,Ben Simmons Dunk 2020-12-26 Base Set (Series 2),15000
+6d0f4982-015d-4e5c-8e46-0e8a8f9949ac,Tyrese Maxey,1630178,0,Layup,2020-12-24T00:00:00Z,2020-12-23,Base Set,Tyrese Maxey Layup 2020-12-23 Base Set (Series 2),4000
+ca0de16f-1e25-401b-8410-bad1e4f5907f,Jalen Smith,1630188,10,Jump Shot,2020-12-24T03:30:00Z,2020-12-23,Base Set,Jalen Smith Jump Shot 2020-12-23 Base Set (Series 2),4000
+883cf45b-3360-47da-a6dd-9e807f57c049,Devin Vassell,1630170,24,3 Pointer,2020-12-24T01:00:00Z,2020-12-23,Base Set,Devin Vassell 3 Pointer 2020-12-23 Base Set (Series 2),4000
+3aa25eb5-a7a2-419d-b25c-1c3d1a93e1bd,Lonnie Walker IV,1629022,1,Dunk,2020-12-24T01:00:00Z,2020-12-23,Base Set,Lonnie Walker IV Dunk 2020-12-23 Base Set (Series 2),15000
+e4686dbc-755c-49c7-93db-68525312ea24,Deni Avdija,1630166,9,3 Pointer,2020-12-24T00:00:00Z,2020-12-23,Base Set,Deni Avdija 3 Pointer 2020-12-23 Base Set (Series 2),4000
+247d68b1-e71e-4e0f-be5e-d70193bec510,Spencer Dinwiddie,203915,26,Layup,2020-12-28T00:00:00Z,2020-12-27,Base Set,Spencer Dinwiddie Layup 2020-12-27 Base Set (Series 2),15000
+d6cfa9e3-545e-40b9-85db-3d004903e722,Jarrett Culver,1629633,23,Dunk,2020-12-28T03:00:00Z,2020-12-27,Base Set,Jarrett Culver Dunk 2020-12-27 Base Set (Series 2),15000
+8a95da78-2737-4805-b27c-45a8c84d730f,Eric Bledsoe,202339,5,Block,2020-12-28T00:00:00Z,2020-12-27,Base Set,Eric Bledsoe Block 2020-12-27 Base Set (Series 2),15000
+e469ba19-5436-4932-8387-faf1f22ca4d5,John Collins,1628381,20,Dunk,2020-12-26T22:00:00Z,2020-12-26,Base Set,John Collins Dunk 2020-12-26 Base Set (Series 2),15000
+af53a37f-62c6-4684-919a-852146e63aab,Marcus Smart,203935,36,Layup,2020-12-28T01:00:00Z,2020-12-27,Base Set,Marcus Smart Layup 2020-12-27 Base Set (Series 2),15000
+7395d0db-7bcf-431f-8969-a6736699920e,Gordon Hayward,202330,20,Jump Shot,2020-12-28T00:00:00Z,2020-12-27,Base Set,Gordon Hayward Jump Shot 2020-12-27 Base Set (Series 2),12000
+d4862bda-6c6f-41a2-8cc3-8387375370a9,Michael Porter Jr.,1629008,1,Dunk,2020-12-30T03:00:00Z,2020-12-29,Base Set,Michael Porter Jr. Dunk 2020-12-29 Base Set (Series 2),15000
+8598d54a-2c31-44f9-8e3e-7827482e5a57,Jerami Grant,203924,9,Dunk,2020-12-30T00:00:00Z,2020-12-29,Base Set,Jerami Grant Dunk 2020-12-29 Base Set (Series 2),15000
+8106b6dd-ce1a-435a-8b63-78a7d57c8252,Domantas Sabonis,1627734,11,Dunk,2020-12-27T01:00:00Z,2020-12-26,Base Set,Domantas Sabonis Dunk 2020-12-26 Base Set (Series 2),15000
+be01f3d8-3364-413e-b18f-43f93021362c,Jimmy Butler,202710,22,Jump Shot,2020-12-25T17:00:00Z,2020-12-25,Base Set,Jimmy Butler Jump Shot 2020-12-25 Base Set (Series 2),15000
+3679c9c5-7276-4ec7-a285-e5c4d2d46041,Markelle Fultz,1628365,20,Jump Shot,2020-12-28T00:00:00Z,2020-12-27,Base Set,Markelle Fultz Jump Shot 2020-12-27 Base Set (Series 2),15000
+d5c657ea-8b40-4d8b-9883-013cfed14a79,Nikola Vučević,202696,9,Layup,2020-12-28T00:00:00Z,2020-12-27,Base Set,Nikola Vučević Layup 2020-12-27 Base Set (Series 2),15000
+e6e2647d-ee43-442d-95f7-38c6cfd43171,De'Aaron Fox,1628368,5,Layup,2020-12-24T02:00:00Z,2020-12-23,Base Set,De'Aaron Fox Layup 2020-12-23 Base Set (Series 2),15000
+9b8c111f-11a7-4f4d-a69f-dc1ba5e76621,Stanley Johnson,1626169,5,Dunk,2020-12-30T00:00:00Z,2020-12-29,Base Set,Stanley Johnson Dunk 2020-12-29 Base Set (Series 2),12000
+fa45d784-165c-4424-8263-603aacb330a8,Josh Green,1630182,8,Dunk,2020-12-27T20:30:00Z,2020-12-27,Base Set,Josh Green Dunk 2020-12-27 Base Set (Series 2),12000
+7ed01d5c-ed27-4b1c-a55b-706c5a07a6df,Nikola Jokić,203999,15,Dunk,2020-12-26T03:30:00Z,2020-12-25,Base Set,Nikola Jokić Dunk 2020-12-25 Base Set (Series 2),15000
+665f3606-df2d-4a6e-85c1-17b74f02228e,Christian Wood,1626174,35,Dunk,2020-12-29T02:00:00Z,2020-12-28,Base Set,Christian Wood Dunk 2020-12-28 Base Set (Series 2),15000
+3901759c-aec2-43af-8378-6f51dbb1b719,Giannis Antetokounmpo,203507,34,Assist,2020-12-24T00:30:00Z,2020-12-23,Base Set,Giannis Antetokounmpo Assist 2020-12-23 Base Set (Series 2),7500
+7c754c43-7982-4e0c-b105-6dbb358d0a2b,Sam Merrill,1630241,15,3 Pointer,2020-12-30T00:30:00Z,2020-12-29,Base Set,Sam Merrill 3 Pointer 2020-12-29 Base Set (Series 2),12000
+4f458aad-8364-42a7-a27f-1b72190407b0,Kira Lewis Jr.,1630184,13,Layup,2020-12-30T03:00:00Z,2020-12-29,Base Set,Kira Lewis Jr. Layup 2020-12-29 Base Set (Series 2),4000
+d72c457c-0b5b-496c-b0b8-2fdcb12f4251,Zion Williamson,1629627,1,Layup,2020-12-28T00:00:00Z,2020-12-27,Base Set,Zion Williamson Layup 2020-12-27 Base Set (Series 2),7500
+42cd9426-1f34-4d3f-a393-c70ba09a74eb,Alec Burks,202692,18,Assist,2020-12-28T00:30:00Z,2020-12-27,Base Set,Alec Burks Assist 2020-12-27 Base Set (Series 2),12000
+f62e1d1b-7d1f-4061-ba62-df8db17ef2e6,Mitchell Robinson,1629011,23,Dunk,2020-12-28T00:30:00Z,2020-12-27,Base Set,Mitchell Robinson Dunk 2020-12-27 Base Set (Series 2),15000
+d68ee91c-9670-4a57-bb46-3bb4cd760a17,Isaiah Roby,1629676,22,Dunk,2020-12-30T01:00:00Z,2020-12-29,Base Set,Isaiah Roby Dunk 2020-12-29 Base Set (Series 2),12000
+42415f4a-ab59-4f4a-81f6-82ffbfb1d622,Joel Embiid,203954,21,Jump Shot,2020-12-27T00:30:00Z,2020-12-26,Base Set,Joel Embiid Jump Shot 2020-12-26 Base Set (Series 2),15000
+58b60d70-7a4f-4766-ae6d-6c573c816b92,Deandre Ayton,1629028,22,Dunk,2020-12-30T03:00:00Z,2020-12-29,Base Set,Deandre Ayton Dunk 2020-12-29 Base Set (Series 2),15000
+f04f886b-d548-4c96-b561-4ceda0357e46,Damian Lillard,203081,0,3 Pointer,2020-12-29T03:00:00Z,2020-12-28,Base Set,Damian Lillard 3 Pointer 2020-12-28 Base Set (Series 2),7500
+459a666a-84a8-459c-b9e7-30772aae4b66,Derrick Jones Jr.,1627884,55,Dunk,2020-12-27T03:00:00Z,2020-12-26,Base Set,Derrick Jones Jr. Dunk 2020-12-26 Base Set (Series 2),12000
+5bedd7de-7b8f-4513-84b0-d3f1c4360064,Tyrese Haliburton,1630169,0,Jump Shot,2020-12-24T02:00:00Z,2020-12-23,Base Set,Tyrese Haliburton Jump Shot 2020-12-23 Base Set (Series 2),4000
+58eed0b8-37db-45a0-abf8-0c5d2c2fb6a8,Donovan Mitchell,1628378,45,Jump Shot,2020-12-29T01:00:00Z,2020-12-28,Base Set,Donovan Mitchell Jump Shot 2020-12-28 Base Set (Series 2),15000
+1a8f67f0-f393-4215-954e-c2224608b9df,Caris LeVert,1627747,22,Layup,2021-01-02T00:30:00Z,2021-01-01,Base Set,Caris LeVert Layup 2021-01-01 Base Set (Series 2),5000
+6da6df23-b191-4422-b1b7-6f4bb92b2443,Jarrett Allen,1628386,31,Dunk,2020-12-31T00:30:00Z,2020-12-30,Base Set,Jarrett Allen Dunk 2020-12-30 Base Set (Series 2),5000
+abbbeeae-8600-4304-a4f2-f506b78fa68a,Daniel Theis,1628464,27,Dunk,2020-12-31T00:30:00Z,2020-12-30,Base Set,Daniel Theis Dunk 2020-12-30 Base Set (Series 2),15000
+211f28c0-c27c-4157-a76b-575105470abb,Jaylen Brown,1627759,7,Jump Shot,2020-12-31T00:30:00Z,2020-12-30,Base Set,Jaylen Brown Jump Shot 2020-12-30 Base Set (Series 2),15000
+770334d2-0397-43d0-8ca8-3fee16822821,Jayson Tatum,1628369,0,Jump Shot,2021-01-03T20:00:00Z,2021-01-03,Base Set,Jayson Tatum Jump Shot 2021-01-03 Base Set (Series 2),15000
+cdd09064-a2d1-4b44-b0d0-6827e5b061ae,Coby White,1629632,0,3 Pointer,2021-01-02T01:00:00Z,2021-01-01,Base Set,Coby White 3 Pointer 2021-01-01 Base Set (Series 2),15000
+1d75a267-3da9-4165-b3d5-42f2bd9631fb,Otto Porter Jr.,203490,22,Jump Shot,2020-12-31T22:00:00Z,2020-12-31,Base Set,Otto Porter Jr. Jump Shot 2020-12-31 Base Set (Series 2),15000
+3f2d8410-bfe9-4fed-81c7-68c46ff19757,JaMychal Green,203210,0,Dunk,2021-01-04T00:00:00Z,2021-01-03,Base Set,JaMychal Green Dunk 2021-01-03 Base Set (Series 2),15000
+da9f4a26-9bf0-4ea4-9a3e-7d3de2659ee8,Andrew Wiggins,203952,22,Layup,2021-01-02T03:30:00Z,2021-01-01,Base Set,Andrew Wiggins Layup 2021-01-01 Base Set (Series 2),15000
+38c54fd5-594c-4435-ae9d-80f03aefbe8f,DeMarcus Cousins,202326,15,3 Pointer,2021-01-01T00:00:00Z,2020-12-31,Base Set,DeMarcus Cousins 3 Pointer 2020-12-31 Base Set (Series 2),15000
+d6bb1e5f-201e-4cbb-94dd-2f5fe9f1726c,John Wall,202322,1,Dunk,2021-01-01T00:00:00Z,2020-12-31,Base Set,John Wall Dunk 2020-12-31 Base Set (Series 2),12000
+d07c7e9a-8b73-42d6-ba69-1f128b1641eb,Brandon Clarke,1629634,15,Layup,2020-12-29T00:30:00Z,2020-12-28,Base Set,Brandon Clarke Layup 2020-12-28 Base Set (Series 2),12000
+9864dcdd-3756-4f4c-a893-a08c4011aa47,Dillon Brooks,1628415,24,Layup,2021-01-03T23:00:00Z,2021-01-03,Base Set,Dillon Brooks Layup 2021-01-03 Base Set (Series 2),15000
+f0985744-aab1-46fd-a470-5f3a116313fc,Jonas Valančiūnas,202685,17,Dunk,2021-01-02T00:00:00Z,2021-01-01,Base Set,Jonas Valančiūnas Dunk 2021-01-01 Base Set (Series 2),15000
+5d438eb8-0386-43f1-be4c-ec89d9cea8d8,Kendrick Nunn,1629134,25,Dunk,2020-12-31T00:30:00Z,2020-12-30,Base Set,Kendrick Nunn Dunk 2020-12-30 Base Set (Series 2),15000
+cf62640d-3137-4c53-9149-8e7dc9ccdcc4,Tyler Herro,1629639,14,3 Pointer,2020-12-30T00:30:00Z,2020-12-29,Base Set,Tyler Herro 3 Pointer 2020-12-29 Base Set (Series 2),7500
+f2053825-71cf-43f6-9002-14288bd90d29,Khris Middleton,203114,22,Jump Shot,2021-01-02T01:00:00Z,2021-01-01,Base Set,Khris Middleton Jump Shot 2021-01-01 Base Set (Series 2),15000
+a714fc5c-a410-4a01-a6ea-676f4ff9d774,Malik Beasley,1627736,5,Dunk,2021-01-02T01:00:00Z,2021-01-01,Base Set,Malik Beasley Dunk 2021-01-01 Base Set (Series 2),12000
+dfe7eb65-dd07-4037-9468-4172e288c76b,Nerlens Noel,203457,3,Block,2021-01-01T00:30:00Z,2020-12-31,Base Set,Nerlens Noel Block 2020-12-31 Base Set (Series 2),15000
+242b7935-2f5a-4876-8a59-7a78dc01f3f0,Obi Toppin,1630167,1,3 Pointer,2020-12-24T00:00:00Z,2020-12-23,Base Set,Obi Toppin 3 Pointer 2020-12-23 Base Set (Series 2),4000
+88284d35-333f-4c6e-9687-2e5f605542c9,Darius Bazley,1629647,7,Dunk,2021-01-05T00:30:00Z,2021-01-04,Base Set,Darius Bazley Dunk 2021-01-04 Base Set (Series 2),15000
+561d167f-3e1f-4405-b676-a5001d5eebb2,Carmelo Anthony,2546,00,Jump Shot,2020-12-31T03:00:00Z,2020-12-30,Base Set,Carmelo Anthony Jump Shot 2020-12-30 Base Set (Series 2),15000
+37b86600-1d25-48ba-822f-d48c075b7449,Demar DeRozan,201942,10,Dunk,2020-12-31T01:30:00Z,2020-12-30,Base Set,Demar DeRozan Dunk 2020-12-30 Base Set (Series 2),15000
+814e2402-11a1-4f59-9332-556dd4e23313,Keldon Johnson,1629640,3,Dunk,2021-01-06T03:00:00Z,2021-01-05,Base Set,Keldon Johnson Dunk 2021-01-05 Base Set (Series 2),12000
+d0a816fe-2e72-4134-ad40-494293408a8b,Fred VanVleet,1627832,23,3 Pointer,2021-01-01T00:30:00Z,2020-12-31,Base Set,Fred VanVleet 3 Pointer 2020-12-31 Base Set (Series 2),15000
+c2390863-e39f-472a-8330-94e5e95791b3,Pascal Siakam,1627783,43,Layup,2021-01-03T00:30:00Z,2021-01-02,Base Set,Pascal Siakam Layup 2021-01-02 Base Set (Series 2),15000
+3e5a1af2-8fee-48ee-8aac-69eb2ba916cc,Bojan Bogdanović,202711,44,Layup,2021-01-04T00:00:00Z,2021-01-03,Base Set,Bojan Bogdanović Layup 2021-01-03 Base Set (Series 2),15000
+6e872135-bc1d-4e55-85c0-886b3cd2533c,Mike Conley,201144,10,Layup,2021-01-02T02:00:00Z,2021-01-01,Base Set,Mike Conley Layup 2021-01-01 Base Set (Series 2),15000
+00858d16-1bd4-4ea0-b33b-a400830cfbac,Bradley Beal,203078,3,Handles,2020-12-31T22:00:00Z,2020-12-31,Base Set,Bradley Beal Handles 2020-12-31 Base Set (Series 2),15000
+60ff0362-fe78-44d4-890b-93f90124a6ce,Ish Smith,202397,14,Assist,2021-01-02T01:00:00Z,2021-01-01,Base Set,Ish Smith Assist 2021-01-01 Base Set (Series 2),15000
+bb9330dd-11b8-43a2-9291-7d49b6b33fbd,Cam Reddish,1629629,22,Assist,2021-01-07T00:30:00Z,2021-01-06,Base Set,Cam Reddish Assist 2021-01-06 Base Set (Series 2),15000
+207eaec1-a117-4efa-b981-32e536eb4713,Clint Capela,203991,15,Dunk,2020-12-29T00:30:00Z,2020-12-28,Base Set,Clint Capela Dunk 2020-12-28 Base Set (Series 2),12000
+543a9cf6-4881-4e77-8a7e-ffcb740691db,Trae Young,1629027,11,Layup,2021-01-17T03:00:00Z,2021-01-16,Base Set,Trae Young Layup 2021-01-16 Base Set (Series 2),15000
+4fda46f0-12bc-491b-b934-f70c9f0eb386,Kevin Durant,201142,7,3 Pointer,2021-01-13T00:30:00Z,2021-01-12,Base Set,Kevin Durant 3 Pointer 2021-01-12 Base Set (Series 2),15000
+d710b078-7954-4a7d-b50f-383744f66a06,Tacko Fall,1629605,99,Block,2021-01-09T00:30:00Z,2021-01-08,Base Set,Tacko Fall Block 2021-01-08 Base Set (Series 2),12000
+71333432-6d85-405c-b53e-5b0e77be88c7,Bismack Biyombo,202687,8,Layup,2021-01-02T00:00:00Z,2021-01-01,Base Set,Bismack Biyombo Layup 2021-01-01 Base Set (Series 2),15000
+6ecd57ac-6e4e-440b-a347-39d55b9435c5,Zach LaVine,203897,8,3 Pointer,2021-01-06T03:30:00Z,2021-01-05,Base Set,Zach LaVine 3 Pointer 2021-01-05 Base Set (Series 2),15000
+bc772147-c443-44dd-997f-cf0714219cf8,Darius Garland,1629636,10,Layup,2020-12-31T20:00:00Z,2020-12-31,Base Set,Darius Garland Layup 2020-12-31 Base Set (Series 2),15000
+2134cae8-0ee2-4dcd-8037-b228463f84ff,Luka Dončić,1629029,77,Assist,2020-12-24T03:30:00Z,2020-12-23,Base Set,Luka Dončić Assist 2020-12-23 Base Set (Series 2),15000
+72202871-60ae-43a1-8f06-577cea587c55,Maxi Kleber,1628467,42,3 Pointer,2021-01-08T03:00:00Z,2021-01-07,Base Set,Maxi Kleber 3 Pointer 2021-01-07 Base Set (Series 2),15000
+4c80600a-cf34-4764-b137-241aceb1cc5c,Jamal Murray,1627750,27,3 Pointer,2021-01-08T03:00:00Z,2021-01-07,Base Set,Jamal Murray 3 Pointer 2021-01-07 Base Set (Series 2),15000
+d2337a51-ea30-4054-a6f9-90f4674acd98,Will Barton,203115,5,Dunk,2021-01-06T02:00:00Z,2021-01-05,Base Set,Will Barton Dunk 2021-01-05 Base Set (Series 2),12000
+421dc36f-c452-4893-b2a2-92582c06041d,Mason Plumlee,203486,24,Dunk,2021-01-09T00:00:00Z,2021-01-08,Base Set,Mason Plumlee Dunk 2021-01-08 Base Set (Series 2),12000
+62d7209a-4402-4345-a6b6-67e391920488,Draymond Green,203110,23,Assist,2021-01-05T03:00:00Z,2021-01-04,Base Set,Draymond Green Assist 2021-01-04 Base Set (Series 2),15000
+6cb406b3-d3db-4bc4-9e53-f0871288d456,Steph Curry,201939,30,Assist,2021-01-05T03:00:00Z,2021-01-04,Base Set,Steph Curry Assist 2021-01-04 Base Set (Series 2),15000
+612d7ca5-8b3c-4e49-a555-89658b53d8c2,David Nwaba,1628021,2,Dunk,2021-01-07T00:00:00Z,2021-01-06,Base Set,David Nwaba Dunk 2021-01-06 Base Set (Series 2),12000
+99b9e3af-de96-499d-aa05-57dc7216dfe7,Kawhi Leonard,202695,2,3 Pointer,2021-01-10T21:00:00Z,2021-01-10,Base Set,Kawhi Leonard 3 Pointer 2021-01-10 Base Set (Series 2),15000
+94c9f75e-4a9e-479d-b383-b7f9f94ed1dc,Serge Ibaka,201586,9,Dunk,2021-01-09T03:00:00Z,2021-01-08,Base Set,Serge Ibaka Dunk 2021-01-08 Base Set (Series 2),15000
+7f2e14f9-bedc-4b47-be7d-c85af8f48ab7,Anthony Davis,203076,3,Dunk,2021-01-06T01:00:00Z,2021-01-05,Base Set,Anthony Davis Dunk 2021-01-05 Base Set (Series 2),15000
+8d5f8379-aa09-4bd1-9a71-80e5a606cb63,LeBron James,2544,23,3 Pointer,2021-01-13T01:00:00Z,2021-01-12,Base Set,LeBron James 3 Pointer 2021-01-12 Base Set (Series 2),15000
+b631902c-02f3-4603-bb11-2cc56dfffbb4,De'Anthony Melton,1629001,0,Dunk,2021-01-06T01:00:00Z,2021-01-05,Base Set,De'Anthony Melton Dunk 2021-01-05 Base Set (Series 2),12000
+dc419008-bb89-4522-94a0-fe0f816ef701,Ja Morant,1629630,12,Dunk,2021-01-17T01:00:00Z,2021-01-16,Base Set,Ja Morant Dunk 2021-01-16 Base Set (Series 2),15000
+c330b5bb-b6ab-4446-a1d3-8893163c8b3c,Bam Adebayo,1628389,13,Dunk,2021-01-05T00:30:00Z,2021-01-04,Base Set,Bam Adebayo Dunk 2021-01-04 Base Set (Series 2),15000
+9e4bcaab-0492-4004-a599-4d4b508db2dc,Tyler Herro,1629639,14,3 Pointer,2021-01-15T00:00:00Z,2021-01-14,Base Set,Tyler Herro 3 Pointer 2021-01-14 Base Set (Series 2),15000
+8a78c30a-b580-4b84-b53c-3a7ed0d1c28b,Giannis Antetokounmpo,203507,34,Dunk,2021-01-14T00:00:00Z,2021-01-13,Base Set,Giannis Antetokounmpo Dunk 2021-01-13 Base Set (Series 2),15000
+adc50a13-15d7-4d18-9094-a3f3d3f40ff0,Thanasis Antetokounmpo,203648,43,Dunk,2021-01-07T01:00:00Z,2021-01-06,Base Set,Thanasis Antetokounmpo Dunk 2021-01-06 Base Set (Series 2),12000
+e4b9f242-5b89-4178-8503-932a54901ec3,D'Angelo Russell,1626156,0,Jump Shot,2020-12-30T03:00:00Z,2020-12-29,Base Set,D'Angelo Russell Jump Shot 2020-12-29 Base Set (Series 2),15000
+75df1b34-1c9f-4568-83c0-d2567c8e424f,Jaxson Hayes,1629637,10,Dunk,2021-01-07T01:00:00Z,2021-01-06,Base Set,Jaxson Hayes Dunk 2021-01-06 Base Set (Series 2),12000
+3f9adfce-6640-4394-9df6-b054143f332e,Lonzo Ball,1628366,2,3 Pointer,2021-01-09T00:30:00Z,2021-01-08,Base Set,Lonzo Ball 3 Pointer 2021-01-08 Base Set (Series 2),15000
+9dd01f37-d2b0-4c88-a2d0-24029ac327fb,Zion Williamson,1629627,1,Dunk,2021-01-18T02:00:00Z,2021-01-17,Base Set,Zion Williamson Dunk 2021-01-17 Base Set (Series 2),15000
+d9fd7ded-6b53-4433-b7b3-059fd56ab6ed,RJ Barrett,1629628,9,Dunk,2020-12-30T00:00:00Z,2020-12-29,Base Set,RJ Barrett Dunk 2020-12-29 Base Set (Series 2),15000
+d099cb9b-2834-4751-80f0-3c5c27e8fb91,Al Horford,201143,42,Dunk,2021-01-01T01:00:00Z,2020-12-31,Base Set,Al Horford Dunk 2020-12-31 Base Set (Series 2),15000
+cf165d1e-b4f1-4a45-992e-2289b4a98931,Hamidou Diallo,1628977,6,Dunk,2021-01-09T00:30:00Z,2021-01-08,Base Set,Hamidou Diallo Dunk 2021-01-08 Base Set (Series 2),12000
+73a9def7-2c9d-457f-8ce4-215b0dba6cd6,Dwayne Bacon,1628407,8,Layup,2021-01-07T00:00:00Z,2021-01-06,Base Set,Dwayne Bacon Layup 2021-01-06 Base Set (Series 2),12000
+699ff583-8bd9-4266-97bb-5b307fd1d82a,Khem Birch,203920,24,Dunk,2021-01-07T00:00:00Z,2021-01-06,Base Set,Khem Birch Dunk 2021-01-06 Base Set (Series 2),12000
+48dc126e-e8f9-47a1-978e-5e5a67fc9801,Dwight Howard,2730,39,Dunk,2021-01-08T00:30:00Z,2021-01-07,Base Set,Dwight Howard Dunk 2021-01-07 Base Set (Series 2),15000
+05f1fa47-644b-4e30-93e5-8d7542026b45,Chris Paul,101108,3,Assist,2021-01-07T02:00:00Z,2021-01-06,Base Set,Chris Paul Assist 2021-01-06 Base Set (Series 2),15000
+efbd7c35-b124-4561-bd9f-6c33457fac19,Devin Booker,1626164,1,Dunk,2021-01-10T00:00:00Z,2021-01-09,Base Set,Devin Booker Dunk 2021-01-09 Base Set (Series 2),15000
+e97d8f79-a17a-4cef-858f-f481ace3830d,Damian Lillard,203081,0,Handles,2021-01-12T03:00:00Z,2021-01-11,Base Set,Damian Lillard Handles 2021-01-11 Base Set (Series 2),15000
+517a5539-57d9-4cbd-829d-716521ebbe12,LaMarcus Aldridge,200746,12,3 Pointer,2021-01-08T03:00:00Z,2021-01-07,Base Set,LaMarcus Aldridge 3 Pointer 2021-01-07 Base Set (Series 2),15000
+a3f850fe-e3ae-4926-be7f-13ea8600b25b,Chris Boucher,1628449,25,Block,2021-01-09T03:00:00Z,2021-01-08,Base Set,Chris Boucher Block 2021-01-08 Base Set (Series 2),12000
+ae749ada-b616-44a0-8c76-84c4d8fe6fc9,OG Anunoby,1628384,3,Handles,2021-01-07T02:00:00Z,2021-01-06,Base Set,OG Anunoby Handles 2021-01-06 Base Set (Series 2),15000
+cf1de8f9-ceb8-40c3-82ee-422dc890d3ae,Jordan Clarkson,203903,00,Dunk,2020-12-29T01:00:00Z,2020-12-28,Base Set,Jordan Clarkson Dunk 2020-12-28 Base Set (Series 2),15000
+6224cb96-be2d-461d-8912-00ec69eca4e5,Robin Lopez,201577,15,Jump Shot,2020-12-28T00:00:00Z,2020-12-27,Base Set,Robin Lopez Jump Shot 2020-12-27 Base Set (Series 2),12000
+664c3a1c-13f2-4921-af13-b6b8400a3cae,Troy Brown Jr.,1628972,6,Block,2021-01-10T00:00:00Z,2021-01-09,Base Set,Troy Brown Jr. Block 2021-01-09 Base Set (Series 2),15000
+b7e5e7b3-2b97-4c52-883b-5aeb589c595d,Bogdan Bogdanović,203992,13,Layup,2021-01-03T00:30:00Z,2021-01-02,Base Set,Bogdan Bogdanović Layup 2021-01-02 Base Set (Series 2),25000
+e5643680-9741-45db-8fbd-fc00dc107022,John Collins,1628381,20,Dunk,2021-01-18T19:30:00Z,2021-01-18,Base Set,John Collins Dunk 2021-01-18 Base Set (Series 2),25000
+51a0bcdc-23e8-4229-9158-774733a2e922,Onyeka Okongwu,1630168,17,Dunk,2021-01-16T02:00:00Z,2021-01-15,Base Set,Onyeka Okongwu Dunk 2021-01-15 Base Set (Series 2),4000
+4b5d448f-0562-4ed9-9911-54e073e6bdbb,Kevin Durant,201142,7,Dunk,2021-02-01T00:00:00Z,2021-01-31,Base Set,Kevin Durant Dunk 2021-01-31 Base Set (Series 2),25000
+abf3f4b2-6c5b-4baa-9723-b9d23d6d6327,Payton Pritchard,1630202,11,3 Pointer,2020-12-24T00:30:00Z,2020-12-23,Base Set,Payton Pritchard 3 Pointer 2020-12-23 Base Set (Series 2),4000
+8d4782e6-a99c-4957-89f3-c8a8d53ea631,Cody Zeller,203469,40,Dunk,2021-01-31T01:00:00Z,2021-01-30,Base Set,Cody Zeller Dunk 2021-01-30 Base Set (Series 2),25000
+161557b1-d8a1-424c-a7c1-5862463ff41f,Devonte' Graham,1628984,4,Jump Shot,2021-01-23T00:00:00Z,2021-01-22,Base Set,Devonte' Graham Jump Shot 2021-01-22 Base Set (Series 2),25000
+b974df71-cdd5-45ff-a7f3-a6fc5d7e5f66,Jarrett Allen,1628386,31,Block,2021-01-21T00:00:00Z,2021-01-20,Base Set,Jarrett Allen Block 2021-01-20 Base Set (Series 2),25000
+3e20a725-57e1-4389-ae1a-4590a260e55e,JaVale McGee,201580,6,Dunk,2021-01-25T00:00:00Z,2021-01-24,Base Set,JaVale McGee Dunk 2021-01-24 Base Set (Series 2),25000
+f5507996-6c2b-4630-b217-fcb79f54b302,Willie Cauley-Stein,1626161,33,Block,2021-01-14T00:00:00Z,2021-01-13,Base Set,Willie Cauley-Stein Block 2021-01-13 Base Set (Series 2),12000
+8aa48bd0-d9de-4aa0-9600-d05fd9dd74dd,Nikola Jokić,203999,15,Assist,2021-01-06T02:00:00Z,2021-01-05,Base Set,Nikola Jokić Assist 2021-01-05 Base Set (Series 2),25000
+814bb4c8-4b32-4f0d-b9cb-fb75476167db,Delon Wright,1626153,55,Assist,2021-01-10T20:00:00Z,2021-01-10,Base Set,Delon Wright Assist 2021-01-10 Base Set (Series 2),25000
+8ab05d7c-e911-428d-8320-868e472a681e,Isaiah Stewart,1630191,28,Layup,2020-12-29T00:30:00Z,2020-12-28,Base Set,Isaiah Stewart Layup 2020-12-28 Base Set (Series 2),4000
+0153c84a-2eee-48a2-9795-de1eb307ccb3,Draymond Green,203110,23,Assist,2021-02-05T00:30:00Z,2021-02-04,Base Set,Draymond Green Assist 2021-02-04 Base Set (Series 2),25000
+997c9484-8b1e-49bc-8378-a2a981d8bf65,Eric Paschall,1629672,7,Layup,2021-01-29T03:00:00Z,2021-01-28,Base Set,Eric Paschall Layup 2021-01-28 Base Set (Series 2),25000
+f7ff5b5c-494f-4240-a74f-bea14db4e175,Eric Gordon,201569,10,Layup,2021-01-11T00:00:00Z,2021-01-10,Base Set,Eric Gordon Layup 2021-01-10 Base Set (Series 2),25000
+6a37ac54-7e87-4000-bda7-67a507181122,Victor Oladipo,203506,7,Layup,2021-01-27T01:00:00Z,2021-01-26,Base Set,Victor Oladipo Layup 2021-01-26 Base Set (Series 2),25000
+f22a5586-2e3d-449a-931b-186a98546706,Xavier Tillman,1630214,2,Dunk,2021-01-03T23:00:00Z,2021-01-03,Base Set,Xavier Tillman Dunk 2021-01-03 Base Set (Series 2),4000
+2281ca46-db52-4929-85a4-fe2d1608191b,Patrick Beverley,201976,21,Layup,2020-12-31T03:00:00Z,2020-12-30,Base Set,Patrick Beverley Layup 2020-12-30 Base Set (Series 2),25000
+23d37299-e149-4ab5-8f3f-c8686c711675,LeBron James,2544,23,Assist,2021-01-11T00:00:00Z,2021-01-10,Base Set,LeBron James Assist 2021-01-10 Base Set (Series 2),25000
+3a1c50fb-8f5c-416d-aa82-544158252b35,Montrezl Harrell,1626149,15,Dunk,2021-01-26T01:00:00Z,2021-01-25,Base Set,Montrezl Harrell Dunk 2021-01-25 Base Set (Series 2),25000
+a9efcc11-df82-437d-90e2-cb9bf1310c7d,Steven Adams,203500,12,Dunk,2021-01-18T02:00:00Z,2021-01-17,Base Set,Steven Adams Dunk 2021-01-17 Base Set (Series 2),25000
+2deb04a3-0f57-4a37-a810-92959b76ce4a,Aaron Gordon,203932,00,Dunk,2021-01-12T00:00:00Z,2021-01-11,Base Set,Aaron Gordon Dunk 2021-01-11 Base Set (Series 2),25000
+6630310e-76d0-4b01-8184-c131e939c712,Sean McDermott,1630253,30,Dunk,2020-12-31T00:30:00Z,2020-12-30,Base Set,Sean McDermott Dunk 2020-12-30 Base Set (Series 2),4000
+b99a74cb-e7eb-4025-afbf-b448d4ce64c1,Talen Horton-Tucker,1629659,5,Steal,2021-01-11T00:00:00Z,2021-01-10,Base Set,Talen Horton-Tucker Steal 2021-01-10 Base Set (Series 2),12000
+5cd75a86-c7dc-45da-b1b4-475297f5781c,Malik Beasley,1627736,5,Handles,2021-01-11T01:00:00Z,2021-01-10,Base Set,Malik Beasley Handles 2021-01-10 Base Set (Series 2),25000
+d7e50e02-88dd-474d-9512-d6586a0cdc46,Avery Bradley,202340,11,Layup,2020-12-31T00:30:00Z,2020-12-30,Base Set,Avery Bradley Layup 2020-12-30 Base Set (Series 2),12000
+e01fe269-5939-452e-9630-83ffaf88ea2e,Bam Adebayo,1628389,13,Dunk,2021-01-02T00:00:00Z,2021-01-01,Base Set,Bam Adebayo Dunk 2021-01-01 Base Set (Series 2),25000
+3a89de62-baf1-41a2-aa76-d060de478f2b,Duncan Robinson,1629130,55,3 Pointer,2021-01-19T01:00:00Z,2021-01-18,Base Set,Duncan Robinson 3 Pointer 2021-01-18 Base Set (Series 2),25000
+03e7b2dd-b544-48c2-9ee3-38c76d5a23e3,Tyler Herro,1629639,14,Layup,2021-02-04T01:00:00Z,2021-02-03,Base Set,Tyler Herro Layup 2021-02-03 Base Set (Series 2),25000
+9c87a11b-0e0c-4277-94aa-bc587ea3f66d,Donte DiVincenzo,1628978,0,Layup,2021-01-25T01:00:00Z,2021-01-24,Base Set,Donte DiVincenzo Layup 2021-01-24 Base Set (Series 2),25000
+46a32a1e-fe16-4f15-bc0c-78703384873d,Giannis Antetokounmpo,203507,34,Block,2021-01-25T01:00:00Z,2021-01-24,Base Set,Giannis Antetokounmpo Block 2021-01-24 Base Set (Series 2),25000
+d5321f63-952c-42d5-bf43-9ea99e4e37ce,Anthony Edwards,1630162,1,Dunk,2021-01-26T03:00:00Z,2021-01-25,Base Set,Anthony Edwards Dunk 2021-01-25 Base Set (Series 2),25000
+4d3e4e63-8849-478e-952d-5849472bd808,Jaden McDaniels,1630183,3,3 Pointer,2020-12-28T03:00:00Z,2020-12-27,Base Set,Jaden McDaniels 3 Pointer 2020-12-27 Base Set (Series 2),4000
+e51ae854-54e7-4111-86d1-1c8f50355491,Karl-Anthony Towns,1626157,32,Dunk,2021-01-10T01:00:00Z,2021-01-09,Base Set,Karl-Anthony Towns Dunk 2021-01-09 Base Set (Series 2),25000
+3cd32a2f-8590-4c1d-bdfe-dc00f117b1c4,Evan Fournier,203095,10,Layup,2021-02-06T00:00:00Z,2021-02-05,Base Set,Evan Fournier Layup 2021-02-05 Base Set (Series 2),25000
+1098394e-13ef-4a89-8440-e60d6ba43508,Matisse Thybulle,1629680,22,Steal,2021-01-26T00:00:00Z,2021-01-25,Base Set,Matisse Thybulle Steal 2021-01-25 Base Set (Series 2),25000
+eb8ef488-f9d7-42ec-8c17-147c79580140,Cameron Johnson,1629661,23,Dunk,2021-01-28T02:00:00Z,2021-01-27,Base Set,Cameron Johnson Dunk 2021-01-27 Base Set (Series 2),12000
+b3e0e414-3461-4e22-a2cd-fae4fcdd4527,Devin Booker,1626164,1,3 Pointer,2021-02-02T01:30:00Z,2021-02-01,Base Set,Devin Booker 3 Pointer 2021-02-01 Base Set (Series 2),25000
+b2cf1101-71d8-4870-992f-1b5e2cd937e7,CJ McCollum,203468,3,Handles,2021-01-12T03:00:00Z,2021-01-11,Base Set,CJ McCollum Handles 2021-01-11 Base Set (Series 2),25000
+d11030a2-836a-4f4c-8a54-467e03127784,Damian Lillard,203081,0,3 Pointer,2021-01-31T01:00:00Z,2021-01-30,Base Set,Damian Lillard 3 Pointer 2021-01-30 Base Set (Series 2),25000
+1be41891-a4f3-4ffc-a079-b9f4b60d2eca,Robert Covington,203496,23,Assist,2021-01-25T03:00:00Z,2021-01-24,Base Set,Robert Covington Assist 2021-01-24 Base Set (Series 2),12000
+9c93665e-b213-4131-9cde-b19442a39fcb,Glenn Robinson III,203922,30,Layup,2021-01-21T03:00:00Z,2021-01-20,Base Set,Glenn Robinson III Layup 2021-01-20 Base Set (Series 2),12000
+83f873be-7169-44ff-8e15-cdc92f5edfc9,Hassan Whiteside,202355,20,Block,2021-01-05T03:00:00Z,2021-01-04,Base Set,Hassan Whiteside Block 2021-01-04 Base Set (Series 2),25000
+e65450c1-c4fa-452c-9108-79e3c3f78699,DeMar DeRozan,201942,10,Jump Shot,2021-01-30T01:30:00Z,2021-01-29,Base Set,DeMar DeRozan Jump Shot 2021-01-29 Base Set (Series 2),25000
+7f46e797-e9d3-4db0-81f2-bfb0e7a92973,Rudy Gay,200752,22,Dunk,2021-01-23T01:30:00Z,2021-01-22,Base Set,Rudy Gay Dunk 2021-01-22 Base Set (Series 2),25000
+6f4a19dd-129f-4dc7-bb79-20bb29237356,Pascal Siakam,1627783,43,Layup,2021-01-19T00:30:00Z,2021-01-18,Base Set,Pascal Siakam Layup 2021-01-18 Base Set (Series 2),25000
+2c9b9017-a5ef-4b95-9467-b58fd089ee81,Joe Ingles,204060,2,3 Pointer,2021-01-24T02:00:00Z,2021-01-23,Base Set,Joe Ingles 3 Pointer 2021-01-23 Base Set (Series 2),25000
+73015da9-837e-44e6-852b-fbaf95fc35a4,Royce O'Neale,1626220,23,Dunk,2021-01-13T00:30:00Z,2021-01-12,Base Set,Royce O'Neale Dunk 2021-01-12 Base Set (Series 2),12000
+923f22d2-a9e9-4504-9bf6-28e8fa129322,Bradley Beal,203078,3,Handles,2021-02-04T01:00:00Z,2021-02-03,Base Set,Bradley Beal Handles 2021-02-03 Base Set (Series 2),25000
+0c23b07f-ac0e-4e70-aa01-fe903eee63fb,Rui Hachimura,1629060,8,Layup,2021-01-12T00:00:00Z,2021-01-11,Base Set,Rui Hachimura Layup 2021-01-11 Base Set (Series 2),25000
+3c3c0f2e-8db8-487b-9c06-862d621d1d18,Trae Young,1629027,11,Jump Shot,2020-12-24T01:00:00Z,2020-12-23,Metallic Gold LE,Trae Young Jump Shot 2020-12-23 Metallic Gold LE (Series 2),499
+cf899c78-7241-49bb-9ba8-b5f52715b9d5,Caris LeVert,1627747,22,3 Pointer,2020-12-29T00:30:00Z,2020-12-28,Metallic Gold LE,Caris LeVert 3 Pointer 2020-12-28 Metallic Gold LE (Series 2),499
+aba29d61-6234-462a-a5c8-36c2a54e36a7,Jayson Tatum,1628369,0,Layup,2020-12-30T00:00:00Z,2020-12-29,Metallic Gold LE,Jayson Tatum Layup 2020-12-29 Metallic Gold LE (Series 2),499
+a8b9bb9c-f374-4113-b5cd-3b8c03dc4708,Terry Rozier,1626179,3,Dunk,2020-12-28T00:00:00Z,2020-12-27,Metallic Gold LE,Terry Rozier Dunk 2020-12-27 Metallic Gold LE (Series 2),3
+cf03d282-a6df-4e10-8b0d-4025be9400bb,Zach LaVine,203897,8,Dunk,2020-12-28T01:00:00Z,2020-12-27,Metallic Gold LE,Zach LaVine Dunk 2020-12-27 Metallic Gold LE (Series 2),499
+524b9ee2-36aa-4955-9c3c-b6343c2744af,Collin Sexton,1629012,2,Assist,2020-12-28T00:30:00Z,2020-12-27,Metallic Gold LE,Collin Sexton Assist 2020-12-27 Metallic Gold LE (Series 2),499
+1bbdeaf1-50af-4178-8fe8-bcbe6f683b40,Tim Hardaway Jr.,203501,11,Dunk,2020-12-27T20:30:00Z,2020-12-27,Metallic Gold LE,Tim Hardaway Jr. Dunk 2020-12-27 Metallic Gold LE (Series 2),499
+63cd0242-28ec-40e6-9ff3-812179b22daf,Derrick Rose,201565,25,Assist,2020-12-27T00:00:00Z,2020-12-26,Metallic Gold LE,Derrick Rose Assist 2020-12-26 Metallic Gold LE (Series 2),499
+013f91cb-e991-4961-bce8-600c4ec19976,Andrew Wiggins,203952,22,Dunk,2020-12-30T00:00:00Z,2020-12-29,Metallic Gold LE,Andrew Wiggins Dunk 2020-12-29 Metallic Gold LE (Series 2),499
+e4f2b183-33d3-489f-b361-aefb0a30be91,James Harden,201935,13,Jump Shot,2020-12-27T03:00:00Z,2020-12-26,Metallic Gold LE,James Harden Jump Shot 2020-12-26 Metallic Gold LE (Series 2),499
+d8524aa9-3011-493e-9ab1-d8c33254c550,Victor Oladipo,203506,4,Layup,2020-12-27T01:00:00Z,2020-12-26,Metallic Gold LE,Victor Oladipo Layup 2020-12-26 Metallic Gold LE (Series 2),499
+96e2e59c-2791-46cc-9fc3-da4fab684fc1,Lou Williams,101150,23,Jump Shot,2020-12-31T03:00:00Z,2020-12-30,Metallic Gold LE,Lou Williams Jump Shot 2020-12-30 Metallic Gold LE (Series 2),499
+0bd93b8f-bfe6-427c-9be3-5179d4892726,Anthony Davis,203076,3,Jump Shot,2020-12-26T01:00:00Z,2020-12-25,Metallic Gold LE,Anthony Davis Jump Shot 2020-12-25 Metallic Gold LE (Series 2),499
+14a39dc5-0d01-4acc-9a09-c12e7a001ed5,Ja Morant,1629630,12,Dunk,2020-12-24T01:00:00Z,2020-12-23,Metallic Gold LE,Ja Morant Dunk 2020-12-23 Metallic Gold LE (Series 2),499
+3dbb56b9-c612-470a-83b1-72f795a56c52,Tyler Herro,1629639,14,Jump Shot,2020-12-30T00:30:00Z,2020-12-29,Metallic Gold LE,Tyler Herro Jump Shot 2020-12-29 Metallic Gold LE (Series 2),499
+4cc18778-4a89-484b-87b7-45f43acd1b58,Jrue Holiday,201950,21,Layup,2020-12-28T00:30:00Z,2020-12-27,Metallic Gold LE,Jrue Holiday Layup 2020-12-27 Metallic Gold LE (Series 2),499
+257f344e-b3a3-4f17-bf2e-b9e4d2f1a028,Karl-Anthony Towns,1626157,32,3 Pointer,2020-12-24T01:00:00Z,2020-12-23,Metallic Gold LE,Karl-Anthony Towns 3 Pointer 2020-12-23 Metallic Gold LE (Series 2),499
+cc4e1069-7eef-4bf4-aad2-1d26997baa20,Brandon Ingram,1627742,14,Jump Shot,2020-12-24T00:30:00Z,2020-12-23,Metallic Gold LE,Brandon Ingram Jump Shot 2020-12-23 Metallic Gold LE (Series 2),499
+8e9fb08d-5b56-4db4-8b84-b5eb78c99c75,Julius Randle,203944,30,Dunk,2020-12-27T00:30:00Z,2020-12-26,Metallic Gold LE,Julius Randle Dunk 2020-12-26 Metallic Gold LE (Series 2),499
+66e8d906-4a94-4d52-b1ef-006014477be0,Luguentz Dort,1629652,5,Dunk,2020-12-29T01:00:00Z,2020-12-28,Metallic Gold LE,Luguentz Dort Dunk 2020-12-28 Metallic Gold LE (Series 2),499
+083c82ae-e0d5-486a-8cb6-0b7f94629f84,Aaron Gordon,203932,00,Dunk,2020-12-27T00:00:00Z,2020-12-26,Metallic Gold LE,Aaron Gordon Dunk 2020-12-26 Metallic Gold LE (Series 2),499
+8dbe4ee9-eb10-48d6-a0c1-3f8ce6b703d5,Harrison Barnes,203084,40,3 Pointer,2020-12-30T03:00:00Z,2020-12-29,Metallic Gold LE,Harrison Barnes 3 Pointer 2020-12-29 Metallic Gold LE (Series 2),499
+43f78b21-1f4a-443c-92cb-81a35b7ca28e,Dejounte Murray,1627749,5,Layup,2020-12-28T00:00:00Z,2020-12-27,Metallic Gold LE,Dejounte Murray Layup 2020-12-27 Metallic Gold LE (Series 2),499
+23e51104-fd2b-4553-a7ad-ae23098f42fe,Tobias Harris,202699,12,Layup,2020-12-30T00:00:00Z,2020-12-29,Metallic Gold LE,Tobias Harris Layup 2020-12-29 Metallic Gold LE (Series 2),499
+6bb14972-9bf9-4058-af0e-c80112df498d,Russell Westbrook,201566,4,Assist,2020-12-27T00:00:00Z,2020-12-26,Metallic Gold LE,Russell Westbrook Assist 2020-12-26 Metallic Gold LE (Series 2),499
+84e9df07-d376-4d81-bf2e-14d168b0b2a8,CJ McCollum,203468,3,3 Pointer,2020-12-27T03:00:00Z,2020-12-26,Metallic Gold LE,CJ McCollum 3 Pointer 2020-12-26 Metallic Gold LE (Series 2),499
+f509dc41-b4f7-434c-9635-bcc42f392a35,Kyle Lowry,200768,7,Assist,2020-12-24T00:30:00Z,2020-12-23,Metallic Gold LE,Kyle Lowry Assist 2020-12-23 Metallic Gold LE (Series 2),499
+8207840b-d01b-42e1-aab8-9a1abc36f8a2,Donovan Mitchell,1628378,45,Layup,2020-12-24T03:00:00Z,2020-12-23,Metallic Gold LE,Donovan Mitchell Layup 2020-12-23 Metallic Gold LE (Series 2),499
+fc4c6e3b-856d-4d21-b06b-4abdd1fb95d2,Bogdan Bogdanović,203992,13,Jump Shot,2021-01-02T00:30:00Z,2021-01-01,Metallic Gold LE,Bogdan Bogdanović Jump Shot 2021-01-01 Metallic Gold LE (Series 2),499
+ec59df0b-3142-4a01-98d8-041e2d1b1f5d,Miles Bridges,1628970,0,Dunk,2021-01-05T00:00:00Z,2021-01-04,Metallic Gold LE,Miles Bridges Dunk 2021-01-04 Metallic Gold LE (Series 2),499
+cb086117-7bd5-4718-97a8-8c204a8c7ffb,Tomáš Satoranský,203107,31,Assist,2020-12-30T00:00:00Z,2020-12-29,Metallic Gold LE,Tomáš Satoranský Assist 2020-12-29 Metallic Gold LE (Series 2),499
+69407d7c-cac9-4f48-bceb-d1103121c899,Andre Drummond,203083,3,Layup,2021-01-05T00:00:00Z,2021-01-04,Metallic Gold LE,Andre Drummond Layup 2021-01-04 Metallic Gold LE (Series 2),499
+87abcd77-d604-4114-a578-14cbdc187978,Bol Bol,1629626,10,3 Pointer,2021-01-10T23:00:00Z,2021-01-10,Metallic Gold LE,Bol Bol 3 Pointer 2021-01-10 Metallic Gold LE (Series 2),499
+4a0f8771-0d08-4cc4-ad30-5f8e0e001e8a,Steph Curry,201939,30,3 Pointer,2021-01-09T03:00:00Z,2021-01-08,Metallic Gold LE,Steph Curry 3 Pointer 2021-01-08 Metallic Gold LE (Series 2),499
+6eaf7732-0ada-463f-b3cd-9a13cc56a0e6,Myles Turner,1626167,33,Handles,2021-01-03T00:00:00Z,2021-01-02,Metallic Gold LE,Myles Turner Handles 2021-01-02 Metallic Gold LE (Series 2),499
+e199f260-8302-4535-8d48-eaddcae8ec61,Dillon Brooks,1628415,24,Layup,2020-12-29T00:30:00Z,2020-12-28,Metallic Gold LE,Dillon Brooks Layup 2020-12-28 Metallic Gold LE (Series 2),499
+48cb4c30-4497-46bc-9afb-f417d26a4493,Jimmy Butler,202710,22,Layup,2021-01-05T00:30:00Z,2021-01-04,Metallic Gold LE,Jimmy Butler Layup 2021-01-04 Metallic Gold LE (Series 2),499
+89feb365-0a5f-4c4d-adc5-ff56590d378d,Darius Bazley,1629647,7,Layup,2020-12-27T00:00:00Z,2020-12-26,Metallic Gold LE,Darius Bazley Layup 2020-12-26 Metallic Gold LE (Series 2),499
+54ea7942-cdf8-4246-99b9-19aecc086311,Giannis Antetokounmpo,203507,34,Dunk,2021-01-09T01:00:00Z,2021-01-08,Metallic Gold LE,Giannis Antetokounmpo Dunk 2021-01-08 Metallic Gold LE (Series 2),499
+d80145c9-ef33-4ce5-9011-5cae6afe32f8,Anthony Edwards,1630162,1,Dunk,2021-01-06T02:00:00Z,2021-01-05,Metallic Gold LE,Anthony Edwards Dunk 2021-01-05 Metallic Gold LE (Series 2),499
+ae09aec4-8b8a-4edf-8c4c-f6f38eb4c973,Zion Williamson,1629627,1,Dunk,2021-01-05T01:00:00Z,2021-01-04,Metallic Gold LE,Zion Williamson Dunk 2021-01-04 Metallic Gold LE (Series 2),499
+15b39f8a-9130-4e08-b3d7-f6e2dda92081,Mitchell Robinson,1629011,23,Dunk,2021-01-07T00:30:00Z,2021-01-06,Metallic Gold LE,Mitchell Robinson Dunk 2021-01-06 Metallic Gold LE (Series 2),499
+f4d7526c-711a-442b-86e6-adcaa0b2ae1b,Markelle Fultz,1628365,20,Dunk,2021-01-05T00:00:00Z,2021-01-04,Metallic Gold LE,Markelle Fultz Dunk 2021-01-04 Metallic Gold LE (Series 2),499
+2e1dd520-1327-4eeb-b889-e572acb695e3,Ben Simmons,1627732,25,Assist,2021-01-05T00:00:00Z,2021-01-04,Metallic Gold LE,Ben Simmons Assist 2021-01-04 Metallic Gold LE (Series 2),499
+5360289f-9f6b-4901-a699-e862395afce0,Carmelo Anthony,2546,00,3 Pointer,2021-01-02T03:30:00Z,2021-01-01,Metallic Gold LE,Carmelo Anthony 3 Pointer 2021-01-01 Metallic Gold LE (Series 2),499
+68f21a26-9504-48f9-a2ca-713567a5c726,Keldon Johnson,1629640,3,Dunk,2021-01-04T00:00:00Z,2021-01-03,Metallic Gold LE,Keldon Johnson Dunk 2021-01-03 Metallic Gold LE (Series 2),499
+70c18ece-26cd-45fd-aaf7-a9d847d2c576,Duncan Robinson,1629130,55,3 Pointer,2020-12-25T17:00:00Z,2020-12-25,Deck the Hoops,Duncan Robinson 3 Pointer 2020-12-25 Deck the Hoops (Series 2),85
+2d0903c9-6a67-4819-a067-9c881de1ef4b,LeBron James,2544,23,3 Pointer,2020-12-26T01:00:00Z,2020-12-25,Deck the Hoops,LeBron James 3 Pointer 2020-12-25 Deck the Hoops (Series 2),85
+e245613f-5a62-4662-9017-19dbdcb1a63e,Luka Dončić,1629029,77,Layup,2020-12-26T01:00:00Z,2020-12-25,Deck the Hoops,Luka Dončić Layup 2020-12-25 Deck the Hoops (Series 2),85
+b9a86a7d-928d-4edd-b64d-36dd2c0808be,Anthony Davis,203076,3,Dunk,2020-12-26T01:00:00Z,2020-12-25,Deck the Hoops,Anthony Davis Dunk 2020-12-25 Deck the Hoops (Series 2),85
+4ee51bb8-e2ca-43c8-ac3a-721109d6e878,DeAndre Jordan,201599,6,Dunk,2020-12-25T22:00:00Z,2020-12-25,Deck the Hoops,DeAndre Jordan Dunk 2020-12-25 Deck the Hoops (Series 2),85
+03d33c67-0bdc-458e-af6a-935b19192cda,Paul George,202331,13,3 Pointer,2020-12-26T03:30:00Z,2020-12-25,Deck the Hoops,Paul George 3 Pointer 2020-12-25 Deck the Hoops (Series 2),85
+ea4e5bf5-1271-4c0b-a75d-87c17dd2cea2,Zion Williamson,1629627,1,Layup,2020-12-25T17:00:00Z,2020-12-25,Deck the Hoops,Zion Williamson Layup 2020-12-25 Deck the Hoops (Series 2),85
+87cb5ff4-f5fb-4689-8c43-ef611b4af9b5,Giannis Antetokounmpo,203507,34,Dunk,2020-12-25T19:30:00Z,2020-12-25,Deck the Hoops,Giannis Antetokounmpo Dunk 2020-12-25 Deck the Hoops (Series 2),85
+c85bd06f-2a50-4eb1-a587-37117c29665f,Steph Curry,201939,30,Handles,2020-12-25T19:30:00Z,2020-12-25,Deck the Hoops,Steph Curry Handles 2020-12-25 Deck the Hoops (Series 2),40
+38df69cf-0a74-4225-98ac-7f080ca6a449,Goran Dragić ,201609,7,Handles,2020-12-25T17:00:00Z,2020-12-25,Deck the Hoops,Goran Dragić  Handles 2020-12-25 Deck the Hoops (Series 2),85
+cfad16be-4f75-4798-9601-fc20c119907b,Kyrie Irving,202681,11,Assist,2020-12-25T22:00:00Z,2020-12-25,Deck the Hoops,Kyrie Irving Assist 2020-12-25 Deck the Hoops (Series 2),85
+70ca89c6-eeb7-4dc7-8abf-059f9cf7839d,Jayson Tatum,1628369,0,3 Pointer,2020-12-25T22:00:00Z,2020-12-25,Deck the Hoops,Jayson Tatum 3 Pointer 2020-12-25 Deck the Hoops (Series 2),85
+68fafbae-8b8c-4ad0-afae-eb8085bed271,Anthony Davis,203076,3,Dunk,2021-01-08T03:00:00Z,2021-01-07,Cool Cats,Anthony Davis Dunk 2021-01-07 Cool Cats (Series 2),7087
+03acc4a7-9301-46a2-8fb9-75affab7ee59,Karl-Anthony Towns,1626157,32,3 Pointer,2021-01-10T01:00:00Z,2021-01-09,Cool Cats,Karl-Anthony Towns 3 Pointer 2021-01-09 Cool Cats (Series 2),14214
+fc3816ee-b3e3-4203-9905-ba98749d7fbd,P.J. Washington,1629023,25,Dunk,2021-01-17T00:30:00Z,2021-01-16,Cool Cats,P.J. Washington Dunk 2021-01-16 Cool Cats (Series 2),10000
+2696dfa0-b0e8-4080-84a5-6ddb837d198b,Julius Randle,203944,30,Dunk,2021-01-23T03:00:00Z,2021-01-22,Cool Cats,Julius Randle Dunk 2021-01-22 Cool Cats (Series 2),10000
+fb990e87-2314-4616-ad16-5ee2a5350fd7,John Wall,202322,1,Layup,2021-01-27T01:00:00Z,2021-01-26,Cool Cats,John Wall Layup 2021-01-26 Cool Cats (Series 2),10000
+2c809890-a5be-418b-a84c-c8f101c4f75b,Tyler Herro,1629639,14,Jump Shot,2020-12-30T00:30:00Z,2020-12-29,Cool Cats,Tyler Herro Jump Shot 2020-12-29 Cool Cats (Series 2),10000
+10fd2df0-907d-49d8-a7fa-bbce063cd80d,DeMarcus Cousins,202326,15,Dunk,2021-01-24T02:00:00Z,2021-01-23,Cool Cats,DeMarcus Cousins Dunk 2021-01-23 Cool Cats (Series 2),10000
+00ce687f-6c1f-4aef-956a-6e9418680b2d,Luka Dončić,1629029,77,Assist,2021-01-05T01:00:00Z,2021-01-04,Cool Cats,Luka Dončić Assist 2021-01-04 Cool Cats (Series 2),3464
+f1fc302c-376b-4206-8d18-b110fa5ed1e9,John Collins,1628381,20,Dunk,2021-01-02T00:30:00Z,2021-01-01,Cool Cats,John Collins Dunk 2021-01-01 Cool Cats (Series 2),5000
+58f19b13-6b92-40e5-90d2-7e0de29be912,Rui Hachimura,1629060,8,Assist,2020-12-31T22:00:00Z,2020-12-31,Cool Cats,Rui Hachimura Assist 2020-12-31 Cool Cats (Series 2),5000
+dc7e06d0-18d5-461d-a67d-127a06d885ca,Derrick Jones Jr.,1627884,55,Block,2020-12-29T03:00:00Z,2020-12-28,Cool Cats,Derrick Jones Jr. Block 2020-12-28 Cool Cats (Series 2),5000
+d690974d-5399-4775-b7ff-9f3c076f0719,Devin Booker,1626164,1,3 Pointer,2021-01-04T01:00:00Z,2021-01-03,Cool Cats,Devin Booker 3 Pointer 2021-01-03 Cool Cats (Series 2),5000
+6fa60eb1-d1c3-4d4c-952c-fde0136e4c83,Tobias Harris,202699,12,Dunk,2021-01-03T00:00:00Z,2021-01-02,Cool Cats,Tobias Harris Dunk 2021-01-02 Cool Cats (Series 2),5000
