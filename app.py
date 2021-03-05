@@ -18,6 +18,7 @@ import datetime
 import plotly.express as px
 import math
 from dash.exceptions import PreventUpdate
+from scipy import interpolate
 
 def round_up(n, decimals=0):
     multiplier = 10 ** decimals
@@ -81,7 +82,9 @@ def get_listings(pid):
     return df
 
 
-def plot_listings(df, log_x=False):
+def plot_listings(df, pid, log_x=False):
+    
+    play_name = base.loc[base['id'] == pid]['play'].values[0]
     fig = go.Figure()
     fig.add_trace(go.Scatter(
     x=df['price'], y=df['serial'],
@@ -91,6 +94,16 @@ def plot_listings(df, log_x=False):
     '<b>Price</b>: $%{x}' +
     '<br><b>Serial</b> %{y}<br>'
     ))
+    # filtered_df = filter_listings(df)
+    # f = interpolate.interp1d(filtered_df['price'], filtered_df['serial'])
+    # fig.add_trace(go.Scatter(x=filtered_df['price'], 
+    #                          y=f(filtered_df['price']), 
+    #                          mode='lines',
+    #                          line=dict(color='lightsalmon')
+                             
+    #                          ),
+                             
+    #               )
     fig.update_layout(
         plot_bgcolor='#323130',
         paper_bgcolor='#323130'
@@ -106,7 +119,8 @@ def plot_listings(df, log_x=False):
         name='Jersey Number Serial'
         ))
     fig.update_layout(
-        font=dict(color='white')
+        font=dict(color='Orange'),
+        title='Listings for {}'.format(play_name)
     )
     fig.update_xaxes(showgrid=True, gridcolor='#E9F0DB', color='#E03A3E', title={'text': '<b>Price</b>'})
     fig.update_yaxes(showgrid=False, gridcolor='#E9F0DB', color='#E03A3E', title={'text': '<b>Serial</b>'})
@@ -364,6 +378,8 @@ app.layout = html.Div(children=[
               Input("moment-drop", "value")
 )
 def get_df(moment):
+    if not moment:
+        raise PreventUpdate
     df = get_listings(moment)
     return df.to_dict('records')
 
@@ -447,21 +463,22 @@ def get_histogram(selected_moment):
     Output('serial-output', 'children'),
     Output('price-output', 'children'),
     Input('player-df', 'data'),
+    Input('moment-drop', 'value'),
     Input('serial-slider', 'value'),
     Input('price-slider', 'value'),
     Input('filter', 'value')
     
 )
 
-def update_figure(selected_player, serial_range, price_range, filter_deals):
-    df = pd.DataFrame(selected_player)
+def update_figure(listings, selected_player, serial_range, price_range, filter_deals):
+    df = pd.DataFrame(listings)
     df = df.loc[(df.serial.between(*serial_range, inclusive=True)) & (df.price.between(*price_range, inclusive=True))]
     if 'filter' in filter_deals:
         df = filter_listings(df)
     if 'log' in filter_deals:
-         fig = plot_listings(df, True)
+         fig = plot_listings(df, selected_player, True)
     else:
-        fig = plot_listings(df)
+        fig = plot_listings(df, selected_player)
     low = df.loc[df.price == df.price.min(), ['price', 'serial']]
     low_ask = "Price: {}, Serial: {}".format(low.price.min(), low.serial.min())
     prange = 'You have selected ${}-${}'.format(*price_range)
