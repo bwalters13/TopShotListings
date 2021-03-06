@@ -237,10 +237,7 @@ app.layout = html.Div(children=[
                                            dcc.RangeSlider(
                                                 id='serial-slider',
                                                 min=0,
-                                                max=15000,
                                                 step=50,
-                                                marks={x:str(x)
-                                                       for x in range(0, 15001, 3000)},
                                                 value=[0,15000],
                                             
                                             ),
@@ -399,13 +396,10 @@ def get_df(moment):
     Input("moment-drop", "value")
 )
 def get_serial_max(moment):
-    if not moment:
-        raise PreventUpdate
     moment = moment.split(',')
     cc = base[(base['id'] == moment[0]) & (base['set id'] == moment[1])]['circ_count'].values[0]
     if cc == 0:
         raise PreventUpdate
-    cc = round_up(base[(base['id'] == moment[0]) & (base['set id'] == moment[1])]['circ_count'].values[0], -1)
     marks = {x: str(x) for x in range(0,cc, cc//5)}
     return cc, marks
 
@@ -437,9 +431,12 @@ def callback_price(input_value_min, input_value_max, slider_values):
     Input("serial-min-value", "value"),
     Input("serial-max-value", "value"),
     Input("serial-slider", "value"),
+    Input("moment-drop", "value")
 )
-def callback_serial(input_value_min, input_value_max, slider_values):
+def callback_serial(input_value_min, input_value_max, slider_values, moment):
     ctx = dash.callback_context
+    moment = moment.split(',')
+    cc = base[(base['id'] == moment[0]) & (base['set id'] == moment[1])]['circ_count'].values[0]
     trigger_id = ctx.triggered[0]["prop_id"].split(".")[0]
     if trigger_id == "serial-max-value":
         value = input_value_max
@@ -447,6 +444,8 @@ def callback_serial(input_value_min, input_value_max, slider_values):
     elif trigger_id == "serial-min-value":
         value = input_value_min
         return value, slider_values[1], [value, slider_values[1]]
+    elif trigger_id == 'moment-drop':
+        return slider_values[0], cc, [slider_values[0], cc]
     else:
         value = slider_values
         return slider_values[0], slider_values[1], slider_values
@@ -484,6 +483,8 @@ def get_histogram(selected_moment):
 )
 
 def update_figure(listings, selected_player, serial_range, price_range, filter_deals):
+    if not len(listings):
+        raise PreventUpdate
     df = pd.DataFrame(listings) 
     selected_player = selected_player.split(',')
     df = df.loc[(df.serial.between(*serial_range, inclusive=True)) & (df.price.between(*price_range, inclusive=True))]
