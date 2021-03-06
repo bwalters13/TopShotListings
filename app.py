@@ -35,9 +35,9 @@ def execute(query, url='https://api.nba.dapperlabs.com/marketplace/graphql'):
     js = json.loads(r.text)
     return js
 
-def get_listings(pid):    
+def get_listings(pid, sid):    
     query = """{
-      searchMintedMoments(input: {filters: {byForSale: FOR_SALE, byPlays: "%s"}, sortBy: PRICE_USD_ASC, searchInput: {pagination: {cursor: "", direction: RIGHT, limit: 1000}}}) {
+      searchMintedMoments(input: {filters: {byForSale: FOR_SALE, byPlays: "%s", bySets: "%s"}, sortBy: PRICE_USD_ASC, searchInput: {pagination: {cursor: "", direction: RIGHT, limit: 1000}}}) {
         data {
           searchSummary {
             data {
@@ -68,9 +68,11 @@ def get_listings(pid):
         }
       }
     }
-    """ % pid
+    """ % (pid, sid)
     js = execute(query)
     moment = js['data']['searchMintedMoments']['data']['searchSummary']['data']['data']
+    if not len(moment):
+        return pd.DataFrame()
     data = [[mo['play']['stats']['playerName'], mo['price'], mo['flowSerialNumber']] for mo in moment]
     df = pd.DataFrame(data, columns=['name', 'price', 'serial'])
     df['serial'] = df['serial'].astype(int) 
@@ -82,9 +84,9 @@ def get_listings(pid):
     return df
 
 
-def plot_listings(df, pid, log_x=False):
+def plot_listings(df, pid, sid, log_x=False):
     
-    play_name = base.loc[base['id'] == pid]['play'].values[0]
+    play_name = base.loc[(base['id'] == pid) & (base['set id'] == sid)]['play'].values[0]
     fig = go.Figure()
     fig.add_trace(go.Scatter(
     x=df['price'], y=df['serial'],
@@ -118,10 +120,17 @@ def plot_listings(df, pid, log_x=False):
         marker_color='#00ff00',
         name='Jersey Number Serial'
         ))
-    fig.update_layout(
+    if not df.empty:
+        fig.update_layout(
         font=dict(color='Orange'),
         title='Listings for {}'.format(play_name)
-    )
+        )
+    else:
+        fig = go.Figure()
+        fig.update_layout(
+            title='No Listings for {}'.format(play_name)
+        )
+        return fig
     fig.update_xaxes(showgrid=True, gridcolor='#E9F0DB', color='#E03A3E', title={'text': '<b>Price</b>'})
     fig.update_yaxes(showgrid=False, gridcolor='#E9F0DB', color='#E03A3E', title={'text': '<b>Serial</b>'})
     fig.update_xaxes(showline=True, linewidth=2, linecolor='#000000', mirror=True, nticks=10)
@@ -203,10 +212,10 @@ app.layout = html.Div(children=[
                                         id='moment-drop',
                                         style={'color':'white'},
                                         options=[
-                                            {'label': y['play'], 'value': y['id']}
+                                            {'label': y['play'], 'value': y['id']+ ',' + y['set id']}
                                             for _, y in base.iterrows()
                                         ],
-                                        value="03acc4a7-9301-46a2-8fb9-75affab7ee59",
+                                        value="03acc4a7-9301-46a2-8fb9-75affab7ee59" +  ",ad8e85a4-2240-4604-95f6-be826966d988",
                                         optionHeight=80
                                         
                                     )
@@ -277,7 +286,7 @@ app.layout = html.Div(children=[
                                                 step=50,
                                                 marks={x:str(x)
                                                        for x in range(0, 50001, 10000)},
-                                                value=[0,15000]
+                                                value=[0,1000000]
                                             
                                             ),
                                            dcc.Input(id='price-max-value', size='10', type='number', placeholder='Max')
@@ -380,7 +389,7 @@ app.layout = html.Div(children=[
 def get_df(moment):
     if not moment:
         raise PreventUpdate
-    df = get_listings(moment)
+    df = get_listings(*moment.split(','))
     return df.to_dict('records')
 
 
@@ -392,7 +401,11 @@ def get_df(moment):
 def get_serial_max(moment):
     if not moment:
         raise PreventUpdate
-    cc = round_up(base[base['id'] == moment]['circ_count'].values[0], -1)
+    moment = moment.split(',')
+    cc = base[(base['id'] == moment[0]) & (base['set id'] == moment[1])]['circ_count'].values[0]
+    if cc == 0:
+        raise PreventUpdate
+    cc = round_up(base[(base['id'] == moment[0]) & (base['set id'] == moment[1])]['circ_count'].values[0], -1)
     marks = {x: str(x) for x in range(0,cc, cc//5)}
     return cc, marks
 
@@ -471,16 +484,15 @@ def get_histogram(selected_moment):
 )
 
 def update_figure(listings, selected_player, serial_range, price_range, filter_deals):
-    df = pd.DataFrame(listings)
-    if df.empty:
-        raise PreventUpdate
+    df = pd.DataFrame(listings) 
+    selected_player = selected_player.split(',')
     df = df.loc[(df.serial.between(*serial_range, inclusive=True)) & (df.price.between(*price_range, inclusive=True))]
     if 'filter' in filter_deals:
         df = filter_listings(df)
     if 'log' in filter_deals:
-         fig = plot_listings(df, selected_player, True)
-    else:
-        fig = plot_listings(df, selected_player)
+         fig = plot_listings(df, *selected_player, True)
+    elif listings:
+        fig = plot_listings(df, *selected_player)
     low = df.loc[df.price == df.price.min(), ['price', 'serial']]
     low_ask = "Price: {}, Serial: {}".format(low.price.min(), low.serial.min())
     prange = 'You have selected ${}-${}'.format(*price_range)
