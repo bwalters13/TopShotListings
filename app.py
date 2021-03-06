@@ -472,6 +472,8 @@ def get_histogram(selected_moment):
 
 def update_figure(listings, selected_player, serial_range, price_range, filter_deals):
     df = pd.DataFrame(listings)
+    if df.empty:
+        raise PreventUpdate
     df = df.loc[(df.serial.between(*serial_range, inclusive=True)) & (df.price.between(*price_range, inclusive=True))]
     if 'filter' in filter_deals:
         df = filter_listings(df)
