@@ -18,7 +18,7 @@ import datetime
 import plotly.express as px
 import math
 from dash.exceptions import PreventUpdate
-import dash_daq as daq
+
 #from scipy import interpolate
 
 def round_up(n, decimals=0):
@@ -303,14 +303,6 @@ app.layout = html.Div(children=[
         className="eight columns div-for-charts bg-grey",
         children=[
             dcc.Graph(id='player-graph'),
-            daq.BooleanSwitch(
-                id='switch',
-                on=False,
-                label='Filter Listings',
-                labelPosition='bottom',
-                color="#9B51E0",
-                
-            ),
             dcc.Checklist(
                 id='filter',
                 options=[
@@ -487,19 +479,16 @@ def get_histogram(selected_moment):
     Input('moment-drop', 'value'),
     Input('serial-slider', 'value'),
     Input('price-slider', 'value'),
-    Input('filter', 'value'),
-    Input('switch','on')
+    Input('filter', 'value')
     
 )
 
-def update_figure(listings, selected_player, serial_range, price_range, filter_deals, switch):
+def update_figure(listings, selected_player, serial_range, price_range, filter_deals):
     if not len(listings):
         raise PreventUpdate
     df = pd.DataFrame(listings) 
     selected_player = selected_player.split(',')
     df = df.loc[(df.serial.between(*serial_range, inclusive=True)) & (df.price.between(*price_range, inclusive=True))]
-    if switch:
-        df = filter_listings(df)
     if 'filter' in filter_deals:
         df = filter_listings(df)
     if 'log' in filter_deals:
