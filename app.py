@@ -239,7 +239,7 @@ app.layout = html.Div(children=[
                                                 id='serial-slider',
                                                 min=0,
                                                 step=50,
-                                                value=[0,15000],
+                                                value=[0,35000],
                                             
                                             ),
                                            dcc.Input(id='serial-max-value', size='10', type='number', placeholder='Max')
