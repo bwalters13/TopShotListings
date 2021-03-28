@@ -36,53 +36,33 @@ def execute(query, url='https://api.nba.dapperlabs.com/marketplace/graphql'):
     js = json.loads(r.text)
     return js
 
-def get_listings(pid, sid):    
+def get_listings(pid, sid):
     query = """{
-      searchMintedMoments(input: {filters: {byForSale: FOR_SALE, byPlays: "%s", bySets: "%s"}, sortBy: PRICE_USD_ASC, searchInput: {pagination: {cursor: "", direction: RIGHT, limit: 1000}}}) {
-        data {
-          searchSummary {
-            data {
-              size
-              ... on MintedMoments {
-                data {
-                  id
-                  price
-                  flowId
-                  flowSerialNumber
-                  owner {
-                    dapperID
-                  }
-                  play {
-                    stats {
-                      playerName
-                      jerseyNumber
-                    }
-                  }
-                  setPlay {
-                    setID
-                    playID
-                  }
-                }
-              }
+      getUserMomentListings(input:{playID: "%s", setID: "%s"}){
+        data{
+          play{
+              stats{playerName, jerseyNumber}
+          }
+          momentListings{
+            price
+            moment{
+              flowSerialNumber
             }
           }
         }
       }
-    }
-    """ % (pid, sid)
+    }""" % (pid, sid)
     js = execute(query)
-    moment = js['data']['searchMintedMoments']['data']['searchSummary']['data']['data']
-    if not len(moment):
-        return pd.DataFrame()
-    data = [[mo['play']['stats']['playerName'], mo['price'], mo['flowSerialNumber']] for mo in moment]
-    df = pd.DataFrame(data, columns=['name', 'price', 'serial'])
-    df['serial'] = df['serial'].astype(int) 
-    df['price'] = df['price'].apply(lambda x: int(x.split('.')[0]))
-    df['jersey'] = int(jersey_num(pid))
-    df['jersey_serial'] = 0
-    if df['jersey'].values[0] in df.serial:
-        df.loc[df.serial == df['jersey'].values[0], 'jersey_serial'] = 1
-    return df
+    k = pd.json_normalize(js, record_path=['data', 'getUserMomentListings', 'data', 'momentListings'])
+    k.columns = ['price', 'serial']
+    k['serial'] = k['serial'].astype(int)
+    k['name'] = js['data']['getUserMomentListings']['data']['play']['stats']['playerName']
+    k['price'] = k['price'].apply(lambda x: int(x.split('.')[0]))
+    k['jersey'] = js['data']['getUserMomentListings']['data']['play']['stats']['jerseyNumber'] 
+    k['jersey_serial'] = 0
+    if k['jersey'].values[0] in k.serial:
+        k.loc[k.serial == k['jersey'].values[0], 'jersey_serial'] = 1
+    return k
 
 
 def plot_listings(df, pid, sid, log_x=False):
