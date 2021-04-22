@@ -32,7 +32,12 @@ def round_up(n, decimals=0):
 
 
 def execute(query, url='https://api.nba.dapperlabs.com/marketplace/graphql'):    
-    r = requests.post(url, json={'query':query})
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0',
+        'From': 'blakewalterss@gmail.com'  # This is another valid field
+    }
+    print(headers)
+    r = requests.post(url, json={'query':query}, headers=headers)
     js = json.loads(r.text)
     return js
 
