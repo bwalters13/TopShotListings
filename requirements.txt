@@ -1,9 +1,9 @@
 pandas==2.0.3
-dash_html_components==1.1.2
+dash_html_components==2.0.0
 requests==2.25.1
 plotly==4.13.0
-dash_core_components==1.15.0
-dash==1.19.0
+dash_core_components==2.0.0
+dash==2.3.0
 numpy==1.25.2
 Flask>=2.2.2
 Flask-Compress==1.4.0
