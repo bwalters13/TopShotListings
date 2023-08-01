@@ -473,7 +473,7 @@ def update_figure(listings, selected_player, serial_range, price_range, filter_d
         raise PreventUpdate
     df = pd.DataFrame(listings) 
     selected_player = selected_player.split(',')
-    df = df.loc[(df.serial.between(*serial_range, inclusive=True)) & (df.price.between(*price_range, inclusive=True))]
+    df = df.loc[(df.serial.between(*serial_range, inclusive='both')) & (df.price.between(*price_range, inclusive='both'))]
     if 'filter' in filter_deals:
         df = filter_listings(df)
     if 'log' in filter_deals:
